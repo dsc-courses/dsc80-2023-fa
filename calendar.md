@@ -8,7 +8,7 @@ nav_order: 3
 # 📆 Calendar
 
 
-Lectures and discussions (<span style="color:blue"><b>blue</b></span>) are both held in [Mandeville Auditorium B-210](https://goo.gl/maps/UWGdwHx3RbMh6PAa7).
+Lectures (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall 216] (https://www.google.com/maps/place/Center+Hall/@32.8767436,-117.2368927,17z/data=!4m12!1m5!3m4!2zMzLCsDUyJzQ4LjQiTiAxMTfCsDE0JzMxLjIiVw!8m2!3d32.8801111!4d-117.242!3m5!1s0x80dc06c43a8ab30b:0xd7aa5719af666fb!8m2!3d32.8775468!4d-117.2374084!16s%2Fg%2F1q6jj7xsd?entry=ttu). Discussions are held in [Center Hall 212].
 
 In-person office hours (<span style="color:purple"><b>purple</b></span>) are
 held on the second floor of the east wing of the [San Diego Supercomputer Center](https://g.page/SDSC_UCSanDiego?share). Enter SDSC from the east
