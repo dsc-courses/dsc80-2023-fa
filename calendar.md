@@ -11,7 +11,7 @@ nav_order: 3
 Lectures (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall 216](https://www.google.com/maps/place/Center+Hall/@32.8767436,-117.2368927,17z/data=!4m12!1m5!3m4!2zMzLCsDUyJzQ4LjQiTiAxMTfCsDE0JzMxLjIiVw!8m2!3d32.8801111!4d-117.242!3m5!1s0x80dc06c43a8ab30b:0xd7aa5719af666fb!8m2!3d32.8775468!4d-117.2374084!16s%2Fg%2F1q6jj7xsd?entry=ttu). Discussions (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall 212](https://www.google.com/maps/place/Center+Hall/@32.8767436,-117.2368927,17z/data=!4m12!1m5!3m4!2zMzLCsDUyJzQ4LjQiTiAxMTfCsDE0JzMxLjIiVw!8m2!3d32.8801111!4d-117.242!3m5!1s0x80dc06c43a8ab30b:0xd7aa5719af666fb!8m2!3d32.8775468!4d-117.2374084!16s%2Fg%2F1q6jj7xsd?entry=ttu).
 
 In-person office hours (<span style="color:purple"><b>purple</b></span>) are
-held on the new Data Science building [Halıcıoğlu Data Science Institute 155](https://www.google.com/maps/place/Hal%C4%B1c%C4%B1o%C4%9Flu+Data+Science+Institute/@32.8805676,-117.2363991,17z/data=!3m2!4b1!5s0x80dc06c1dfc237df:0x2baefc1d5cbb43f3!4m6!3m5!1s0x80dc06c1fb192bcb:0x94d4894527b99b21!8m2!3d32.8805631!4d-117.2338242!16s%2Fg%2F11f4_xtk0f?entry=ttu). 
+held in the new HDSI building [Halıcıoğlu Data Science Institute Room 155](https://www.google.com/maps/place/Hal%C4%B1c%C4%B1o%C4%9Flu+Data+Science+Institute/@32.8805676,-117.2363991,17z/data=!3m2!4b1!5s0x80dc06c1dfc237df:0x2baefc1d5cbb43f3!4m6!3m5!1s0x80dc06c1fb192bcb:0x94d4894527b99b21!8m2!3d32.8805631!4d-117.2338242!16s%2Fg%2F11f4_xtk0f?entry=ttu). 
 
 Remote office hours (<span style="color:orange"><b>orange</b></span>) are held on Zoom at [**this link**](https://ucsd.zoom.us/j/93267432269).
 
