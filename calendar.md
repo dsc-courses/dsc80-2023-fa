@@ -16,4 +16,4 @@ held on the new Data Science building [Halıcıoğlu Data Science Institute 155]
 Remote office hours (<span style="color:orange"><b>orange</b></span>) are held on Zoom at [**this link**](https://ucsd.zoom.us/j/93267432269).
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y180MmNmZTA5ZGExMDNlZDZmNTg3NzljMTAxMzMyYjcxZTdkY2Y2MTVmZjc1MGI3NGUxN2NhYmEwNmNlMTRlZjAyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23616161" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showTz=1&src=Y180MmNmZTA5ZGExMDNlZDZmNTg3NzljMTAxMzMyYjcxZTdkY2Y2MTVmZjc1MGI3NGUxN2NhYmEwNmNlMTRlZjAyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%233F51B5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
