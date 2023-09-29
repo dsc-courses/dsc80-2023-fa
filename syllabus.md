@@ -159,7 +159,7 @@ To summarize all of the events and deadlines, refer to this general weekly sched
 | --- | --- | --- | --- | --- | --- | --- |
 | | | Lecture | | Lecture | | |
 | | | | | | Discussion | | |
-| | <span style='color:red'><b>Lab due</b></span> | | | <span style='color:red'><b>Project/checkpoint due</b></span> | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> |
+| | <span style='color:red'><b>Lab due</b></span> | | <span style='color:red'><b>Project/checkpoint due</b></span> | | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> |
 
 ---
 
