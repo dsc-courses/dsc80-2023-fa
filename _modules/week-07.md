@@ -24,7 +24,7 @@ days:
     title: Modeling and Regression
 - date: '2023-11-17'
   events:
-  - name: DISC 7
+  - name: DISC 6
     type: disc
     title: Lab 6 Reflection
 ---

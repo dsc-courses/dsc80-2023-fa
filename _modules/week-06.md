@@ -19,7 +19,5 @@ days:
     title: Parsing HTML, Regular Expressions
 - date: '2023-11-10'
   events:
-  - name: DISC 6
-    type: disc
-    title: Lab 5 Reflection
+  - markdown_content: 'NO DISCUSSION: Veteran''s Day'
 ---

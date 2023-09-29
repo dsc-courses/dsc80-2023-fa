@@ -22,7 +22,5 @@ days:
   - markdown_content: 'NO LECTURE: Thanksgiving break'
 - date: '2023-11-24'
   events:
-  - name: DISC 8
-    type: disc
-    title: Lab 7 Reflection
+  - markdown_content: 'NO DISCUSSION: Thanksgiving break'
 ---

@@ -24,7 +24,7 @@ days:
     title: Regression Evaluation, Cross-Validation
 - date: '2023-12-01'
   events:
-  - name: DISC 9
+  - name: DISC 7
     type: disc
     title: Lab 8 Reflection
 ---

@@ -19,7 +19,7 @@ days:
     title: Classifier Evaluation, Fairness Criteria, Conclusion
 - date: '2023-12-08'
   events:
-  - name: DISC 10
+  - name: DISC 8
     type: disc
     title: Lab 9 Reflection
 ---

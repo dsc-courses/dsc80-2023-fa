@@ -56,9 +56,9 @@ def melt_into_events(df):
 
 
 def mark_canceled_lectures_and_exams(
-    df, no_lecture_prefix="NO LECTURE", exam_substring="Exam"
+    df, cancelled_prefix="NO ", exam_substring="Exam"
 ):
-    canceled = df["title"].str.startswith(no_lecture_prefix)
+    canceled = df["title"].str.startswith(cancelled_prefix)
     exams = df["title"].str.contains(exam_substring)
     marked_events = (
         df["event_type"].mask(canceled, "Canceled").mask(exams, "Exam")
