@@ -72,7 +72,7 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 ### Lectures
 
-Lectures will be held in-person on Mondays, Wednesdays, and Fridays from 12-12:50PM in [Mandeville Auditorium B-210]. Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
+Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in [Center Hall 216]. Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
 
 Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-sp](https://github.com/dsc-courses/dsc80-2023-sp). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
 
@@ -80,7 +80,7 @@ There is also a set of notes written by Aaron Fraenkel for this course that can 
 
 ### Discussions and Lab Reflections
 
-Starting in Week 2, discussions will be held in-person on Wednesdays from 5-5:50PM in [Mandeville Auditorium B-210], the same room as lecture. Discussion sections will be podcasted.
+Starting in Week 2, discussions will be held in-person on Friday from 10-10:50AM in [Center Hall 212]. Discussion sections will be podcasted.
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
@@ -88,7 +88,7 @@ Therefore, in discussion sections on Wednesdays, we will take up solutions to a 
 
 To encourage you to attend and reflect, we will offer extra credit to those who do **all 3** of the following:
 1. Submit the lab.
-1. Attend discussion section in-person on Wednesday.
+1. Attend discussion section in-person on Friday.
 1. Satisfactorily complete a **Lab Reflection** form for the lab that was taken up in discussion by **Saturday** at 11:59PM. The reflection form, hosted on Gradescope, will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
 
 Since there are 9 labs, there will be 9 lab reflections and 9 discussion sections in which we take up lab solutions. For each lab **that you submit**, if you attend the corresponding discussion section **and** complete the lab reflection form, you will receive 0.3% of extra credit added to your overall grade. This can add up to 0.3% * 9 = **2.7%** of extra credit for your overall grade.
