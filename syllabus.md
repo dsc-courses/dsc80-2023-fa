@@ -36,11 +36,11 @@ The course website, [dsc80.com](https://dsc80.com), will contain links to all co
 
 You'll need to make accounts on the following sites:
 
-- **Ed:** We’ll be using Ed as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn’t already get an invitation to our Ed course, [sign up here](https://edstem.org/us/join/vMwSgC).
+- **Ed:** We’ll be using Ed as our course message and discussion board. More details are in the [Communication](#communication-) section below. If you didn’t already get an invitation to our Ed course, [sign up here](https://edstem.org/us/join/NfMDxv).
 
-- **Gradescope:** You’ll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/526127). This is where all of your grades will live as well. Most of the assignments will be coding assignments. Parts of these assignments will be manually graded, but most of them will be autograded. You should have received an email invitation for Gradescope, but if not please let us know as soon as possible (preferably via Ed).
+- **Gradescope:** You’ll submit all assignments and exams to [Gradescope](https://www.gradescope.com/courses/625393). This is where all of your grades will live as well. Most of the assignments will be coding assignments. Parts of these assignments will be manually graded, but most of them will be autograded. You should have received an email invitation for Gradescope, but if not please let us know as soon as possible (preferably via Ed).
 
-- **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture slides and assignments) by _pulling_ our course GitHub repository. That repo is here: [github.com/dsc-courses/dsc80-2023-sp](https://github.com/dsc-courses/dsc80-2023-sp). In most assignments, you won't need to _push_ anything to GitHub, however in Projects 3 and 5 you will, and so you'll need to have an account by then.
+- **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture slides and assignments) by _pulling_ our course GitHub repository. That repo is here: [github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa). In most assignments, you won't need to _push_ anything to GitHub, however in Projects 3 and 5 you will, and so you'll need to have an account by then.
 
 - **Zoom (optional):** To access remote office hours, if you'd like.
 
