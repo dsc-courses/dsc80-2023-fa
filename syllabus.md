@@ -157,8 +157,8 @@ To summarize all of the events and deadlines, refer to this general weekly sched
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | --- | --- | --- | --- | --- | --- | --- |
-| | Lecture | | Lecture | | Lecture | |
-| | | | Discussion | | |
+| | | Lecture | | Lecture | | |
+| | | | | | Discussion | | |
 | | <span style='color:red'><b>Lab due</b></span> | | | <span style='color:red'><b>Project/checkpoint due</b></span> | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> |
 
 ---
@@ -167,9 +167,9 @@ To summarize all of the events and deadlines, refer to this general weekly sched
 
 This class has one Midterm Exam and one Final Exam. Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Friday, May 5th, 12-12:50PM, Mandeville Auditorium B-210 (during lecture)
+- **Midterm Exam**: Thursday, November 2nd, 3:30-4:50PM, Center Hall 216 (during lecture)
 
-- **Final Exam:** Wednesday, June 14th, 11:30AM-2:30PM, location TBD
+- **Final Exam:** Monday, December 11th, 3:00-6:00PM, location TBD
 
 **Both exams will be administered in-person**. If you have conflicts with either of the exams, please let us know on the [Welcome Survey](https://forms.gle/fGSiAAAzSQteLqvn9).
 
