@@ -74,7 +74,7 @@ Course staff will regularly check Ed and try to answer any questions that you ha
 
 Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in [Center Hall 216]. Attendance is not required, **though you are encouraged to attend in-person if you are able to**. Lectures will be podcasted.
 
-Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-sp](https://github.com/dsc-courses/dsc80-2023-sp). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
+Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
 
 There is also a set of notes written by Aaron Fraenkel for this course that can be found at [notes.dsc80.com](https://notes.dsc80.com), though they are a work in progress.
 
@@ -128,7 +128,7 @@ ensure that you\'re on-track to complete the project on time, and should
 
 The last project, Project 5, will be due during finals week, and can be thought of as a practical component of the Final Exam.
 
-Note that, unlike labs, the lowest project score is not dropped. Projects will typically be released on Saturdays and due on **Thursdays** at 11:59PM, though this will certainly change for a few projects.
+Note that, unlike labs, the lowest project score is not dropped. Projects will typically be released on Saturdays and due on **Wednesday** at 11:59PM, though this will certainly change for a few projects.
 
 **Working in Pairs**
 
