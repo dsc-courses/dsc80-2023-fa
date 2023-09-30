@@ -17,5 +17,5 @@ clean: ## Removes generated files
 push: ## pushes changes
 	git add -A
 	git commit -m "Update $(TODAY)" --allow-empty
-	git pull origin main
-	git push origin main
+	git pull origin gh-pages
+	git push origin gh-pages
