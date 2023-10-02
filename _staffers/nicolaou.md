@@ -1,6 +1,6 @@
 ---
 name: Giorgia Nicolaou
-role: Tutor
+role: TA
 pronouns: she/her
 email: gnicolaou@ucsd.edu
 photo: assets/images/giorgia.png
