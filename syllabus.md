@@ -52,7 +52,7 @@ As soon as you are able to, go follow the steps in the [Tech Support](../tech_su
 
 ### Forms
 
-Please fill out the [Welcome Survey](https://forms.gle/fGSiAAAzSQteLqvn9) to tell us a bit more about yourself and tell us if you need an alternate exam.
+Please fill out the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLScGBRJrHxMPa8ix46FFDPxn9UhQoVhWOKMQ41ZTypWoj_OEAA/viewform?usp=sf_link) to tell us a bit more about yourself and tell us if you need an alternate exam.
 
 ---
 
@@ -84,7 +84,7 @@ Starting in Week 2, discussions will be held in-person on Friday from 10-10:50AM
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
-Therefore, in discussion sections on Wednesdays, we will take up solutions to a _subset_ of the lab that was due that Monday (2 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
+Therefore, in discussion sections on Friday, we will take up solutions to a _subset_ of the lab that was due that Monday (2 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
 
 To encourage you to attend and reflect, we will offer extra credit to those who do **all 3** of the following:
 1. Submit the lab.
