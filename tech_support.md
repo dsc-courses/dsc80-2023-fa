@@ -73,18 +73,18 @@ packages.
 - **1. Create a `requirements.txt` file with the following text:**
 
 ```
-matplotlib==3.4.3
+matplotlib==3.5.1
 numpy==1.21.2
 otter-grader==3.1.4
 notebook==6.4.12
 pandas==1.3.3
 Pillow==8.3.2
 pydantic==1.8.2
-PyYAML==5.4.1
+PyYAML==6.0.1
 requests==2.26.0
 tqdm==4.62.3
 urllib3==1.26.7
-scikit-learn==1.0
+scikit-learn==1.0.2
 seaborn==0.11.2
 beautifulsoup4==4.10.0
 ```
