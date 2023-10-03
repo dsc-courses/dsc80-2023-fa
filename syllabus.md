@@ -2,25 +2,26 @@
 layout: page
 title: 📖 Syllabus
 description: >-
-    Course policies and information.
+  Course policies and information.
 nav_order: 2
 ---
 
 # 📖 Syllabus
+
 {:.no_toc}
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
-
 ## About 🧐
 
-DSC 80 serves as a bridge between lower-division and upper-division data science courses. In DSC 80, students will gain proficiency with the data science life cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems. 
+DSC 80 serves as a bridge between lower-division and upper-division data science courses. In DSC 80, students will gain proficiency with the data science life cycle and learn many of the fundamental principles and techniques of data science spanning algorithms, statistics, machine learning, visualization, and data systems.
 
 After DSC 80, students will be prepared for data science internships and interviews, will have the tools to create their own data science portfolios, and will have the maturity necessary to succeed in upper-division machine learning and statistics courses.
 
@@ -76,24 +77,26 @@ Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in [Cen
 
 Lecture notebooks will be your main resource in this class. You can access them, along with all course materials, by pulling from the course GitHub repository, [github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa). We will also link HTML previews of each lecture notebook from the course homepage; you can use these to annotate the lecture notebooks with a tablet, if you'd like.
 
-There is also a set of notes written by Aaron Fraenkel for this course that can be found at [notes.dsc80.com](https://notes.dsc80.com), though they are a work in progress.
+The course textbook is called _Learning Data Science_ and is available online via your UCSD O'Reilly library subscription or at [https://learningds.org/]().
 
 ### Discussions and Lab Reflections
 
-Starting in Week 2, discussions will be held in-person on Friday from 10-10:50AM in [Center Hall 212]. Discussion sections will be podcasted.
+Starting in Week 1, discussions will be held in-person on Friday from 10-10:50AM in [Center Hall 212]. Discussion sections will be podcasted.
 
 You'll spend the vast majority of your time in this course on [labs](#labs) and [projects](#projects), which you'll read more about in the sections below. The labs you complete each week will give you hands-on practice with the tools and techniques introduced in lectures. While completing the labs is important, it's also important to _reflect_ on your lab work once grades are released, and think about how you could have approached problems differently (e.g. more efficiently).
 
-Therefore, in discussion sections on Friday, we will take up solutions to a _subset_ of the lab that was due that Monday (4 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
+Therefore, in discussion sections on Friday, we discuss solutions to a _subset_ of the lab that was due that Monday (4 days **before** discussion). When you attend, you'll have a chance to discuss your implementation with course staff and hear how others attempted the problems. Hopefully, you'll leave with a stronger understanding of the learning objectives of the lab.
 
 To encourage you to attend and reflect, we will offer extra credit to those who do **all 3** of the following:
+
 1. Submit the lab.
 1. Attend discussion section in-person on Friday.
 1. Satisfactorily complete a **Lab Reflection** form for the lab that was taken up in discussion by **Friday** at 11:59PM. The reflection form, hosted on Gradescope, will ask you to comment on how your answers compared to the solution and how you could've approached the problems differently (even if you received full credit on the problems that were taken up).
 
-Since there are 9 labs, there will be 9 lab reflections and 9 discussion sections in which we take up lab solutions. For each lab **that you submit**, if you attend the corresponding discussion section **and** complete the lab reflection form, you will receive 0.3% of extra credit added to your overall grade. This can add up to 0.3% * 9 = **2.7%** of extra credit for your overall grade.
+Since there are 8 labs, there will be 8 lab reflections and 8 discussion sections in which we take up lab solutions. For each lab **that you submit**, if you attend the corresponding discussion section **and** complete the lab reflection form, you will receive 0.25% of extra credit added to your overall grade. This can add up to 0.25% \* 8 = **2%** of extra credit for your overall grade.
 
 Note that:
+
 - To earn extra credit for a particular lab, you must submit the lab, attend discussion, **and** complete the reflection form to receive the EC. If you fail to do all 3 of these things, you won't receive extra credit.
 - We will be manually grading the Lab Reflection forms for completion. In order to receive credit, you'll need to provide meaningful responses. Simply saying "I could've made my code more efficient" is not enough to receive credit – what was suboptimal about your implementation? What benefits and drawbacks are there to the solutions you heard in discussion?
 
@@ -103,11 +106,11 @@ There will be **9 lab assignments** due weekly throughout the
 quarter. Each lab assignment will consist of a mixture of coding and free
 response questions. Coding questions will ask you to fill in the body of
 a function. Public tests are usually provided so that you can make sure that
-you\'re on the right track (*similar to* DSC 20), however, your submission
+you\'re on the right track (_similar to_ DSC 20), however, your submission
 will be graded using a private autograder with hidden tests.
 
 Each lab is worth the same amount, but the lowest lab will be dropped
-when calculating your final score. Labs will typically be released on Tuesdays and due on **Mondays** at 11:59PM (except in holiday weeks, in which case they'll be due on Wednesdays at 4PM).
+when calculating your final score. Labs will be released on Tuesdays and due on **Mondays** at 11:59PM.
 
 You will access labs (and projects) by pulling the course GitHub repository.
 
@@ -118,17 +121,17 @@ quarter. Like labs, projects consist of coding and free response
 questions. As their name implies, however, projects are more open-ended
 and allow you to simulate applying your data science skills in practical
 situations. You can think of the projects as being mini-take-home-exams
-that track your *practical* skills throughout the quarter (whereas the
+that track your _practical_ skills throughout the quarter (whereas the
 exams themselves test for conceptual understanding).
 
-Projects are due bi-weekly. However, the week *before* a project is due,
-there will often be a *project checkpoint*. This checkpoint will
+Projects are due bi-weekly. However, the week _before_ a project is due,
+there will often be a _project checkpoint_. This checkpoint will
 ensure that you\'re on-track to complete the project on time, and should
 (hopefully) be a source of easy points.
 
 The last project, Project 5, will be due during finals week, and can be thought of as a practical component of the Final Exam.
 
-Note that, unlike labs, the lowest project score is not dropped. Projects will typically be released on Saturdays and due on **Wednesday** at 11:59PM, though this will certainly change for a few projects.
+Note that, unlike labs, the lowest project score is not dropped. Projects will be released on Tuesdays and due on **Wednesday** at 11:59PM.
 
 **Working in Pairs**
 
@@ -137,6 +140,7 @@ You may work together on projects (and projects only!) with a partner. If you wo
 In particular, you **cannot** split up the project and each work on separate parts independently.
 
 If you work with a partner:
+
 - Only one partner needs to submit the project on Gradescope; this partner should add the other partner to their submission.
 - You must also submit the checkpoint together.
 - You and your partner will receive the same score on any submissions you make together.
@@ -155,11 +159,11 @@ To get help on assignments and concepts, course staff will be hosting several of
 
 To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
 
-| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| --- | --- | --- | --- | --- | --- | --- |
-| | | Lecture | | Lecture | | |
-| | | | | | Discussion | | |
-| | <span style='color:red'><b>Lab due</b></span> | | <span style='color:red'><b>Project/checkpoint due</b></span> | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> | |
+| Sunday | Monday                                        | Tuesday | Wednesday                                                    | Thursday | Friday                                                                  | Saturday |
+| ------ | --------------------------------------------- | ------- | ------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | -------- | --- |
+|        |                                               | Lecture |                                                              | Lecture  |                                                                         |          |
+|        |                                               |         |                                                              |          | Discussion                                                              |          |     |
+|        | <span style='color:red'><b>Lab due</b></span> |         | <span style='color:red'><b>Project/checkpoint due</b></span> |          | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> |          |
 
 ---
 
@@ -175,7 +179,7 @@ This class has one Midterm Exam and one Final Exam. Exams are cumulative, though
 
 ### Redemption Policy
 
-The Final Exam will consist of two parts: a “Midterm” section and a “post-Midterm” section. If you do better on the “Midterm” section of the Final Exam than you did on the original Midterm Exam, your score on the “Midterm” section will replace your original Midterm Exam score. This lowers the stakes of the Midterm Exam and gives you two opportunities to demonstrate your understanding of the content from the first half of the course. This also means that you can miss the Midterm Exam for any reason and have the score be replaced by your score on the “Midterm” section of the Final Exam (though we do not recommend this). 
+The Final Exam will consist of two parts: a “Midterm” section and a “post-Midterm” section. If you do better on the “Midterm” section of the Final Exam than you did on the original Midterm Exam, your score on the “Midterm” section will replace your original Midterm Exam score. This lowers the stakes of the Midterm Exam and gives you two opportunities to demonstrate your understanding of the content from the first half of the course. This also means that you can miss the Midterm Exam for any reason and have the score be replaced by your score on the “Midterm” section of the Final Exam (though we do not recommend this).
 
 **You must take the Final Exam to pass the course.**
 
@@ -187,16 +191,16 @@ The Final Exam will consist of two parts: a “Midterm” section and a “post-
 
 Here is how we'll compute your grade:
 
-| Component | Weight | Notes |
-| --- | --- | --- |
-| Labs | 30% | 3.75% per lab, lowest dropped |
-| Projects | 35% | 7% per project, no drops |
-| Project Checkpoints | 5% | 1% per project, no drops* |
-| Midterm Exam | 10% | see the Redemption Policy above |
-| Final Exam | 20% | |
-| Discussion Attendance + Lab Reflections | 2.7% (extra credit) | 0.3% per lab |
+| Component                               | Weight              | Notes                           |
+| --------------------------------------- | ------------------- | ------------------------------- |
+| Labs                                    | 30%                 | 3.75% per lab, lowest dropped   |
+| Projects                                | 35%                 | 7% per project, no drops        |
+| Project Checkpoints                     | 5%                  | 1% per project, no drops\*      |
+| Midterm Exam                            | 10%                 | see the Redemption Policy above |
+| Final Exam                              | 20%                 |                                 |
+| Discussion Attendance + Lab Reflections | 2.7% (extra credit) | 0.3% per lab                    |
 
-*Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects 3 and 5 will automatically receive the 1% checkpoint credit.
+\*Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects 3 and 5 will automatically receive the 1% checkpoint credit.
 
 ### Late Policy, Slip Days, and Drops
 
@@ -217,7 +221,7 @@ Slip days are designed to be a transparent and predictable source of leniency in
 Most of the labs and projects are autograded, but some questions are
 manually graded. If you feel that there in an error in the autograder or
 that the manual grader has made a mistake, you may submit a regrade
-request within **one week** of the grades being released. If you do not submit a regrade request within one week, your original grade will be final.
+request within **three days** of the grades being released. If you do not submit a regrade request within three days, your original grade will be final.
 
 **Regrade Requests for Manually Graded Problems**
 
@@ -248,9 +252,7 @@ a later date, you have some options:
     mechanism to submit an assignment late.
 2.  If it is past the late deadline **and** your code requires only
     minor fixes (e.g., the file name is wrong) we will fix your code at
-    the cost of **2** slip days. Note that these slip days are in addition to any slip days you already used on the assignment. You can submit a catastrophe regrade request the same way you submit a regular autograder regrade request, by filling out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfIOesLhFY7ZWUDKrEdINZ6_UlxOExOwOoW46MwVlr2dL2lDA/viewform). 
-
-
+    the cost of **2** slip days. Note that these slip days are in addition to any slip days you already used on the assignment. You can submit a catastrophe regrade request the same way you submit a regular autograder regrade request, by filling out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfIOesLhFY7ZWUDKrEdINZ6_UlxOExOwOoW46MwVlr2dL2lDA/viewform).
 
 ### Incompletes
 
@@ -275,15 +277,17 @@ DSC 80 is known for being a rigorous but rewarding course. While you will be cha
 There is no excuse for cheating in this course. If you do cheat, we will enforce the [UCSD Policy on Integrity of Scholarship](https://senate.ucsd.edu/Operating-Procedures/Senate-Manual/Appendices/2). This means you will likely fail the course and the Dean of your college will put you on probation or suspend or dismiss you from UCSD. Students agree that by taking this course, their assignments may be submitted to third-party software to help detect plagiarism.
 
 ### Why is academic integrity important?
+
 Academic integrity is an issue that is pertinent to all students on campus. When students act unethically by copying someone’s work, taking an exam for someone else, plagiarizing, etc., these students are misrepresenting their academic abilities. This makes it impossible for instructors to give grades (and for the University to give degrees) that reflect student knowledge. This devalues the worth of a UCSD degree for all students, making it imperative for the the campus as a whole to enforce that all members of this community are honest and ethical. We want your degree to be meaningful and we want you to be proud to call yourself a graduate of UCSD!
 
 The UCSD Policy on Integrity of Scholarship and this syllabus list some of the standards by which you are expected to complete your academic work, but your good ethical judgment (or asking us for advice) is also expected as we cannot list every behavior that is unethical or not in the spirit of academic integrity. Ignorance of the rules will not excuse you from any violations.
 
 ### What counts as cheating?
 
-In DSC 80, you can read books, surf the web, talk to your friends and the DSC 80 staff to get help understanding the concepts you need to know to complete your assignments. However, all code must be written by you (or, in the instance of projects, together with your partner).  
+In DSC 80, you can read books, surf the web, talk to your friends and the DSC 80 staff to get help understanding the concepts you need to know to complete your assignments. However, all code must be written by you (or, in the instance of projects, together with your partner).
 
 The following activities are considered cheating and are not allowed in DSC 80 (not an exhaustive list):
+
 - Using or submitting code acquired from other students (except from your pair programming partner during projects), the web, or any other resource not officially sanctioned by this course
 - Posting your code online, including on Ed, unless privately to instructors only
 - Having any other person complete any part of your assignment on your behalf
@@ -291,20 +295,22 @@ The following activities are considered cheating and are not allowed in DSC 80 (
 - Providing code, exam questions, or solutions to any other student in the course
 - Splitting up project questions with your pair programming partner and each working on different questions
 - Collaborating with others on exams
-- **(new) Using AI code generation tools, such as GitHub Copilot and ChatGPT, to write any of your code**
 
 The following activities are examples of appropriate collaboration and are allowed in DSC 80 (not an exhaustive list):
+
+- **(new) Using AI code generation tools, such as GitHub Copilot and ChatGPT, to help write your code**
 - Discussing the general approach to solving labs or projects
 - Talking about problem-solving strategies or issues you ran into and how you solved them
 - Discussing the answers to exams with other students who have already taken the exam after the exam is complete
 - Using code provided in class, by the textbook or any other assigned reading or video, with attribution
-- Google searching for documentation on Python or `pandas` 
+- Google searching for documentation on Python or `pandas`
 - Working together with other students on assignments without copying or sharing answers
 - Posting a question about your approach to a problem on Ed, without sharing your code
 
 ### How can I be sure that my actions are NOT considered cheating?
 
 The best way to avoid problems is by using your best judgement and remembering to act with Honesty, Trust, Fairness, Respect, Responsibility, and Courage. Here are some suggestions for completing your work:
+
 - Don't look at or discuss the details of another student's code for an assignment you are working on, and don't let another student look at your code.
 - Don't start with someone else's code and make changes to it, or in any way share code with other students.
 - If you are talking to another student about an assignment, don't take notes, and wait an hour afterward before you write any code.
@@ -319,7 +325,7 @@ From the [Office for Students with Disabilities (OSD)](https://osd.ucsd.edu/):
 
 > OSD works with students with documented disabilities to review documentation and determine reasonable accommodations. Disabilities can occur in these areas: psychological, psychiatric, learning, attention, chronic health, physical, vision, hearing, and acquired brain injuries, and may occur at any time during a student’s college career. We encourage you to contact the OSD as soon as you become aware of a condition that is disabling so that we can work with you.
 
-If you already have accommodations via OSD, please make sure that we receive your Authorization for Accommodation (AFA) letter by the end of Week 3 so that we can make arrangements for accommodations. Share your AFA letter with the instructor and the Data Science OSD Liaison, who can be reached at dscstudent@ucsd.edu.
+If you already have accommodations via OSD, please make sure that we receive your Authorization for Accommodation (AFA) letter by the end of Week 1 so that we can make arrangements for accommodations. Share your AFA letter with the instructor and the Data Science OSD Liaison, who can be reached at dscstudent@ucsd.edu.
 
 ### Diversity and Inclusion
 
@@ -331,12 +337,12 @@ If there is an issue you feel uncomfortable speaking with us or are searching fo
 help on a specific concern, there are several campus resources available
 to you, including:
 
--   [UCSD Counseling and Psychological Services
-    (CAPS)](https://caps.ucsd.edu/)
--   [Hub Basic Needs Center](https://thehub.ucsd.edu/)
--   [Office for Students with Disability (OSD)](https://osd.ucsd.edu/)
--   [Office for Prevention of Sexual Harrassment and
-    Discrimination](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html)
+- [UCSD Counseling and Psychological Services
+  (CAPS)](https://caps.ucsd.edu/)
+- [Hub Basic Needs Center](https://thehub.ucsd.edu/)
+- [Office for Students with Disability (OSD)](https://osd.ucsd.edu/)
+- [Office for Prevention of Sexual Harrassment and
+  Discrimination](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html)
 
 ---
 
