@@ -230,7 +230,7 @@ is clarity, so if your answer was mostly right but unclear you may still not be 
 
 **Regrade Requests for Autograded Problems**
 
-To submit an autograder regrade request, please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfIOesLhFY7ZWUDKrEdINZ6_UlxOExOwOoW46MwVlr2dL2lDA/viewform).
+To submit an autograder regrade request, please fill out the [Autograder Regrade Request Form](https://forms.gle/HmKyzJ7rEoUCM4mb8).
 
 The autograder is very picky: it expects your assignments to have
 exactly the correct file names, all functions must be named correctly,
