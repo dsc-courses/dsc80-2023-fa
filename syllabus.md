@@ -305,7 +305,7 @@ Here is how we'll compute your grade:
 | Project Checkpoints                     | 5%                  | 1% per project, no drops\*      |
 | Midterm Exam                            | 10%                 | see the Redemption Policy above |
 | Final Exam                              | 20%                 |                                 |
-| Discussion Attendance + Lab Reflections | 2.7% (extra credit) | 0.3% per lab                    |
+| Discussion Attendance + Lab Reflections | 2% (extra credit)   | 0.25% per reflection            |
 
 \*Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects
 3 and 5 will automatically receive the 1% checkpoint credit.
