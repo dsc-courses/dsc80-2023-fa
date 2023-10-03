@@ -3,6 +3,7 @@ name: Alan(Zelong) Wang
 role: Tutor
 pronouns: he/him
 email: zew013@ucsd.edu
+website: https://zew013.github.io/
 photo: assets/images/zelong.jpg
 ---
 Hello everyone! My name is Zelong, or you can call me Alan. I’m from China and currently a senior double majoring in Data Science and Math-Econ. I took DSC 80 during my second year, and it truly piqued my interest in this fascinating field. The ideas and intuitions behind the concepts you’ll learn in this course serve as crucial building blocks for more complex models in the future.
