@@ -103,7 +103,7 @@ To open a Jupyter Notebook, use the `jupyter notebook` command in your terminal.
 ### Git
 
 All of our course materials, including your assignments, are hosted on
-GitHub in [this Git repository](https://github.com/dsc-courses/dsc80-2023-sp). This means that you'll need to download and use
+GitHub in [this Git repository](https://github.com/dsc-courses/dsc80-2023-fa). This means that you'll need to download and use
 [Git](https://git-scm.com/) in order to work with the course
 materials.
 
@@ -118,7 +118,7 @@ There are Git GUIs, and you can use them for this class. You can also
 use the command-line version of Git. To get started, you\'ll need to
 \"clone\" the course repository. The command to do this is:
 
-    git clone https://github.com/dsc-courses/dsc80-2023-sp
+    git clone https://github.com/dsc-courses/dsc80-2023-fa
 
 This will copy the repository to a directory on your computer. To bring
 in the latest version of the repository, run **`git pull`** in your local repository. This will **not**
@@ -242,7 +242,7 @@ within JupyterLab, you can:
 
 Whether you work locally or use DataHub, you'll need to pull assignments from GitHub. If you work on DataHub, you'll **have** to pull from GitHub using the command-line. To do this, open "New \> Terminal" and, to get the course repository for the first time, type:
 
-    git clone https://github.com/dsc-courses/dsc80-2023-sp
+    git clone https://github.com/dsc-courses/dsc80-2023-fa
 
 Then, open up the file-tree in the original Jupyter tab, and you should see all the
 course files now there. If you have already cloned the repository, and
