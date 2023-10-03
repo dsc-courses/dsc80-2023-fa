@@ -159,11 +159,11 @@ To get help on assignments and concepts, course staff will be hosting several of
 
 To summarize all of the events and deadlines, refer to this general weekly schedule (which is subject to change in any given week):
 
-| Sunday | Monday                                        | Tuesday | Wednesday                                                    | Thursday | Friday                                                                  | Saturday |
-| ------ | --------------------------------------------- | ------- | ------------------------------------------------------------ | -------- | ----------------------------------------------------------------------- | -------- | --- |
-|        |                                               | Lecture |                                                              | Lecture  |                                                                         |          |
-|        |                                               |         |                                                              |          | Discussion                                                              |          |     |
-|        | <span style='color:red'><b>Lab due</b></span> |         | <span style='color:red'><b>Project/checkpoint due</b></span> |          | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> |          |
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday     | Saturday |
+| ------ | ------ | ------- | --------- | -------- | ---------- | -------- |
+|        |        | Lecture |           | Lecture  |            |          |
+|        |        |         |           |          | Discussion |          |
+| | <span style='color:red'><b>Lab due</b></span> | | <span style='color:red'><b>Project/checkpoint due</b></span> | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> | |
 
 ---
 
