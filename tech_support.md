@@ -59,10 +59,6 @@ terminal app that comes with the operating system, or install one
 `conda install <package_name>`, where `<package_name>` is replaced by
 the name of the package you want to install, and hit enter.
 
-Anaconda comes with `pandas`, `numpy`, and many other data science packages.
-You will, however, need to install `otter-grader`; this is the
-autograder package that runs the tests in labs, projects, etc. You can
-do so by running: `pip install otter-grader==3.1.4` in a terminal.
 
 ### Replicating the Gradescope Environment
 
