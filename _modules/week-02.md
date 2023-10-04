@@ -5,6 +5,7 @@ days:
 - date: '2023-10-09'
   events:
   - name: LAB 1
+    url: https://github.com/dsc-courses/dsc80-2023-fa/tree/main/labs/lab01
     type: lab
     title: Python, NumPy, and Pandas
 - date: '2023-10-10'
