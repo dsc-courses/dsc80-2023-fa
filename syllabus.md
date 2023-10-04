@@ -274,7 +274,7 @@ though the Final Exam will emphasize material after the Midterm Exam.
 
 **Both exams will be administered in-person**. If you have conflicts with
 either of the exams, please let us know on the [Welcome
-Survey](https://forms.gle/fGSiAAAzSQteLqvn9).
+Survey](https://docs.google.com/forms/d/e/1FAIpQLScGBRJrHxMPa8ix46FFDPxn9UhQoVhWOKMQ41ZTypWoj_OEAA/viewform?usp=sf_link).
 
 ### Redemption Policy
 
@@ -396,7 +396,7 @@ date, you have some options:
     already used on the assignment. You can submit a catastrophe regrade
     request the same way you submit a regular autograder regrade request, by
     filling out the [Autograder Regrade Request
-    Form](https://docs.google.com/forms/d/e/1FAIpQLSfIOesLhFY7ZWUDKrEdINZ6_UlxOExOwOoW46MwVlr2dL2lDA/viewform).
+    Form](https://forms.gle/HmKyzJ7rEoUCM4mb8).
 
 ### Incompletes
 
