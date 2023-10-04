@@ -30,7 +30,7 @@ There has been a lot written about how to set up a Python environment, so we won
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/PPKXJqu2XmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 {: .note }
-The video above was recorded in Winter 2023, but it is still applicable for Spring 2023. To follow along with the video, all you need to do is change '2023-wi' to '2023-sp' in the video.
+The video above was recorded in Winter 2023, but it is still applicable for Fall 2023. To follow along with the video, all you need to do is change '2023-wi' to '2023-fa' in the video.
 
 ---
 
