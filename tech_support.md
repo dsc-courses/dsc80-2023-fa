@@ -77,7 +77,7 @@ matplotlib==3.5.1
 numpy==1.21.2
 otter-grader==3.1.4
 notebook==6.4.12
-pandas==1.3.3
+pandas==1.3.4
 Pillow==8.3.2
 pydantic==1.8.2
 PyYAML==6.0.1
