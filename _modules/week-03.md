@@ -15,6 +15,7 @@ days:
 - date: '2023-10-18'
   events:
   - name: PROJ 1
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/01-gradebook/project.ipynb 
     type: proj
     title: Project 1
 - date: '2023-10-19'
