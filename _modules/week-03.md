@@ -5,6 +5,7 @@ days:
 - date: '2023-10-16'
   events:
   - name: LAB 2
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab02/lab.ipynb 
     type: lab
     title: More Pandas
 - date: '2023-10-17'
