@@ -24,7 +24,7 @@ def generate_modules(csv_file):
         .pipe(ffill_weeks)
         .pipe(parse_dates)
         .pipe(melt_into_events)
-        .pipe(mark_canceled_lectures_and_exams)
+        .pipe(mark_exams_and_canceled_lectures)
         .pipe(number_events)
     )
     df.pipe(write_into_module_files)
@@ -55,7 +55,7 @@ def melt_into_events(df):
     )
 
 
-def mark_canceled_lectures_and_exams(
+def mark_exams_and_canceled_lectures(
     df, cancelled_prefix="NO ", exam_substring="Exam"
 ):
     canceled = df["title"].str.startswith(cancelled_prefix)
