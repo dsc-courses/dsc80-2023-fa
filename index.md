@@ -21,7 +21,9 @@ nav_order: 1
 **This site is under construction and everything is subject to change.** -->
 
 {: .note }
-There is no lecture or discussion on Sep 28 or Sep 29. The first lecture will take place on Tuesday, Oct 3.
+Oct 10, 2023: Our lecture and discussion rooms have changed!
+Our lectures are now in WLH 2005 and our discussions in CENTR 115 for the rest
+of the quarter.
 
 <!-- To view the lecture recordings, click on the 🎥 button for each lecture. -->
 

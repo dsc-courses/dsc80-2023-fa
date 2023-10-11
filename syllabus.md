@@ -109,7 +109,7 @@ post instead.**
 ### Lectures
 
 Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in
-[Center Hall 216]. Attendance is not required, **though you are encouraged to
+[WLH 2005]. Attendance is not required, **though you are encouraged to
 attend in-person if you are able to**. Lectures will be podcasted.
 
 Lecture notebooks will be your main resource in this class. You can access
@@ -267,7 +267,7 @@ schedule (which is subject to change in any given week):
 This class has one Midterm Exam and one Final Exam. Exams are cumulative,
 though the Final Exam will emphasize material after the Midterm Exam.
 
-- **Midterm Exam**: Thursday, November 2nd, 3:30-4:50PM, Center Hall 216
+- **Midterm Exam**: Thursday, November 2nd, 3:30-4:50PM, WLH 2005
   (during lecture)
 
 - **Final Exam:** Monday, December 11th, 3:00-6:00PM, location TBD
