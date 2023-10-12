@@ -13,7 +13,8 @@ days:
       - name: LEC 3
         url: resources/lectures/lec03/lec03.html
         type: lecture
-        title: Aggregating, Simpson's Paradox
+        title: Aggregating
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/3
         reading: >
           [Ch. 6.2](https://learningds.org/ch/06/pandas_aggregating.html)
   - date: '2023-10-11'
@@ -26,7 +27,10 @@ days:
     events:
       - name: LEC 4
         type: lecture
-        title: Data Cleaning, Merging, EDA
+        title: Simpson's Paradox, Joining, Transforming
+        url: resources/lectures/lec04/lec04.html
+        reading: >
+          [Ch. 6.3 - 6.5](https://learningds.org/ch/06/pandas_joining.html)
   - date: '2023-10-13'
     events:
       - name: DISC 2
