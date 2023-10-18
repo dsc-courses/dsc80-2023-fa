@@ -5,6 +5,7 @@ days:
 - date: '2023-10-23'
   events:
   - name: LAB 3
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab03/lab.ipynb 
     type: lab
     title: DataFrame Manipulation
 - date: '2023-10-24'
