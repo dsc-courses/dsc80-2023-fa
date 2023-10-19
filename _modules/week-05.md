@@ -15,6 +15,7 @@ days:
 - date: '2023-11-01'
   events:
   - name: PROJ 2
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/projects/02-covid_vax/project.ipynb
     type: proj
     title: Project 2
 - date: '2023-11-02'
