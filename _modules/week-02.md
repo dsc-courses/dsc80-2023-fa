@@ -37,4 +37,5 @@ days:
       - name: DISC 2
         type: disc
         title: Lab 1 Reflection
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/21
 ---

@@ -14,6 +14,7 @@ days:
         type: lecture
         title: Exploring and Cleaning Data
         url: resources/lectures/lec05/lec05.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/5
         reading: >
           [Ch. 9](https://learningds.org/ch/09/wrangling_intro.html) and [10](https://learningds.org/ch/10/eda_intro.html)
   - date: '2023-10-18'
@@ -27,6 +28,9 @@ days:
       - name: LEC 6
         type: lecture
         title: Hypothesis and Permutation Testing
+        url: resources/lectures/lec06/lec06.html
+        reading: >
+          [Ch 2](https://learningds.org/ch/02/data_scope_intro.html), [Ch 17.0-17.2](https://learningds.org/ch/17/inf_pred_gen_intro.html)
   - date: '2023-10-20'
     events:
       - name: DISC 3
