@@ -5,6 +5,7 @@ days:
 - date: '2023-10-30'
   events:
   - name: LAB 4
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab04/lab.ipynb
     type: lab
     title: Hypothesis and Permutation Testing
 - date: '2023-10-31'
