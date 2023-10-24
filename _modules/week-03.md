@@ -27,8 +27,9 @@ days:
     events:
       - name: LEC 6
         type: lecture
-        title: Hypothesis and Permutation Testing
+        title: Hypothesis Testing
         url: resources/lectures/lec06/lec06.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/6
         reading: >
           [Ch 2](https://learningds.org/ch/02/data_scope_intro.html), [Ch 17.0-17.2](https://learningds.org/ch/17/inf_pred_gen_intro.html)
   - date: '2023-10-20'
@@ -36,4 +37,5 @@ days:
       - name: DISC 3
         type: disc
         title: Lab 2 Reflection
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/22
 ---
