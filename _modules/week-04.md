@@ -15,7 +15,7 @@ days:
         url: resources/lectures/lec07/lec07.html
         title: Missingness Mechanisms
         reading: >
-          [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)
+          [Fast Permutation Tests](resources/lectures/lec07/lec07-fast-permutation-tests.html), [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)
   - date: '2023-10-25'
     events:
       - name: PROJ 2
