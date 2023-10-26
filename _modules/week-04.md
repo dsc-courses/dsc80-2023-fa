@@ -13,6 +13,7 @@ days:
       - name: LEC 7
         type: lecture
         url: resources/lectures/lec07/lec07.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/7
         title: Missingness Mechanisms
         reading: >
           [Fast Permutation Tests](resources/lectures/lec07/lec07-fast-permutation-tests.html), [A1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4121561/), [A2](https://stefvanbuuren.name/fimd/sec-MCAR.html)
@@ -27,6 +28,7 @@ days:
       - name: LEC 8
         type: lecture
         title: Imputation
+        url: resources/lectures/lec08/lec08.html
   - date: '2023-10-27'
     events:
       - name: DISC 4
