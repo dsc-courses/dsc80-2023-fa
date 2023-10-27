@@ -1,0 +1,17 @@
+publication_schema:
+    metadata_schema:
+        type: dict
+        required_keys:
+            number:
+                type: integer
+            date:
+                type: datetime
+            due:
+                type: datetime
+            topic:
+                type: string
+
+    required_artifacts:
+        - assignment
+
+    is_ordered: true

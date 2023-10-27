@@ -1,0 +1,11 @@
+metadata:
+    number: 8
+    date: 2022-12-02
+    due: 1 day after ${this.metadata.date} at 23:59:00
+    topic: sklearn
+
+artifacts:
+    assignment:
+        recipe: make
+        path: build/student
+        ready: false

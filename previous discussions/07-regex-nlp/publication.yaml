@@ -1,0 +1,11 @@
+metadata:
+    number: 7
+    date: 7 days after ${previous.metadata.date}
+    due: 1 day after ${this.metadata.date} at 23:59:00
+    topic: Plotting
+
+artifacts:
+    assignment:
+        recipe: make
+        path: build/student
+        ready: false
