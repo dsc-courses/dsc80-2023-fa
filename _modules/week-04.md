@@ -29,6 +29,7 @@ days:
         type: lecture
         title: Imputation
         url: resources/lectures/lec08/lec08.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/8
         reading: >
           [DSP 6.3-6.5](https://notes.dsc80.com/content/06/handling-missing-data.html)
   - date: '2023-10-27'
@@ -36,4 +37,5 @@ days:
       - name: DISC 4
         type: disc
         title: Lab 3 Reflection
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/23
 ---
