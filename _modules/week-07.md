@@ -12,12 +12,6 @@ days:
   - name: LEC 12
     type: lecture
     title: Text Features
-- date: '2023-11-15'
-  events:
-  - name: PROJ 3
-    type: proj
-    url: https://dsc80.com/project3/
-    title: Project 3 (no checkpoint)
 - date: '2023-11-16'
   events:
   - name: LEC 13
@@ -28,4 +22,8 @@ days:
   - name: DISC 6
     type: disc
     title: Lab 6 Reflection
+  - name: PROJ 3
+    type: proj
+    url: https://dsc80.com/project3/
+    title: Project 3 (no checkpoint)
 ---
