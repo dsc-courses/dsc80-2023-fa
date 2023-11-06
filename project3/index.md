@@ -10,7 +10,7 @@ nav_exclude: true
 # Project 3 – Exploratory Data Analysis 📊
 {:.no_toc}
 
-### Due Date: Thursday, May 18th at 11:59PM (No Checkpoint!)
+### Due Date: Thursday, Nov 17th at 11:59PM (No Checkpoint!)
 {:.no_toc}
 
 ## Table of Contents
