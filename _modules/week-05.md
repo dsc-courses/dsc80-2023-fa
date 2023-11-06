@@ -28,6 +28,9 @@ days:
       - name: EXAM
         type: exam
         title: Midterm Exam (in class)
+        url: resources/midterm-RELEASE.pdf
+        reading: >
+          [Solutions](resources/midterm-SOLUTIONS.pdf)
   - date: '2023-11-03'
     events:
       - name: DISC 5
