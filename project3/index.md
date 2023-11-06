@@ -10,7 +10,7 @@ nav_exclude: true
 # Project 3 – Exploratory Data Analysis 📊
 {:.no_toc}
 
-### Due Date: Thursday, Nov 17th at 11:59PM (No Checkpoint!)
+### Due Date: Friday, Nov 17th at 11:59PM (No Checkpoint!)
 {:.no_toc}
 
 ## Table of Contents
@@ -32,7 +32,7 @@ The project is broken into two parts:
 - Part 2: A **report**, submitted as a website. This will contain a narrative "story" with visuals. **Focus on this after finishing _most_ of your analysis.**
 
 {: .warning }
-**The project is due on Thursday, May 18th at 11:59PM**. While there is no checkpoint, we encourage you to finish Part 1 by Monday, May 15th, to leave yourself three days to review your analysis and prepare your report.<br><br>Like other projects, you're welcome to work with a partner, though if you do, you must **both** work on all pieces together, simultaneously. You will only submit one notebook and create one website.
+**The project is due on Friday, Nov 17th at 11:59PM**. While there is no checkpoint, we encourage you to finish Part 1 by Monday, May 15th, to leave yourself three days to review your analysis and prepare your report.<br><br>Like other projects, you're welcome to work with a partner, though if you do, you must **both** work on all pieces together, simultaneously. You will only submit one notebook and create one website.
 
 ---
 
