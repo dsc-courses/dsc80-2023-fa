@@ -12,8 +12,8 @@ days:
     events:
       - name: LEC 10
         type: lecture
-        url: resources/lectures/lec10/lec10.html
         title: Web Scraping
+        url: resources/lectures/lec10/lec10.html
         reading: >
           [14.2-14.4](https://learningds.org/ch/14/web_json.html)
   - date: '2023-11-09'
@@ -21,6 +21,9 @@ days:
       - name: LEC 11
         type: lecture
         title: Regular Expressions
+        url: resources/lectures/lec11/lec11.html
+        reading: >
+          [13](https://learningds.org/ch/13/text_intro.html)
   - date: '2023-11-10'
     events:
       - markdown_content: "NO DISCUSSION: Veteran's Day"
