@@ -60,6 +60,11 @@ Once you have your dataset loaded in your notebook, it's time for you to find me
 
 ***Tip***: For each step, we specify what must be done in your notebook and what must go on your website. We recommend you write everything in your notebook first, and then move things over to your website once you've completed your analysis.
 
+***Examples***: For guidance on formulating your research question, refer to the exemplary examples from the previous quarter. These instances offer insights into crafting effective research questions but bear in mind that they have their unique strengths and are not flawless. Treat them as a foundation for inspiration, encouraging originality in your approach rather than direct replication.
+1. [Recipes Research Project](https://jiangqiw.github.io/Recipes-Research-Project/): This project is noteworthy for its inventive approach to developing research topics. The students devised their own categories beyond the provided column names, delving into the deeper implications of the data to formulate original research questions. 
+2. [Recipe Calorie Analysis](https://fjiang316.github.io/Recipe_Calorie/): In this project, the students have effectively highlighted their research questions in bold on the website, allowing for quick and clear identification of the study’s focus. In your own project, try to make your research question prominent and noticeable.
+3. [League Of Legends Soul Analysis](https://zoeludena.github.io/League-Of-Legends-Soul-Analysis/): This project initially presented a research question that was somewhat obscure to those unfamiliar with League of Legends. However, the students excelled in clarifying their research aims, making the study accessible and understandable to a broader audience. In your own project, ensure that you provide a lucid and detailed explanation of your research focus.
+
 ### Requirement: Introduction
 
 | Step | Analysis in Notebook | Report on Website |
