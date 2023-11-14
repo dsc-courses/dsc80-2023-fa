@@ -14,6 +14,7 @@ days:
         type: lecture
         title: Web Scraping
         url: resources/lectures/lec10/lec10.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/11
         reading: >
           [14.2-14.4](https://learningds.org/ch/14/web_json.html)
   - date: '2023-11-09'
@@ -22,6 +23,7 @@ days:
         type: lecture
         title: Regular Expressions
         url: resources/lectures/lec11/lec11.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/12
         reading: >
           [13](https://learningds.org/ch/13/text_intro.html)
   - date: '2023-11-10'
