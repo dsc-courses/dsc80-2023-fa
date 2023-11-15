@@ -5,6 +5,7 @@ days:
 - date: '2023-11-20'
   events:
   - name: LAB 7
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab07/lab.ipynb
     type: lab
     title: Regular Expressions and Text Data
 - date: '2023-11-21'
