@@ -37,7 +37,7 @@ To make sure that you're able to satisfy the requirements of the project, use ma
 - Looking at [tier-one professional leagues](https://en.wikipedia.org/wiki/List_of_League_of_Legends_leagues_and_tournaments), which league has the most "action-packed" games? Is the amount of "action" in this league significantly different than in other leagues? Note that you'll have to come up with a way of quantifying "action".
 - Which competitive region has the highest win rate against teams outside their region? Note you will have to find and merge region data for this question as the dataset does not have it.
 - Which role "carries" (does the best) in their team more often: ADCs (Bot lanes) or Mid laners?
-- Is Talon (tutor Costin's favorite champion) more likely to win or lose any given match?
+- Is Talon (former tutor Costin's favorite champion) more likely to win or lose any given match?
 
 ---
 
