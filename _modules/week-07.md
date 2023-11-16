@@ -21,6 +21,9 @@ days:
       - name: LEC 13
         type: lecture
         title: Modeling and Regression
+        url: resources/lectures/lec13/lec13.html
+        reading: >
+          [15.0-15.6](https://learningds.org/ch/15/linear_intro.html)
   - date: '2023-11-17'
     events:
       - name: DISC 6
