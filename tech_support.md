@@ -52,11 +52,11 @@ should install the standard Anaconda (not Miniconda) with Python 3.8.
 As mentioned above, Anaconda is a Python *distribution*. This means it
 comes with many useful Python packages, including, for instance,
 `pandas`. If you should need to install a new Python package, you can
-use the `conda` command. You\'ll need to open a terminal. On Windows,
+use the `mamba` command. You\'ll need to open a terminal. On Windows,
 you can use the Anaconda Prompt; on macOS or Linux, you can use the
 terminal app that comes with the operating system, or install one
 (Alacritty is a popular choice). Then, inside the terminal, type
-`conda install <package_name>`, where `<package_name>` is replaced by
+`mamba install <package_name>`, where `<package_name>` is replaced by
 the name of the package you want to install, and hit enter.
 
 
@@ -66,30 +66,13 @@ the name of the package you want to install, and hit enter.
 Gradescope has a package environment which it uses to autograde your work. It is advised to create the same environment so that there are no issues due to version changes during development vs. evaluation. Please follow the below steps to create the environment with required
 packages.
 
-- **1. Create a `requirements.txt` file with the following text:**
+- **1. In Terminal, install `mamba` by running one of the install [scripts](https://github.com/conda-forge/miniforge#miniforge). Be aware that Mac OS and Windows use different scripts, make sure that you run the one corresponding to your computer system.**
+  
+- **2. Download the [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) file.**
 
-```
-matplotlib==3.5.1
-numpy==1.21.2
-otter-grader==3.1.4
-notebook==6.4.12
-pandas==1.3.4
-Pillow==8.3.2
-pydantic==1.8.2
-PyYAML==6.0.1
-requests==2.26.0
-tqdm==4.62.3
-urllib3==1.26.7
-scikit-learn==1.0.2
-seaborn==0.11.2
-beautifulsoup4==4.10.0
-```
+- **3. In Terminal, create a new conda environment**: `mamba env create -f environment.yml`. Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to this file: `mamba env create -f /Users/yourusername/Desktop/environment.yml`, otherwise you might get an error saying `environment.yml` does not exist.
 
-- **2. In Terminal, create a new conda environment**: `conda create -n dsc80 python=3.8`
-
-- **3. Activate the environment**: `conda activate dsc80`
-
-- **4. Install the requirements in the new env**: `pip install -r requirements.txt`
+- **4. Activate the environment**: `conda activate dsc80`
 
 Every time you work on DSC 80, activate this environment by running
 `conda activate dsc80` in your terminal.
