@@ -66,12 +66,13 @@ the name of the package you want to install, and hit enter.
 Gradescope has a package environment which it uses to autograde your work. It is advised to create the same environment so that there are no issues due to version changes during development vs. evaluation. Please follow the below steps to create the environment with required
 packages.
 
-- **1. In Terminal, install `mamba` by running one of the [install scripts](https://github.com/conda-forge/miniforge#miniforge). Be aware that Mac OS and Windows use different scripts, make sure that you run the one corresponding to your computer system.**
+- **1. In Terminal, install `mamba` by running one of the [install scripts](https://github.com/conda-forge/miniforge#miniforge).** <br>
+Be aware that Mac OS and Windows use different scripts, make sure that you run the one corresponding to your computer system.
   
 - **2. Download the [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) file.**
 
-- **3. In Terminal, create a new conda environment**: `mamba env create -f environment.yml`.
-  Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to this file: `mamba env create -f /Users/yourusername/Desktop/environment.yml`, otherwise you might get an error saying `environment.yml` does not exist.
+- **3. In Terminal, create a new conda environment**: `mamba env create -f environment.yml`.<br>
+Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to the file, for example: `mamba env create -f /Users/yourusername/Desktop/environment.yml`. Otherwise, you might get an error saying [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) does not exist.
 
 - **4. Activate the environment**: `conda activate dsc80`
 
