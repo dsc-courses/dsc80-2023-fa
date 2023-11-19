@@ -71,7 +71,7 @@ packages.
 - **2. Download the [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) file.**
 
 - **3. In Terminal, create a new conda environment**: `mamba env create -f environment.yml`.
-- Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to this file: `mamba env create -f /Users/yourusername/Desktop/environment.yml`, otherwise you might get an error saying `environment.yml` does not exist.
+  Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to this file: `mamba env create -f /Users/yourusername/Desktop/environment.yml`, otherwise you might get an error saying `environment.yml` does not exist.
 
 - **4. Activate the environment**: `conda activate dsc80`
 
