@@ -18,7 +18,7 @@ days:
   - name: PROJ 4
     url: https://github.com/dsc-courses/dsc80-2023-fa/tree/main/projects/04-language_models
     type: proj
-    title: Project 4 checkpoint (due date tbd)
+    title: NO Project 4 checkpoint, HAPPY THANKSGIVING! 
 
 - date: '2023-11-23'
   events:

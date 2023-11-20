@@ -12,12 +12,12 @@ days:
   - name: LEC 15
     type: lecture
     title: Modeling in `sklearn`, Pipelines
-- date: '2023-11-29'
+- date: '2023-12-01'
   events:
   - name: PROJ 4
     url: https://github.com/dsc-courses/dsc80-2023-fa/tree/main/projects/04-language_models
     type: proj
-    title: Project 4 (due date tbd)
+    title: Project 4
 - date: '2023-11-30'
   events:
   - name: LEC 16
