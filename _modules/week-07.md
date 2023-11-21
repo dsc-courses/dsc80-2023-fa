@@ -14,6 +14,7 @@ days:
         type: lecture
         title: Text Features
         url: resources/lectures/lec12/lec12.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/13
         reading: >
           [13.4](https://learningds.org/ch/13/text_sotu.html)
   - date: '2023-11-16'
@@ -22,6 +23,7 @@ days:
         type: lecture
         title: Modeling and Regression
         url: resources/lectures/lec13/lec13.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/14
         reading: >
           [15.0-15.6](https://learningds.org/ch/15/linear_intro.html)
   - date: '2023-11-17'
