@@ -5,6 +5,7 @@ days:
 - date: '2023-11-27'
   events:
   - name: LAB 8
+    url: https://github.com/dsc-courses/dsc80-2023-fa/blob/main/labs/lab08/lab.ipynb
     type: lab
     title: Modeling and Feature Engineering
 - date: '2023-11-28'
