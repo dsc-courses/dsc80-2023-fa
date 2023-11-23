@@ -23,14 +23,6 @@ Writing code locally, on your personal computer, is our preferred option. We won
 
 There has been a lot written about how to set up a Python environment, so we won't reinvent the wheel. This page will only be a summary; Google will be your main resource. But always feel free to come to a staff member's office hours if you have a question about setting up your environment, using Git, or similar — we're here to help.
 
----
-
-[This video](https://youtu.be/PPKXJqu2XmY) contains a walkthrough of many of the details on this page. It's not a substitute for reading this page, though.
-
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/PPKXJqu2XmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
-
-{: .note }
-The video above was recorded in Winter 2023, but it is still applicable for Fall 2023. To follow along with the video, all you need to do is change '2023-wi' to '2023-fa' in the video.
 
 ---
 
