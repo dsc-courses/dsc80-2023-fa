@@ -15,7 +15,7 @@ days:
         title: Modeling in `sklearn`, Pipelines
         url: resources/lectures/lec15/lec15.html
         reading: >
-          [16](https://learningds.org/ch/16/ms_intro.html)
+          [Ch 16](https://learningds.org/ch/16/ms_intro.html)
   - date: '2023-11-30'
     events:
       - name: LEC 16
