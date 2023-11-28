@@ -12,7 +12,7 @@ days:
     events:
       - name: LEC 15
         type: lecture
-        title: Modeling in `sklearn`, Pipelines
+        title: Generalization, Cross-Validation
         url: resources/lectures/lec15/lec15.html
         reading: >
           [Ch 16](https://learningds.org/ch/16/ms_intro.html)
@@ -20,7 +20,7 @@ days:
     events:
       - name: LEC 16
         type: lecture
-        title: Regression Evaluation, Cross-Validation
+        title: Regression Evaluation
   - date: '2023-12-01'
     events:
       - name: DISC 7
