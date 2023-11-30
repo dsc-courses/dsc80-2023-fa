@@ -23,6 +23,8 @@ days:
         type: lecture
         title: More Generalization, Decision Trees
         url: resources/lectures/lec16/lec16.html
+        reading: >
+          [Ch 16](https://learningds.org/ch/16/ms_intro.html)
   - date: '2023-12-01'
     events:
       - name: DISC 7
