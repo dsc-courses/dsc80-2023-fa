@@ -12,4 +12,5 @@ days:
       - name: PROJ 5
         type: proj
         title: Project 5
+        url: https://github.com/dsc-courses/dsc80-2022-sp/tree/main/projects
 ---
