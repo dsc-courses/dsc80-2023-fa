@@ -14,13 +14,15 @@ days:
         type: lecture
         title: Generalization, Cross-Validation
         url: resources/lectures/lec15/lec15.html
+        podcast: https://podcast.ucsd.edu/watch/fa23/dsc80_a00/16
         reading: >
           [Ch 16](https://learningds.org/ch/16/ms_intro.html)
   - date: '2023-11-30'
     events:
       - name: LEC 16
         type: lecture
-        title: Regression Evaluation
+        title: More Generalization, Decision Trees
+        url: resources/lectures/lec16/lec16.html
   - date: '2023-12-01'
     events:
       - name: DISC 7
