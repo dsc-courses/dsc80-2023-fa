@@ -11,7 +11,7 @@ nav_exclude: true
 # Project 5 – Model Building 🛠
 {:.no_toc}
 
-### Due Date: Thursday, June 15th at 11:59PM (NO SLIP DAYS!)
+### Due Date: Thursday, Dec 13th at 11:59PM (NO SLIP DAYS!)
 {:.no_toc}
 
 ## Table of contents
