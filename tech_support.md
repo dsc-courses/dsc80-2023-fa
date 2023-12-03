@@ -66,10 +66,10 @@ Be aware that Mac OS and Windows use different scripts, make sure that you run t
 - **3. In Terminal, create a new conda environment**: `mamba env create -f environment.yml`.<br>
 Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to the file, for example: `mamba env create -f /Users/yourusername/Desktop/environment.yml`. Otherwise, you might get an error saying [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) does not exist.
 
-- **4. Activate the environment**: `conda activate dsc80`
+- **4. Activate the environment**: `mamba activate dsc80`
 
 Every time you work on DSC 80, activate this environment by running
-`conda activate dsc80` in your terminal.
+`mamba activate dsc80` in your terminal.
 
 To open a Jupyter Notebook, use the `jupyter notebook` command in your terminal.
 
@@ -181,7 +181,7 @@ reserve in case the server crashes.
 To update a package (e.g. `pandas`) on DataHub, you\'ll need to use the
 command line. To do this, open "New \> Terminal" and type:
 
-`pip install --user --upgrade pandas`
+`mamba install --user --upgrade pandas`
 
 followed by the enter key to run the command.
 
