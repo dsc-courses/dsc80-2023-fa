@@ -115,6 +115,23 @@ in the latest version of the repository, run **`git pull`** in your local reposi
 overwrite your work. In fact, Git is designed to make it very difficult
 to lose work (although it\'s still possible!).
 
+#### Merge Conflicts
+You might face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/dsc-courses/dsc80-2023-fa) by pushing new assignments on our side. Here are some steps you can follow to resolve it:
+
+NOTE: Whenever working with GitHub pulls, merges, etc., it's a good idea to save your important work locally so that if you accidentally overwrite your files you still have the work saved. **Save your work locally before following the steps below.**
+
+1. `git status` shows the current state of your Git working directory and staging area. It's a good sanity check to start with. You will probably see your project and lab files that you have worked on.
+2. `git add .`  will add all your files to be ready to commit.
+3. `git commit -m "some message of your choice"`  will commit the files, with some description in the quotations. This can be whatever you want, it won't matter.
+
+At this stage, if you `git pull`, it should work. You should double-check that you have new files, as well as that your old files are unchanged. If this does **not** work then you may have merge conflicts, follow the next steps:
+
+4. `git checkout --theirs [FILENAME]`  will tell git that whenever a conflict occurs in `[FILENAME]` to keep your version. Run this for each file with a conflict.
+5. `git add [FILENAME]` to mark each file with a conflict as resolved. 
+6. `git rebase --continue` or `git merge`, depending on the setup. 
+
+
+
 ### Choosing a Text Editor or IDE
 
 In this class, you will need to use a combination of editors for doing
