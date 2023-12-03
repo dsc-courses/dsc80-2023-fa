@@ -58,14 +58,23 @@ the name of the package you want to install, and hit enter.
 Gradescope has a package environment which it uses to autograde your work. It is advised to create the same environment so that there are no issues due to version changes during development vs. evaluation. Please follow the below steps to create the environment with required
 packages.
 
-- **1. In Terminal, install `mamba` by running one of the [install scripts](https://github.com/conda-forge/miniforge#miniforge).** <br> <br>
-**Unix-like platforms (Mac OS & Linux)**: Download the installer using curl or wget or your favorite program and run the script. For eg: `curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+- **1. In Terminal, install `mamba` by running one of the [install scripts](https://github.com/conda-forge/miniforge#miniforge).**
+  
+**Unix-like platforms (Mac OS & Linux)**: Download the installer using curl or wget or your favorite program and run the script.
+
+`curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 bash Miniforge3-$(uname)-$(uname -m).sh`<br>
-or <br>`wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
-bash Miniforge3-$(uname)-$(uname -m).sh`<br> <br>
+
+or 
+
+`wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+bash Miniforge3-$(uname)-$(uname -m).sh`
+
 **Windows**: Download and execute the Windows installer. Follow the prompts, taking note of the options to "Create start menu shortcuts" and "Add Miniforge3 to my PATH environment variable". The latter is not selected by default due to potential conflicts with other software. Without Miniforge3 on the path, the most convenient way to use the installed software (such as commands `mamba`) will be via the "Miniforge Prompt" installed to the start menu.<br> <br>
-Non-interactive install: `bash Miniforge3-Linux-x86_64.sh -b  # or similar for other installers for unix platforms`<br>
-Look at the extra options by running the following: `bash Miniforge3-Linux-x86_64.sh -h` <br>
+Non-interactive install: `bash Miniforge3-Linux-x86_64.sh -b  # or similar for other installers for unix platforms`
+
+Look at the extra options by running the following: `bash Miniforge3-Linux-x86_64.sh -h` 
+
 or if you are on windows, run: `start /wait "" Miniforge3-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniforge3`
 
   
