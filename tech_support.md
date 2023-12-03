@@ -125,7 +125,7 @@ NOTE: Whenever working with GitHub pulls, merges, etc., it's a good idea to save
 2. `git add .`  will add all your files to be ready to commit.
 3. `git commit -m "some message of your choice"`  will commit the files, with some description in the quotations. This can be whatever you want, it won't matter.
 
-At this stage, if you `git pull`, it should work. You should double-check that you have new files, as well as that your old files are unchanged. If they are changed then you should be able to just copy-paste from your local backup. If this does **not** work then you may have merge conflicts, follow the next steps:
+At this stage, if you `git pull`, it should work. You should double-check that you have new files, as well as that your old files are unchanged. If they are changed then you should be able to just copy-paste from your local backup. If this does **not** work then you may have **merge conflicts**, follow the next steps:
 
 4. `git checkout --theirs [FILENAME]`  will tell git that whenever a conflict occurs in `[FILENAME]` to keep your version. Run this for each file with a conflict.
 5. `git add [FILENAME]` to mark each file with a conflict as resolved. 
