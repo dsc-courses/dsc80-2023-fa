@@ -36,4 +36,4 @@ dependencies:
   - pip:
     - otter-grader==3.1.4
     - pandas_tutor
-prefix: /Users/sam/mambaforge/envs/dsc80-test
+
