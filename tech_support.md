@@ -115,7 +115,8 @@ in the latest version of the repository, run **`git pull`** in your local reposi
 overwrite your work. In fact, Git is designed to make it very difficult
 to lose work (although it\'s still possible!).
 
-#### Merge Conflicts
+**Merge Conflicts**
+
 You might face issues when using `git pull` regarding merge issues and branches. This is caused by files being updated on your side while we are also changing the [Git repository](https://github.com/dsc-courses/dsc80-2023-fa) by pushing new assignments on our side. Here are some steps you can follow to resolve it:
 
 NOTE: Whenever working with GitHub pulls, merges, etc., it's a good idea to save your important work locally so that if you accidentally overwrite your files you still have the work saved. **Save your work locally before following the steps below.**
