@@ -20,7 +20,7 @@ days:
     events:
       - name: LEC 18
         type: lecture
-        title: Fairness Criteria, Guide to getting research/internship opportunities, Final Review
+        title: Fairness Criteria, Conclusion, Final Review
   - date: '2023-12-08'
     events:
       - name: DISC 8
