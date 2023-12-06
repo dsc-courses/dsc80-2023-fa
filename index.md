@@ -21,9 +21,14 @@ nav_order: 1
 **This site is under construction and everything is subject to change.** -->
 
 {: .note }
-Oct 10, 2023: Our lecture and discussion rooms have changed!
-Our lectures are now in WLH 2005 and our discussions in CENTR 115 for the rest
-of the quarter.
+**Dec 6, 2023:** The Final Exam will take place on Mon., Dec 11,
+from 3-6pm in WLH 2005 (our usual lecture room). If 85% of the class fills out
+both the [Student Evaluations of Teaching][set] and the [End-of-Quarter
+Survey][survey] before 11:59pm Dec 8, the entire class will get +1% on their
+Final Exam grade.
+
+[set]: https://academicaffairs.ucsd.edu/Modules/Evals
+[survey]: https://forms.gle/AojdCsxqqeNJLMqz7
 
 <!-- To view the lecture recordings, click on the 🎥 button for each lecture. -->
 
