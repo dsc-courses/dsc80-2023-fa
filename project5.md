@@ -28,7 +28,7 @@ Welcome to Project 5, the final assignment of the quarter! 👋
 
 In Project 5, you will conduct an open-ended investigation into the dataset you chose for [Project 3](../project3) (Recipes and Ratings, League of Legends, or Power Outages). **Specifically, you will pose a prediction problem and train a model to solve it.** Use the [Example Prediction Problems](#example-prediction-problems) section for inspiration.
 
-**Project 5 is due on Thursday, June 15th at 11:59PM. This is a hard deadline; you may NOT use slip days on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.
+**Project 5 is due on Wednesday, December 13th at 11:59PM. This is a hard deadline; you may NOT use slip days on this project.** This is because we need to start grading projects right when you turn them in, so that there is enough time for you to make regrade requests before we submit grades to campus. Note that we will not be able to hold many office hours during Finals Week, so make sure to start early.
 
 Like Project 3, there is no checkpoint. Also, like in Project 3, you'll need to submit both a notebook and a website. **Your Project 5 website must be separate from your Project 3 website**; after the quarter is over, we suggest that you combine both into a single website that describes your complete exploration into your chosen dataset, from EDA to prediction.
 
@@ -37,7 +37,7 @@ Like Project 3, there is no checkpoint. Also, like in Project 3, you'll need to 
 ## Part 1: Analysis
 
 Before beginning your analysis, you'll need to set up a few things.
-1. Pull the latest version of the [`dsc80-2023-sp`](https://github.com/dsc-courses/dsc80-2023-sp/) repo. Within the `projects/05-prediction` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/05-topics-II/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
+1. Pull the latest version of the [`dsc80-2023-fa`](https://github.com/dsc-courses/dsc80-2023-fa/) repo. Within the `projects/05-prediction` folder, there is a `template.ipynb` notebook that you will use as a template for the project. If you delete the file or want another copy of the template, you can re-download it from [here](https://github.com/dsc-courses/dsc80-2023-sp/blob/main/projects/05-topics-II/template.ipynb). **This is where your analysis will live; you will submit this entire notebook to us.**
 2. Load the dataset you chose for Project 3 into your template notebook.
 
 Once you have your dataset loaded in your notebook, it's time for you to find meaning in the real-world data you've collected! Follow the steps below.
