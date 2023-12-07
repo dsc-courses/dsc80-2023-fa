@@ -20,7 +20,11 @@ days:
     events:
       - name: LEC 18
         type: lecture
-        title: Fairness Criteria, Conclusion, Final Review
+        title: Classifier Evaluation, Conclusion, Final Review
+        url: resources/lectures/lec18/lec18.html
+        reading: >
+          [Ch 19.5](https://learningds.org/ch/19/class_dr.html)
+  - date: '2023-12-07'
   - date: '2023-12-08'
     events:
       - name: DISC 8
