@@ -33,23 +33,9 @@ installed on your own machine. For this class, the software you\'ll need
 includes Python 3.8, a few specific Python packages, Git, and a text
 editor.
 
-### Installing Python
+### Mamba
 
-There are several ways of installing Python on your own computer. We
-recommend downloading the
-[Anaconda](https://www.anaconda.com/products/individual) Python
-distribution and following the instructions for installing it. You
-should install the standard Anaconda (not Miniconda) with Python 3.8.
-
-As mentioned above, Anaconda is a Python *distribution*. This means it
-comes with many useful Python packages, including, for instance,
-`pandas`. If you should need to install a new Python package, you can
-use the `mamba` command. You\'ll need to open a terminal. On Windows,
-you can use the Anaconda Prompt; on macOS or Linux, you can use the
-terminal app that comes with the operating system, or install one
-(Alacritty is a popular choice). Then, inside the terminal, type
-`mamba install <package_name>`, where `<package_name>` is replaced by
-the name of the package you want to install, and hit enter.
+`Mamba` is a fast, robust, and cross-platform package manager. Serving as a powerful alternative to the traditional `pip install` command, `mamba install` command ensures seamless compatibility between package versions, mitigating the risk of conflicts within your development environment. If you should need to install a new Python package, you can use the `mamba` command. Inside the terminal, type `mamba install <package_name>`, where `<package_name>` is replaced by the name of the package you want to install, and hit enter.
 
 
 ### Replicating the Gradescope Environment
@@ -70,12 +56,9 @@ or
 `wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 bash Miniforge3-$(uname)-$(uname -m).sh`
 
-**Windows**: Download and execute the Windows installer. Follow the prompts, taking note of the options to "Create start menu shortcuts" and "Add Miniforge3 to my PATH environment variable". The latter is not selected by default due to potential conflicts with other software. Without Miniforge3 on the path, the most convenient way to use the installed software (such as commands `mamba`) will be via the "Miniforge Prompt" installed to the start menu.<br> <br>
-Non-interactive install: `bash Miniforge3-Linux-x86_64.sh -b  # or similar for other installers for unix platforms`
+**Windows**: Download and execute the Windows installer. Follow the prompts, taking note of the options to "Create start menu shortcuts" and "Add Miniforge3 to my PATH environment variable". The latter is not selected by default due to potential conflicts with other software. Without Miniforge3 on the path, the most convenient way to use the installed software (such as commands `mamba`) will be via the "Miniforge Prompt" installed to the start menu.
 
-Look at the extra options by running the following: `bash Miniforge3-Linux-x86_64.sh -h` 
-
-or if you are on windows, run: `start /wait "" Miniforge3-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniforge3`
+run: `start /wait "" Miniforge3-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniforge3`
 
   
 - **2. Download the [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) file.**
@@ -83,7 +66,7 @@ or if you are on windows, run: `start /wait "" Miniforge3-Windows-x86_64.exe /In
 - **3. In Terminal, create a new conda environment**: `mamba env create -f environment.yml`.<br>
 Notice that if you've put [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) in your Downloads folder or Desktop, you should replace `environment.yml` with the path to the file, for example: `mamba env create -f /Users/yourusername/Desktop/environment.yml`. Otherwise, you might get an error saying [environment.yml](https://github.com/dsc-courses/dsc80-2023-fa/blob/gh-pages/resources/environment.yml) does not exist.
 
-- **4. Activate the environment**: `mamba activate dsc80`
+- **4. Activate the environment**: `mamba activate dsc80`. If you’re using VSCode, you should select the Python kernel corresponding to the dsc80 environment to use it.
 
 Every time you work on DSC 80, activate this environment by running
 `mamba activate dsc80` in your terminal.
