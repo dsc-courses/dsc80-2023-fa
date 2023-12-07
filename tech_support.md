@@ -73,6 +73,13 @@ Every time you work on DSC 80, activate this environment by running
 
 To open a Jupyter Notebook, use the `jupyter notebook` command in your terminal.
 
+### `mamba` vs. `conda` vs. `pip`
+
+Setting up a Python development environment is a crucial step for ensuring consistency and compatibility of your work. An environment is essentially a self-contained space where your project dependencies, libraries, and their respective versions are isolated from the rest of your system. While `pip` is a widely used package installer, it lacks built-in support for creating isolated environments. This limitation makes it challenging to maintain version consistency and avoid conflicts between packages. Consequently, we do not recommend relying solely on `pip install` for environment management, as it may inadvertently introduce incompatible package versions.
+
+`Conda`, on the other hand, is a powerful tool that not only installs packages but also manages environments effortlessly. It allows you to create isolated environments and ensures compatibility among the packages within those environments. `Mamba` is a wrapper around `conda`, designed to optimize the installation process, making it notably faster than traditional `conda` installations. 
+
+
 ### Git
 
 All of our course materials, including your assignments, are hosted on
