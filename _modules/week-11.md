@@ -7,6 +7,9 @@ days:
       - name: EXAM
         type: exam
         title: Final Exam (3-6pm, WLH 2005)
+        url: resources/final-RELEASE.pdf
+        reading: >
+          [Solutions](resources/final-SOLUTIONS.pdf)
   - date: '2023-12-13'
     events:
       - name: PROJ 5
