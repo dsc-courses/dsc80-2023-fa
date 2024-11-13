@@ -1,0 +1,64 @@
+park_id,parkname,region,state
+100,Acadia NP,Northeast,ME
+101,Arches NP,Intermountain,UT
+102,Badlands NP,Midwest,SD
+103,Big Bend NP,Intermountain,TX
+104,Biscayne NP,Southeast,FL
+105,Black Canyon of the Gunnison NP,Intermountain,CO
+106,Bryce Canyon NP,Intermountain,UT
+107,Canyonlands NP,Intermountain,UT
+108,Capitol Reef NP,Intermountain,UT
+109,Carlsbad Caverns NP,Intermountain,NM
+110,Channel Islands NP,Pacific West,CA
+111,Congaree NP,Southeast,SC
+112,Crater Lake NP,Pacific West,OR
+113,Cuyahoga Valley NP,Midwest,OH
+114,Death Valley NP,Pacific West,CA
+115,Denali NP & PRES,Alaska,AK
+116,Dry Tortugas NP,Southeast,FL
+117,Everglades NP,Southeast,FL
+118,Gates of the Arctic NP & PRES,Alaska,AK
+119,Gateway Arch NP,Midwest,MO
+120,Glacier Bay NP & PRES,Alaska,AK
+121,Glacier NP,Intermountain,MT
+122,Grand Canyon NP,Intermountain,AZ
+123,Grand Teton NP,Intermountain,WY
+124,Great Basin NP,Pacific West,NV
+125,Great Sand Dunes NP & PRES,Intermountain,CO
+126,Great Smoky Mountains NP,Southeast,TN
+127,Guadalupe Mountains NP,Intermountain,TX
+128,Haleakala NP,Pacific West,HI
+129,Hawaii Volcanoes NP,Pacific West,HI
+130,Hot Springs NP,Midwest,AR
+131,Indiana Dunes NP,Midwest,IN
+132,Isle Royale NP,Midwest,MI
+133,Joshua Tree NP,Pacific West,CA
+134,Katmai NP & PRES,Alaska,AK
+135,Kenai Fjords NP,Alaska,AK
+136,Kings Canyon NP,Pacific West,CA
+137,Kobuk Valley NP,Alaska,AK
+138,Lake Clark NP & PRES,Alaska,AK
+139,Lassen Volcanic NP,Pacific West,CA
+140,Mammoth Cave NP,Southeast,KY
+141,Mesa Verde NP,Intermountain,CO
+142,Mount Rainier NP,Pacific West,WA
+143,National Park of American Samoa,Pacific West,AS
+144,New River Gorge NP & PRES,Northeast,WV
+145,North Cascades NP,Pacific West,WA
+146,Olympic NP,Pacific West,WA
+147,Petrified Forest NP,Intermountain,AZ
+148,Pinnacles NP,Pacific West,CA
+149,Redwood NP,Pacific West,CA
+150,Rocky Mountain NP,Intermountain,CO
+151,Saguaro NP,Intermountain,AZ
+152,Sequoia NP,Pacific West,CA
+153,Shenandoah NP,Northeast,VA
+154,Theodore Roosevelt NP,Midwest,ND
+155,Virgin Islands NP,Southeast,VI
+156,Voyageurs NP,Midwest,MN
+157,White Sands NP,Intermountain,NM
+158,Wind Cave NP,Midwest,SD
+159,Wrangell-St. Elias NP & PRES,Alaska,AK
+160,Yellowstone NP,Intermountain,WY
+161,Yosemite NP,Pacific West,CA
+162,Zion NP,Intermountain,UT

@@ -1,0 +1,5001 @@
+region,duration,entry_year,entry_month,entry_hour
+Northeast,31.0,2022,10,13
+Northeast,53.0,2023,7,16
+Northeast,13.0,2020,12,7
+Northeast,43.0,2022,7,3
+Northeast,43.0,2022,5,14
+Northeast,53.0,2023,5,12
+Northeast,23.0,2021,12,18
+Northeast,13.0,2020,2,21
+Northeast,53.0,2023,11,13
+Northeast,43.0,2022,2,23
+Northeast,23.0,2021,12,14
+Northeast,13.0,2020,4,19
+Northeast,,2024,4,17
+Northeast,13.0,2020,7,16
+Northeast,23.0,2021,7,2
+Northeast,13.0,2020,2,9
+Northeast,43.0,2022,12,19
+Northeast,23.0,2021,6,15
+Northeast,,2024,6,6
+Northeast,13.0,2020,12,8
+Northeast,42.0,2022,5,11
+Northeast,23.0,2021,11,8
+Northeast,54.0,2023,12,13
+Northeast,54.0,2023,12,14
+Northeast,53.0,2023,11,4
+Northeast,23.0,2021,7,3
+Northeast,13.0,2020,11,21
+Northeast,23.0,2021,10,10
+Northeast,23.0,2021,6,8
+Northeast,42.0,2022,4,11
+Northeast,12.0,2020,1,15
+Northeast,,2021,5,8
+Northeast,42.0,2022,10,20
+Northeast,53.0,2023,11,3
+Northeast,53.0,2023,4,15
+Northeast,12.0,2020,3,19
+Northeast,23.0,2021,1,9
+Northeast,12.0,2020,1,22
+Northeast,,2023,12,2
+Northeast,43.0,2022,12,9
+Northeast,23.0,2021,7,2
+Northeast,,2024,3,19
+Northeast,13.0,2020,8,6
+Northeast,53.0,2023,3,18
+Northeast,,2024,9,12
+Northeast,,2021,9,4
+Northeast,53.0,2023,10,9
+Northeast,13.0,2020,10,5
+Northeast,,2024,7,21
+Northeast,13.0,2020,4,23
+Northeast,23.0,2021,6,11
+Northeast,23.0,2021,4,4
+Northeast,14.0,2020,9,7
+Northeast,53.0,2023,1,20
+Northeast,43.0,2022,3,14
+Northeast,42.0,2022,9,12
+Northeast,,2020,8,14
+Northeast,42.0,2022,8,23
+Northeast,23.0,2021,7,8
+Northeast,23.0,2021,10,0
+Northeast,23.0,2021,3,9
+Northeast,43.0,2022,5,19
+Northeast,43.0,2022,9,14
+Northeast,,2023,5,21
+Northeast,53.0,2023,11,9
+Northeast,42.0,2022,5,7
+Northeast,14.0,2020,2,5
+Northeast,43.0,2022,5,23
+Northeast,,2024,2,1
+Northeast,,2021,5,22
+Intermountain,43.0,2022,12,15
+Intermountain,23.0,2021,8,23
+Intermountain,43.0,2022,3,2
+Intermountain,23.0,2021,8,13
+Intermountain,43.0,2022,12,1
+Intermountain,55.0,2023,2,22
+Intermountain,23.0,2021,12,22
+Intermountain,,2024,6,9
+Intermountain,14.0,2020,4,18
+Intermountain,23.0,2021,3,18
+Intermountain,,2022,4,13
+Intermountain,12.0,2020,4,3
+Intermountain,55.0,2023,6,21
+Intermountain,,2021,4,23
+Intermountain,,2024,8,20
+Intermountain,,2024,1,1
+Intermountain,58.0,2024,10,17
+Intermountain,10.0,2020,2,18
+Intermountain,,2024,8,18
+Intermountain,10.0,2020,2,7
+Intermountain,23.0,2021,1,16
+Intermountain,10.0,2020,8,4
+Intermountain,55.0,2023,10,9
+Intermountain,10.0,2020,8,17
+Intermountain,22.0,2021,6,19
+Intermountain,22.0,2021,3,4
+Intermountain,10.0,2020,5,13
+Intermountain,10.0,2020,12,23
+Intermountain,,2021,7,20
+Intermountain,10.0,2020,10,7
+Intermountain,42.0,2022,10,6
+Intermountain,,2024,9,7
+Intermountain,22.0,2021,6,17
+Intermountain,42.0,2022,6,2
+Intermountain,,2023,9,8
+Intermountain,10.0,2020,8,6
+Intermountain,23.0,2021,2,7
+Intermountain,22.0,2021,4,16
+Intermountain,42.0,2022,1,13
+Intermountain,,2024,4,18
+Intermountain,42.0,2022,6,14
+Intermountain,9.0,2020,1,5
+Intermountain,,2024,6,18
+Intermountain,61.0,2024,8,20
+Intermountain,42.0,2022,4,23
+Intermountain,,2024,5,23
+Intermountain,,2024,3,12
+Intermountain,,2022,11,17
+Intermountain,44.0,2022,4,14
+Intermountain,10.0,2020,1,21
+Intermountain,54.0,2023,6,21
+Intermountain,10.0,2020,6,14
+Intermountain,,2022,11,15
+Intermountain,9.0,2020,6,0
+Intermountain,22.0,2021,4,16
+Intermountain,10.0,2020,7,11
+Intermountain,,2024,5,0
+Intermountain,23.0,2021,11,0
+Intermountain,23.0,2021,5,19
+Intermountain,,2022,2,15
+Intermountain,51.0,2023,7,17
+Intermountain,,2024,8,17
+Intermountain,,2024,9,23
+Intermountain,44.0,2022,7,2
+Intermountain,51.0,2023,6,16
+Intermountain,44.0,2022,2,21
+Intermountain,,2023,10,15
+Intermountain,,2021,4,17
+Intermountain,44.0,2022,11,22
+Midwest,,2020,4,6
+Midwest,62.0,2024,6,5
+Midwest,,2021,1,6
+Midwest,,2021,6,22
+Midwest,52.0,2023,5,14
+Midwest,52.0,2023,3,6
+Midwest,44.0,2022,6,4
+Midwest,,2024,6,22
+Midwest,,2023,9,21
+Midwest,11.0,2020,8,22
+Midwest,23.0,2021,1,16
+Midwest,51.0,2023,10,6
+Midwest,,2024,9,4
+Midwest,38.0,2022,8,13
+Midwest,23.0,2021,8,23
+Midwest,39.0,2022,5,15
+Midwest,61.0,2024,10,19
+Midwest,11.0,2020,5,17
+Midwest,38.0,2022,10,12
+Midwest,23.0,2021,7,3
+Midwest,,2024,5,12
+Midwest,11.0,2020,1,16
+Midwest,51.0,2023,8,15
+Midwest,11.0,2020,6,15
+Midwest,51.0,2023,8,15
+Midwest,23.0,2021,4,2
+Midwest,,2022,10,2
+Midwest,11.0,2020,12,7
+Midwest,,2022,4,21
+Midwest,25.0,2021,2,15
+Midwest,,2024,3,9
+Midwest,39.0,2022,10,12
+Midwest,,2024,7,21
+Midwest,11.0,2020,4,19
+Midwest,24.0,2021,8,9
+Midwest,11.0,2020,4,7
+Midwest,52.0,2023,12,23
+Midwest,39.0,2022,11,12
+Midwest,11.0,2020,2,14
+Midwest,24.0,2021,10,10
+Midwest,24.0,2021,5,20
+Midwest,,2021,12,11
+Midwest,39.0,2022,10,5
+Midwest,39.0,2022,9,19
+Midwest,11.0,2020,1,5
+Midwest,39.0,2022,12,15
+Midwest,52.0,2023,8,12
+Midwest,24.0,2021,5,12
+Midwest,24.0,2021,12,20
+Midwest,,2020,8,7
+Midwest,39.0,2022,3,12
+Midwest,,2022,12,3
+Midwest,39.0,2022,5,20
+Midwest,,2022,3,14
+Midwest,11.0,2020,7,14
+Midwest,24.0,2021,8,3
+Midwest,52.0,2023,2,9
+Midwest,,2020,5,1
+Midwest,38.0,2022,4,6
+Midwest,53.0,2023,10,23
+Midwest,37.0,2022,4,22
+Midwest,11.0,2020,5,5
+Midwest,,2020,6,23
+Intermountain,37.0,2022,5,23
+Intermountain,,2024,10,18
+Intermountain,11.0,2020,4,12
+Intermountain,,2024,2,17
+Intermountain,37.0,2022,12,23
+Intermountain,,2024,9,9
+Intermountain,11.0,2020,11,10
+Intermountain,,2024,9,11
+Intermountain,37.0,2022,1,18
+Intermountain,60.0,2024,8,8
+Intermountain,,2024,7,14
+Intermountain,24.0,2021,6,17
+Intermountain,24.0,2021,6,23
+Intermountain,,2023,5,20
+Intermountain,,2021,11,1
+Intermountain,,2021,11,7
+Intermountain,37.0,2022,7,6
+Intermountain,,2021,2,20
+Intermountain,52.0,2023,4,4
+Intermountain,,2024,10,14
+Intermountain,25.0,2021,4,9
+Intermountain,,2020,9,11
+Intermountain,,2022,5,2
+Intermountain,,2021,12,15
+Intermountain,,2024,9,4
+Intermountain,,2021,2,14
+Intermountain,38.0,2022,11,7
+Intermountain,,2024,9,0
+Intermountain,52.0,2023,12,17
+Intermountain,38.0,2022,4,16
+Intermountain,38.0,2022,12,2
+Intermountain,11.0,2020,11,13
+Intermountain,,2024,7,3
+Intermountain,12.0,2020,12,8
+Intermountain,12.0,2020,3,10
+Intermountain,12.0,2020,11,5
+Intermountain,60.0,2024,7,15
+Intermountain,52.0,2023,4,9
+Intermountain,12.0,2020,3,7
+Intermountain,12.0,2020,1,22
+Intermountain,25.0,2021,4,10
+Intermountain,38.0,2022,4,22
+Intermountain,,2024,8,14
+Intermountain,37.0,2022,8,7
+Intermountain,12.0,2020,3,9
+Intermountain,,2024,4,1
+Intermountain,,2022,12,17
+Intermountain,38.0,2022,1,5
+Intermountain,38.0,2022,3,18
+Intermountain,38.0,2022,2,20
+Intermountain,12.0,2020,1,18
+Intermountain,57.0,2023,11,20
+Intermountain,,2023,7,9
+Intermountain,60.0,2024,7,3
+Intermountain,57.0,2023,2,6
+Intermountain,24.0,2021,8,13
+Intermountain,,2024,9,7
+Intermountain,60.0,2024,1,5
+Intermountain,59.0,2024,5,7
+Intermountain,57.0,2023,12,16
+Intermountain,59.0,2024,5,6
+Intermountain,24.0,2021,5,20
+Intermountain,41.0,2022,2,16
+Intermountain,11.0,2020,5,5
+Intermountain,57.0,2023,3,5
+Intermountain,24.0,2021,12,14
+Intermountain,24.0,2021,2,13
+Intermountain,,2022,8,9
+Intermountain,,2023,5,11
+Intermountain,24.0,2021,10,22
+Intermountain,,2020,11,10
+Intermountain,11.0,2020,1,17
+Intermountain,,2023,3,6
+Intermountain,,2021,3,4
+Intermountain,24.0,2021,9,9
+Intermountain,24.0,2021,5,19
+Intermountain,,2020,9,8
+Intermountain,24.0,2021,6,11
+Intermountain,58.0,2023,10,21
+Intermountain,57.0,2023,3,1
+Southeast,41.0,2022,8,2
+Southeast,24.0,2021,10,13
+Southeast,57.0,2023,7,19
+Southeast,56.0,2023,11,23
+Southeast,23.0,2021,8,6
+Southeast,,2024,3,8
+Southeast,12.0,2020,11,2
+Southeast,23.0,2021,7,5
+Southeast,41.0,2022,6,8
+Southeast,41.0,2022,7,3
+Southeast,41.0,2022,2,19
+Southeast,24.0,2021,7,8
+Southeast,11.0,2020,3,20
+Southeast,11.0,2020,9,9
+Southeast,56.0,2023,10,19
+Southeast,,2024,4,5
+Southeast,9.0,2020,6,0
+Southeast,,2020,10,14
+Southeast,,2023,3,2
+Southeast,9.0,2020,3,1
+Southeast,,2024,6,6
+Southeast,24.0,2021,9,17
+Southeast,,2023,12,21
+Southeast,57.0,2023,12,20
+Southeast,,2021,12,5
+Southeast,24.0,2021,11,0
+Southeast,9.0,2020,2,14
+Southeast,,2023,1,7
+Southeast,24.0,2021,4,23
+Southeast,24.0,2021,12,16
+Southeast,57.0,2023,9,18
+Southeast,,2021,7,18
+Southeast,,2024,4,11
+Southeast,10.0,2020,7,10
+Southeast,56.0,2023,2,0
+Southeast,,2021,2,18
+Southeast,56.0,2023,3,10
+Southeast,10.0,2020,2,13
+Southeast,56.0,2023,3,15
+Southeast,56.0,2023,7,23
+Southeast,40.0,2022,9,17
+Southeast,61.0,2024,2,12
+Southeast,24.0,2021,7,18
+Southeast,56.0,2023,4,11
+Southeast,,2024,4,21
+Southeast,,2020,11,13
+Southeast,,2024,8,9
+Southeast,57.0,2023,5,12
+Southeast,,2024,10,7
+Southeast,24.0,2021,2,15
+Southeast,,2024,1,5
+Southeast,,2023,4,21
+Southeast,39.0,2022,3,20
+Southeast,24.0,2021,5,14
+Southeast,9.0,2020,6,3
+Southeast,24.0,2021,5,7
+Southeast,,2024,7,19
+Southeast,9.0,2020,6,21
+Southeast,40.0,2022,12,3
+Southeast,24.0,2021,5,2
+Southeast,40.0,2022,3,4
+Southeast,23.0,2021,12,9
+Southeast,9.0,2020,8,11
+Southeast,,2023,6,4
+Southeast,,2023,2,15
+Southeast,56.0,2023,1,6
+Southeast,9.0,2020,2,1
+Southeast,57.0,2023,7,18
+Southeast,40.0,2022,2,10
+Southeast,,2024,4,20
+Southeast,,2020,3,11
+Southeast,57.0,2023,3,9
+Southeast,21.0,2021,11,6
+Southeast,,2021,5,10
+Southeast,21.0,2021,11,1
+Southeast,57.0,2023,9,0
+Southeast,,2024,3,8
+Southeast,,2024,1,18
+Southeast,57.0,2023,12,16
+Southeast,,2024,10,23
+Southeast,21.0,2021,2,15
+Southeast,20.0,2021,5,16
+Southeast,59.0,2024,4,12
+Intermountain,20.0,2021,1,22
+Intermountain,10.0,2020,5,7
+Intermountain,,2024,1,0
+Intermountain,20.0,2021,2,18
+Intermountain,20.0,2021,11,6
+Intermountain,10.0,2020,10,20
+Intermountain,40.0,2022,11,14
+Intermountain,10.0,2020,11,7
+Intermountain,57.0,2023,6,17
+Intermountain,10.0,2020,2,3
+Intermountain,,2020,2,7
+Intermountain,,2024,10,19
+Intermountain,58.0,2023,9,14
+Intermountain,42.0,2022,6,21
+Intermountain,,2020,5,17
+Intermountain,,2024,10,15
+Intermountain,10.0,2020,2,18
+Intermountain,,2021,9,3
+Intermountain,,2024,9,12
+Intermountain,,2021,12,8
+Intermountain,40.0,2022,8,18
+Intermountain,40.0,2022,1,5
+Intermountain,,2024,4,3
+Intermountain,40.0,2022,4,15
+Intermountain,44.0,2023,1,21
+Intermountain,40.0,2022,10,23
+Intermountain,44.0,2023,1,1
+Intermountain,,2021,1,21
+Intermountain,46.0,2023,10,23
+Intermountain,21.0,2021,2,6
+Intermountain,46.0,2023,5,15
+Intermountain,21.0,2021,5,13
+Intermountain,,2024,8,21
+Intermountain,10.0,2020,5,0
+Intermountain,21.0,2021,8,12
+Intermountain,,2022,5,21
+Intermountain,,2024,7,22
+Intermountain,10.0,2020,9,4
+Intermountain,10.0,2020,3,10
+Intermountain,21.0,2021,2,8
+Intermountain,,2020,7,0
+Intermountain,,2024,4,11
+Intermountain,,2024,10,11
+Intermountain,,2024,9,17
+Intermountain,10.0,2020,10,19
+Intermountain,,2022,11,9
+Intermountain,21.0,2021,7,4
+Intermountain,45.0,2023,8,23
+Intermountain,21.0,2021,4,15
+Intermountain,40.0,2022,11,13
+Intermountain,39.0,2022,7,2
+Intermountain,15.0,2020,10,21
+Intermountain,,2024,3,18
+Intermountain,45.0,2023,1,13
+Intermountain,39.0,2022,11,18
+Intermountain,,2021,2,20
+Intermountain,40.0,2022,7,21
+Intermountain,45.0,2023,8,9
+Intermountain,,2024,8,0
+Intermountain,,2024,8,12
+Intermountain,,2023,4,19
+Intermountain,46.0,2023,1,23
+Intermountain,40.0,2022,8,5
+Intermountain,21.0,2021,3,22
+Intermountain,40.0,2022,1,22
+Intermountain,,2021,4,1
+Intermountain,,2020,5,9
+Intermountain,,2024,1,12
+Intermountain,14.0,2020,7,19
+Intermountain,,2024,10,22
+Intermountain,40.0,2022,12,6
+Intermountain,20.0,2021,8,21
+Intermountain,46.0,2023,10,7
+Intermountain,20.0,2021,9,3
+Intermountain,,2021,8,10
+Intermountain,40.0,2022,2,23
+Intermountain,20.0,2021,8,20
+Intermountain,46.0,2023,1,19
+Intermountain,,2024,1,23
+Intermountain,20.0,2021,6,9
+Intermountain,,2024,8,8
+Intermountain,,2024,6,11
+Intermountain,20.0,2021,9,12
+Intermountain,,2024,6,23
+Intermountain,46.0,2023,6,14
+Intermountain,14.0,2020,11,11
+Intermountain,,2024,1,20
+Intermountain,,2024,6,20
+Intermountain,,2022,8,7
+Intermountain,41.0,2022,11,17
+Intermountain,44.0,2023,12,20
+Intermountain,41.0,2022,11,13
+Intermountain,41.0,2022,12,0
+Intermountain,44.0,2023,5,14
+Intermountain,,2021,1,4
+Intermountain,42.0,2022,6,10
+Intermountain,,2024,1,13
+Intermountain,42.0,2022,4,14
+Intermountain,,2023,4,19
+Intermountain,20.0,2021,10,8
+Intermountain,20.0,2021,8,15
+Intermountain,,2023,9,13
+Intermountain,,2021,8,19
+Intermountain,15.0,2020,12,17
+Intermountain,42.0,2022,2,11
+Intermountain,14.0,2020,9,15
+Intermountain,,2021,12,16
+Intermountain,41.0,2022,10,16
+Intermountain,14.0,2020,11,2
+Intermountain,45.0,2023,4,17
+Intermountain,41.0,2022,1,0
+Intermountain,14.0,2020,11,20
+Intermountain,20.0,2021,8,9
+Intermountain,20.0,2021,5,18
+Intermountain,20.0,2021,1,21
+Intermountain,14.0,2020,3,20
+Intermountain,20.0,2021,5,6
+Intermountain,,2024,9,1
+Intermountain,45.0,2023,2,5
+Intermountain,,2023,5,11
+Intermountain,45.0,2023,11,16
+Intermountain,,2021,10,2
+Intermountain,,2020,12,17
+Intermountain,45.0,2023,2,9
+Intermountain,45.0,2023,2,2
+Intermountain,,2024,6,9
+Intermountain,45.0,2023,1,4
+Intermountain,49.0,2023,11,21
+Intermountain,49.0,2023,4,6
+Intermountain,,2020,7,14
+Intermountain,41.0,2022,1,8
+Intermountain,49.0,2023,4,1
+Intermountain,20.0,2021,6,22
+Intermountain,20.0,2021,12,6
+Intermountain,40.0,2022,7,0
+Intermountain,49.0,2023,3,14
+Intermountain,13.0,2020,2,21
+Intermountain,59.0,2024,1,17
+Intermountain,49.0,2023,1,11
+Intermountain,41.0,2022,1,6
+Intermountain,39.0,2022,7,6
+Intermountain,13.0,2020,10,12
+Intermountain,,2024,3,15
+Intermountain,,2024,1,0
+Intermountain,38.0,2022,6,11
+Intermountain,,2024,8,1
+Intermountain,12.0,2020,7,11
+Intermountain,,2024,9,11
+Intermountain,22.0,2021,11,23
+Intermountain,12.0,2020,2,16
+Intermountain,,2024,10,3
+Intermountain,22.0,2021,10,21
+Intermountain,49.0,2023,2,3
+Intermountain,22.0,2021,1,9
+Intermountain,,2023,8,19
+Intermountain,49.0,2023,3,21
+Intermountain,49.0,2023,8,7
+Intermountain,,2023,10,20
+Intermountain,,2021,6,16
+Intermountain,,2020,4,0
+Intermountain,,2024,1,17
+Intermountain,,2024,8,23
+Intermountain,,2024,1,8
+Intermountain,,2024,2,3
+Intermountain,12.0,2020,5,12
+Intermountain,,2021,1,16
+Intermountain,22.0,2021,10,16
+Intermountain,22.0,2021,7,4
+Intermountain,50.0,2023,4,3
+Intermountain,,2022,11,21
+Intermountain,,2022,7,12
+Intermountain,50.0,2023,2,12
+Intermountain,50.0,2023,4,5
+Intermountain,38.0,2022,7,9
+Intermountain,60.0,2024,5,4
+Intermountain,,2021,12,15
+Intermountain,22.0,2021,9,21
+Intermountain,,2021,11,1
+Intermountain,13.0,2020,7,21
+Intermountain,13.0,2020,3,1
+Intermountain,38.0,2022,2,11
+Intermountain,,2020,3,17
+Intermountain,,2021,5,2
+Intermountain,13.0,2020,1,0
+Intermountain,13.0,2020,4,17
+Intermountain,38.0,2022,9,3
+Intermountain,,2023,5,13
+Intermountain,37.0,2022,5,20
+Intermountain,,2022,4,7
+Intermountain,37.0,2022,10,5
+Intermountain,13.0,2020,4,23
+Intermountain,,2024,1,15
+Intermountain,13.0,2020,2,2
+Intermountain,50.0,2023,1,8
+Intermountain,13.0,2020,11,9
+Intermountain,,2024,10,4
+Intermountain,13.0,2020,12,22
+Intermountain,50.0,2023,1,1
+Intermountain,37.0,2022,9,19
+Intermountain,13.0,2020,3,2
+Intermountain,,2022,6,21
+Intermountain,37.0,2022,8,18
+Intermountain,47.0,2023,8,8
+Intermountain,47.0,2023,3,15
+Intermountain,13.0,2020,11,16
+Intermountain,47.0,2023,8,18
+Intermountain,13.0,2020,5,14
+Intermountain,,2023,12,14
+Intermountain,13.0,2020,10,16
+Intermountain,,2023,3,15
+Intermountain,37.0,2022,9,4
+Intermountain,22.0,2021,10,6
+Intermountain,,2020,5,2
+Intermountain,,2021,2,4
+Intermountain,47.0,2023,6,1
+Intermountain,,2024,5,9
+Intermountain,47.0,2023,4,2
+Intermountain,47.0,2023,4,7
+Intermountain,13.0,2020,1,5
+Intermountain,22.0,2021,11,15
+Intermountain,39.0,2022,3,20
+Intermountain,,2020,11,13
+Intermountain,,2020,1,16
+Intermountain,39.0,2022,4,19
+Intermountain,,2024,4,5
+Intermountain,39.0,2022,5,1
+Intermountain,48.0,2023,2,10
+Intermountain,38.0,2022,12,9
+Intermountain,,2024,7,11
+Intermountain,48.0,2023,6,20
+Intermountain,61.0,2024,10,3
+Intermountain,38.0,2022,1,15
+Intermountain,48.0,2023,4,6
+Intermountain,,2024,2,16
+Intermountain,48.0,2023,2,21
+Intermountain,22.0,2021,10,11
+Intermountain,48.0,2023,4,4
+Intermountain,22.0,2021,4,20
+Intermountain,,2023,4,11
+Intermountain,,2024,7,8
+Intermountain,,2024,1,17
+Intermountain,48.0,2023,10,6
+Intermountain,48.0,2023,9,1
+Intermountain,,2023,10,22
+Intermountain,48.0,2023,2,11
+Intermountain,,2021,5,0
+Intermountain,48.0,2023,2,10
+Intermountain,,2024,3,9
+Intermountain,3.0,2020,11,20
+Intermountain,44.0,2022,7,7
+Intermountain,,2020,1,2
+Intermountain,44.0,2022,9,4
+Intermountain,44.0,2022,2,1
+Intermountain,47.0,2023,7,4
+Intermountain,,2024,8,7
+Intermountain,,2024,9,16
+Intermountain,,2022,1,16
+Intermountain,,2021,12,0
+Intermountain,47.0,2023,9,14
+Intermountain,42.0,2022,9,6
+Intermountain,3.0,2020,4,17
+Intermountain,61.0,2024,10,17
+Intermountain,3.0,2020,2,16
+Intermountain,,2021,7,21
+Intermountain,42.0,2022,4,23
+Intermountain,3.0,2020,8,21
+Intermountain,,2022,3,4
+Intermountain,,2024,6,23
+Intermountain,42.0,2022,1,0
+Intermountain,61.0,2024,8,8
+Intermountain,21.0,2021,8,4
+Intermountain,42.0,2022,12,13
+Intermountain,21.0,2021,4,19
+Intermountain,42.0,2022,10,14
+Intermountain,21.0,2021,4,14
+Intermountain,42.0,2022,3,13
+Intermountain,,2024,3,8
+Intermountain,42.0,2022,1,12
+Intermountain,3.0,2020,1,9
+Intermountain,43.0,2022,1,6
+Intermountain,50.0,2023,6,18
+Intermountain,,2020,9,12
+Intermountain,58.0,2024,4,18
+Intermountain,,2024,2,6
+Intermountain,49.0,2023,3,18
+Intermountain,21.0,2021,4,4
+Intermountain,3.0,2020,9,1
+Intermountain,21.0,2021,8,20
+Intermountain,,2023,9,12
+Intermountain,49.0,2023,7,21
+Intermountain,21.0,2021,4,20
+Intermountain,3.0,2020,3,5
+Intermountain,49.0,2023,3,12
+Intermountain,,2022,1,20
+Intermountain,,2020,3,19
+Intermountain,3.0,2020,3,20
+Intermountain,21.0,2021,11,17
+Intermountain,,2024,9,7
+Intermountain,3.0,2020,1,4
+Intermountain,,2024,5,17
+Intermountain,3.0,2020,1,20
+Intermountain,3.0,2020,11,17
+Intermountain,,2022,3,17
+Intermountain,45.0,2023,12,18
+Intermountain,22.0,2021,1,9
+Intermountain,22.0,2021,8,6
+Intermountain,21.0,2021,5,4
+Intermountain,3.0,2020,2,5
+Intermountain,46.0,2023,3,19
+Intermountain,,2022,2,3
+Intermountain,21.0,2021,11,14
+Intermountain,,2024,4,0
+Intermountain,3.0,2020,10,3
+Intermountain,,2024,3,10
+Intermountain,42.0,2022,5,10
+Intermountain,22.0,2021,3,16
+Intermountain,59.0,2024,5,11
+Intermountain,,2023,8,12
+Intermountain,,2022,4,11
+Intermountain,45.0,2023,9,19
+Intermountain,,2023,10,7
+Intermountain,45.0,2023,3,21
+Intermountain,,2020,12,7
+Intermountain,44.0,2022,9,2
+Intermountain,46.0,2023,10,22
+Intermountain,3.0,2020,3,11
+Intermountain,44.0,2022,2,0
+Intermountain,44.0,2022,6,9
+Intermountain,45.0,2023,5,21
+Intermountain,45.0,2023,8,0
+Intermountain,44.0,2022,11,5
+Intermountain,45.0,2023,1,23
+Intermountain,,2022,2,6
+Intermountain,44.0,2022,4,1
+Intermountain,46.0,2023,12,23
+Intermountain,43.0,2022,12,17
+Intermountain,4.0,2020,9,2
+Intermountain,,2024,10,14
+Intermountain,,2021,5,20
+Intermountain,22.0,2021,6,20
+Intermountain,4.0,2020,2,3
+Intermountain,45.0,2023,9,3
+Intermountain,45.0,2023,5,1
+Intermountain,43.0,2022,10,13
+Intermountain,,2022,2,9
+Intermountain,,2024,2,7
+Intermountain,44.0,2022,2,15
+Intermountain,4.0,2020,1,5
+Intermountain,28.0,2021,3,15
+Intermountain,4.0,2020,5,3
+Intermountain,,2020,10,20
+Intermountain,,2021,2,14
+Intermountain,,2023,1,7
+Intermountain,,2024,2,20
+Intermountain,43.0,2022,9,7
+Intermountain,4.0,2020,7,6
+Intermountain,42.0,2022,12,1
+Intermountain,4.0,2020,8,12
+Intermountain,4.0,2020,6,10
+Intermountain,,2024,10,17
+Intermountain,4.0,2020,2,1
+Intermountain,42.0,2022,12,0
+Intermountain,45.0,2023,7,6
+Intermountain,,2024,6,3
+Intermountain,28.0,2021,3,19
+Intermountain,42.0,2022,11,2
+Intermountain,,2023,7,0
+Intermountain,,2023,1,16
+Intermountain,42.0,2022,5,10
+Intermountain,28.0,2021,8,19
+Intermountain,28.0,2021,4,10
+Intermountain,45.0,2023,8,1
+Intermountain,28.0,2021,5,4
+Intermountain,,2024,10,17
+Intermountain,,2020,6,22
+Intermountain,4.0,2020,10,14
+Intermountain,4.0,2020,2,15
+Intermountain,28.0,2021,10,1
+Intermountain,45.0,2023,7,19
+Intermountain,45.0,2023,3,4
+Intermountain,28.0,2021,12,20
+Intermountain,,2024,7,1
+Intermountain,28.0,2021,5,6
+Intermountain,,2022,4,6
+Intermountain,,2024,2,23
+Intermountain,4.0,2020,2,20
+Intermountain,28.0,2021,6,2
+Intermountain,4.0,2020,11,2
+Intermountain,,2023,4,23
+Intermountain,42.0,2022,7,8
+Intermountain,28.0,2021,8,20
+Intermountain,68.0,2024,1,18
+Intermountain,,2024,7,3
+Intermountain,42.0,2022,11,22
+Intermountain,28.0,2021,2,17
+Intermountain,46.0,2023,7,21
+Intermountain,46.0,2023,3,3
+Intermountain,42.0,2022,9,15
+Intermountain,46.0,2023,2,10
+Intermountain,68.0,2024,2,5
+Intermountain,43.0,2022,1,11
+Intermountain,43.0,2022,12,7
+Intermountain,4.0,2020,6,11
+Intermountain,44.0,2023,3,14
+Intermountain,,2022,7,22
+Intermountain,,2024,8,12
+Intermountain,44.0,2023,10,4
+Intermountain,27.0,2021,3,23
+Intermountain,4.0,2020,1,7
+Intermountain,43.0,2022,7,3
+Intermountain,,2024,2,13
+Intermountain,45.0,2023,11,8
+Intermountain,68.0,2024,8,9
+Intermountain,45.0,2023,1,8
+Intermountain,42.0,2022,1,8
+Intermountain,,2022,2,20
+Pacific West,,2024,4,12
+Pacific West,45.0,2023,8,10
+Pacific West,,2022,6,7
+Pacific West,,2024,1,11
+Pacific West,49.0,2023,11,21
+Pacific West,,2021,12,18
+Pacific West,49.0,2023,1,16
+Pacific West,,2021,7,20
+Pacific West,,2020,9,3
+Pacific West,49.0,2023,1,6
+Pacific West,27.0,2021,3,12
+Pacific West,4.0,2020,12,20
+Pacific West,49.0,2023,6,13
+Pacific West,4.0,2020,5,14
+Pacific West,49.0,2023,8,12
+Pacific West,,2020,11,0
+Pacific West,28.0,2021,1,5
+Pacific West,43.0,2022,6,10
+Pacific West,28.0,2021,2,4
+Pacific West,,2020,5,2
+Pacific West,28.0,2021,8,10
+Pacific West,49.0,2023,10,3
+Pacific West,43.0,2022,9,16
+Pacific West,1.0,2020,6,11
+Pacific West,,2021,11,23
+Pacific West,43.0,2022,3,21
+Pacific West,1.0,2020,10,7
+Pacific West,1.0,2020,11,5
+Pacific West,28.0,2021,12,11
+Pacific West,,2024,2,16
+Pacific West,49.0,2023,5,14
+Pacific West,43.0,2022,5,19
+Pacific West,42.0,2022,12,8
+Pacific West,42.0,2022,8,21
+Pacific West,,2022,7,2
+Pacific West,,2024,1,19
+Pacific West,,2023,1,9
+Pacific West,28.0,2021,2,3
+Pacific West,28.0,2021,3,4
+Pacific West,27.0,2021,3,9
+Pacific West,,2020,9,4
+Pacific West,28.0,2021,10,0
+Pacific West,,2024,5,2
+Pacific West,2.0,2020,11,4
+Pacific West,49.0,2023,9,2
+Pacific West,49.0,2023,5,4
+Pacific West,1.0,2020,5,10
+Pacific West,43.0,2022,2,14
+Pacific West,43.0,2022,2,11
+Pacific West,,2022,9,3
+Pacific West,1.0,2020,8,10
+Pacific West,,2020,10,17
+Pacific West,43.0,2022,9,6
+Pacific West,68.0,2024,9,16
+Pacific West,,2024,10,13
+Pacific West,1.0,2020,1,18
+Pacific West,50.0,2023,6,9
+Pacific West,43.0,2022,3,0
+Pacific West,43.0,2022,11,14
+Pacific West,,2024,9,2
+Pacific West,50.0,2023,6,21
+Pacific West,43.0,2022,9,10
+Pacific West,43.0,2022,1,15
+Pacific West,,2024,5,0
+Pacific West,42.0,2022,1,4
+Pacific West,,2021,6,16
+Pacific West,1.0,2020,8,14
+Pacific West,50.0,2023,1,14
+Pacific West,,2024,6,17
+Pacific West,29.0,2021,8,16
+Pacific West,50.0,2023,9,9
+Pacific West,,2024,8,16
+Pacific West,42.0,2022,6,0
+Pacific West,50.0,2023,2,7
+Pacific West,29.0,2021,9,11
+Pacific West,29.0,2021,7,12
+Pacific West,50.0,2023,12,1
+Pacific West,,2022,11,23
+Pacific West,,2020,4,7
+Pacific West,29.0,2021,1,9
+Pacific West,,2024,2,17
+Pacific West,29.0,2021,6,12
+Pacific West,1.0,2020,8,17
+Pacific West,42.0,2022,11,18
+Pacific West,50.0,2023,1,7
+Pacific West,1.0,2020,8,2
+Pacific West,29.0,2021,12,19
+Pacific West,1.0,2020,10,21
+Pacific West,42.0,2022,5,4
+Pacific West,50.0,2023,12,8
+Pacific West,1.0,2020,10,21
+Pacific West,42.0,2022,7,5
+Pacific West,50.0,2023,3,20
+Pacific West,,2024,3,18
+Pacific West,,2020,5,4
+Pacific West,50.0,2023,7,23
+Pacific West,,2024,6,6
+Pacific West,,2024,6,14
+Pacific West,48.0,2023,1,3
+Pacific West,42.0,2022,1,0
+Pacific West,42.0,2022,6,21
+Pacific West,69.0,2024,2,10
+Pacific West,47.0,2023,6,16
+Pacific West,,2021,10,19
+Pacific West,47.0,2023,9,13
+Southeast,47.0,2023,8,10
+Southeast,2.0,2020,9,10
+Southeast,2.0,2020,3,18
+Southeast,2.0,2020,12,14
+Southeast,47.0,2023,10,9
+Southeast,,2020,7,11
+Southeast,47.0,2023,8,10
+Southeast,,2024,3,19
+Southeast,47.0,2023,7,11
+Southeast,,2021,10,12
+Southeast,47.0,2023,2,17
+Southeast,47.0,2023,2,20
+Southeast,47.0,2023,3,0
+Southeast,,2020,12,4
+Southeast,,2024,8,22
+Southeast,,2020,7,14
+Southeast,42.0,2022,3,17
+Southeast,28.0,2021,5,6
+Southeast,28.0,2021,6,6
+Southeast,28.0,2021,8,21
+Southeast,,2024,3,9
+Southeast,,2024,6,8
+Southeast,28.0,2021,5,0
+Southeast,42.0,2022,5,3
+Southeast,28.0,2021,11,20
+Southeast,,2024,3,4
+Southeast,42.0,2022,6,5
+Southeast,2.0,2020,4,17
+Southeast,,2024,3,20
+Southeast,,2022,9,4
+Southeast,3.0,2020,10,4
+Southeast,2.0,2020,7,22
+Southeast,2.0,2020,5,22
+Southeast,2.0,2020,5,21
+Southeast,44.0,2022,10,11
+Southeast,,2024,5,5
+Southeast,,2024,5,0
+Southeast,47.0,2023,3,16
+Southeast,2.0,2020,12,11
+Southeast,,2021,2,8
+Southeast,28.0,2021,8,19
+Southeast,47.0,2023,12,7
+Southeast,29.0,2021,12,13
+Southeast,,2024,7,16
+Southeast,2.0,2020,2,6
+Southeast,,2020,12,8
+Southeast,2.0,2020,11,10
+Southeast,69.0,2024,7,4
+Southeast,,2024,3,8
+Southeast,44.0,2022,3,4
+Southeast,43.0,2022,6,4
+Southeast,29.0,2021,1,0
+Southeast,43.0,2022,9,19
+Southeast,29.0,2021,4,3
+Southeast,,2020,10,10
+Southeast,47.0,2023,3,11
+Southeast,47.0,2023,5,5
+Southeast,29.0,2021,7,11
+Southeast,,2024,7,14
+Southeast,2.0,2020,8,19
+Southeast,48.0,2023,11,9
+Southeast,,2024,8,14
+Southeast,2.0,2020,9,12
+Southeast,,2024,2,15
+Southeast,,2024,4,8
+Southeast,,2021,6,9
+Southeast,48.0,2023,3,22
+Southeast,48.0,2023,10,16
+Southeast,,2023,8,22
+Southeast,44.0,2022,3,8
+Southeast,48.0,2023,12,4
+Southeast,,2024,4,8
+Southeast,29.0,2021,12,2
+Southeast,48.0,2023,3,22
+Southeast,2.0,2020,6,0
+Southeast,,2022,6,2
+Southeast,,2024,1,5
+Southeast,48.0,2023,2,10
+Southeast,,2023,8,5
+Southeast,,2022,2,17
+Southeast,,2023,3,0
+Southeast,44.0,2022,1,16
+Southeast,44.0,2022,11,2
+Pacific West,2.0,2020,10,19
+Pacific West,2.0,2020,7,16
+Pacific West,,2023,3,2
+Pacific West,67.0,2024,10,21
+Pacific West,43.0,2022,7,7
+Pacific West,43.0,2022,9,22
+Pacific West,27.0,2021,6,23
+Pacific West,,2020,3,22
+Pacific West,27.0,2021,10,22
+Pacific West,,2024,7,13
+Pacific West,48.0,2023,7,21
+Pacific West,5.0,2020,10,16
+Pacific West,26.0,2021,3,18
+Pacific West,26.0,2021,11,21
+Pacific West,7.0,2020,12,8
+Pacific West,7.0,2020,11,10
+Pacific West,44.0,2022,8,2
+Pacific West,47.0,2023,9,4
+Pacific West,26.0,2021,2,1
+Pacific West,26.0,2021,7,20
+Pacific West,7.0,2020,6,14
+Pacific West,48.0,2023,12,6
+Pacific West,7.0,2020,11,6
+Pacific West,38.0,2022,3,17
+Pacific West,48.0,2023,5,15
+Pacific West,7.0,2020,6,20
+Pacific West,,2024,5,2
+Pacific West,48.0,2023,2,23
+Pacific West,,2024,7,23
+Pacific West,38.0,2022,4,6
+Pacific West,25.0,2021,12,14
+Pacific West,48.0,2023,8,20
+Pacific West,48.0,2023,5,13
+Pacific West,48.0,2023,2,8
+Pacific West,,2021,6,5
+Pacific West,48.0,2023,1,11
+Pacific West,7.0,2020,7,11
+Pacific West,25.0,2021,12,7
+Pacific West,25.0,2021,12,1
+Pacific West,38.0,2022,6,19
+Pacific West,,2022,1,17
+Pacific West,26.0,2021,7,3
+Pacific West,39.0,2022,3,8
+Pacific West,8.0,2020,9,9
+Pacific West,26.0,2021,10,21
+Pacific West,38.0,2022,5,8
+Pacific West,48.0,2023,6,21
+Pacific West,26.0,2021,2,4
+Pacific West,67.0,2024,9,12
+Pacific West,26.0,2021,5,12
+Pacific West,38.0,2022,8,2
+Pacific West,67.0,2024,4,8
+Pacific West,,2022,2,23
+Pacific West,,2023,3,9
+Pacific West,48.0,2023,9,11
+Pacific West,,2024,6,16
+Pacific West,67.0,2024,3,21
+Pacific West,38.0,2022,1,3
+Pacific West,48.0,2023,7,13
+Pacific West,26.0,2021,5,3
+Pacific West,26.0,2021,9,6
+Pacific West,7.0,2020,11,3
+Pacific West,8.0,2020,8,11
+Pacific West,,2024,5,5
+Pacific West,26.0,2021,10,18
+Pacific West,48.0,2023,8,2
+Pacific West,7.0,2020,11,20
+Pacific West,38.0,2022,7,18
+Pacific West,26.0,2021,1,2
+Pacific West,38.0,2022,6,5
+Pacific West,38.0,2022,7,6
+Pacific West,38.0,2022,2,10
+Pacific West,,2022,11,19
+Pacific West,,2024,2,7
+Pacific West,,2021,6,14
+Midwest,25.0,2021,1,5
+Midwest,,2024,6,22
+Midwest,48.0,2023,10,14
+Midwest,,2021,6,22
+Midwest,39.0,2022,2,12
+Midwest,7.0,2020,1,6
+Midwest,7.0,2020,3,19
+Midwest,39.0,2022,8,3
+Midwest,48.0,2023,12,22
+Midwest,,2024,7,7
+Midwest,48.0,2023,1,7
+Midwest,7.0,2020,2,3
+Midwest,,2020,3,2
+Midwest,48.0,2023,11,15
+Midwest,48.0,2023,11,21
+Midwest,,2024,3,11
+Midwest,47.0,2023,7,9
+Midwest,25.0,2021,4,2
+Midwest,25.0,2021,4,4
+Midwest,7.0,2020,6,5
+Midwest,39.0,2022,11,1
+Midwest,25.0,2021,10,0
+Midwest,25.0,2021,9,11
+Midwest,39.0,2022,3,16
+Midwest,,2024,1,17
+Midwest,39.0,2022,11,3
+Midwest,,2020,12,23
+Midwest,47.0,2023,6,13
+Midwest,7.0,2020,3,20
+Midwest,7.0,2020,3,4
+Midwest,25.0,2021,1,0
+Midwest,39.0,2022,5,13
+Midwest,25.0,2021,3,12
+Midwest,,2023,12,8
+Midwest,,2023,12,7
+Midwest,,2020,6,19
+Midwest,39.0,2022,12,5
+Midwest,25.0,2021,11,8
+Midwest,,2024,9,13
+Midwest,39.0,2022,11,14
+Midwest,8.0,2020,7,19
+Midwest,8.0,2020,10,4
+Midwest,,2021,7,13
+Midwest,,2020,1,10
+Midwest,8.0,2020,6,19
+Midwest,25.0,2021,4,13
+Midwest,25.0,2021,11,2
+Midwest,8.0,2020,11,15
+Midwest,25.0,2021,11,9
+Midwest,47.0,2023,5,22
+Midwest,25.0,2021,5,16
+Midwest,47.0,2023,8,20
+Midwest,39.0,2022,7,22
+Midwest,25.0,2021,11,0
+Midwest,39.0,2022,11,20
+Midwest,,2023,9,0
+Midwest,39.0,2022,8,0
+Midwest,47.0,2023,8,8
+Midwest,25.0,2021,4,15
+Midwest,,2021,3,22
+Midwest,9.0,2020,11,12
+Midwest,39.0,2022,9,20
+Midwest,25.0,2021,7,18
+Midwest,47.0,2023,2,18
+Midwest,25.0,2021,9,13
+Midwest,9.0,2020,1,5
+Midwest,67.0,2024,5,11
+Midwest,39.0,2022,6,23
+Midwest,,2024,1,18
+Midwest,,2024,1,3
+Midwest,,2023,5,5
+Midwest,47.0,2023,2,13
+Midwest,37.0,2022,1,7
+Midwest,37.0,2022,3,14
+Midwest,,2024,2,3
+Midwest,47.0,2023,1,11
+Midwest,,2023,7,5
+Midwest,37.0,2022,12,14
+Midwest,8.0,2020,12,1
+Midwest,37.0,2022,3,4
+Midwest,8.0,2020,6,4
+Midwest,27.0,2021,9,20
+Midwest,,2021,11,17
+Midwest,47.0,2023,8,7
+Midwest,8.0,2020,2,6
+Alaska,47.0,2023,6,14
+Alaska,37.0,2022,10,23
+Alaska,,2021,7,18
+Alaska,47.0,2023,4,10
+Alaska,,2021,2,15
+Alaska,8.0,2020,1,13
+Alaska,,2021,9,11
+Alaska,27.0,2021,8,16
+Alaska,,2024,8,12
+Alaska,68.0,2024,3,11
+Alaska,8.0,2020,5,18
+Alaska,,2024,1,5
+Alaska,8.0,2020,4,17
+Alaska,,2024,6,2
+Alaska,8.0,2020,3,12
+Alaska,27.0,2021,4,13
+Alaska,27.0,2021,1,12
+Alaska,37.0,2022,3,23
+Alaska,48.0,2023,7,5
+Alaska,27.0,2021,8,19
+Alaska,68.0,2024,7,15
+Alaska,8.0,2020,11,10
+Alaska,8.0,2020,8,18
+Alaska,8.0,2020,6,12
+Alaska,27.0,2021,2,22
+Alaska,,2024,1,8
+Alaska,,2024,4,2
+Alaska,8.0,2020,8,20
+Alaska,27.0,2021,2,0
+Alaska,68.0,2024,9,18
+Alaska,,2021,3,2
+Alaska,50.0,2023,2,11
+Alaska,8.0,2020,5,19
+Alaska,,2021,12,22
+Alaska,,2024,8,8
+Alaska,,2022,7,17
+Alaska,27.0,2021,2,14
+Alaska,8.0,2020,12,13
+Alaska,7.0,2020,9,1
+Alaska,37.0,2022,8,15
+Alaska,37.0,2022,4,18
+Alaska,,2023,12,14
+Alaska,7.0,2020,1,0
+Alaska,,2022,10,19
+Alaska,,2024,6,15
+Alaska,5.0,2020,8,1
+Alaska,5.0,2020,5,9
+Alaska,50.0,2023,4,12
+Alaska,27.0,2021,5,4
+Alaska,27.0,2021,4,17
+Alaska,27.0,2021,11,15
+Alaska,,2024,6,2
+Alaska,50.0,2023,5,3
+Alaska,37.0,2022,3,16
+Alaska,27.0,2021,4,16
+Alaska,,2023,1,19
+Alaska,50.0,2023,1,3
+Alaska,,2022,11,1
+Alaska,,2021,5,11
+Alaska,,2021,3,15
+Alaska,68.0,2024,9,12
+Alaska,,2020,8,9
+Alaska,68.0,2024,9,11
+Alaska,5.0,2020,7,14
+Alaska,38.0,2022,9,15
+Alaska,26.0,2021,1,17
+Alaska,38.0,2022,6,13
+Alaska,,2021,4,6
+Alaska,38.0,2022,12,17
+Alaska,38.0,2022,9,12
+Alaska,5.0,2020,1,0
+Alaska,38.0,2022,10,22
+Alaska,,2024,2,15
+Alaska,26.0,2021,10,0
+Alaska,26.0,2021,7,4
+Alaska,5.0,2020,9,4
+Alaska,,2022,12,0
+Alaska,6.0,2020,7,8
+Alaska,,2024,10,3
+Alaska,,2023,8,13
+Alaska,26.0,2021,9,8
+Alaska,,2024,3,16
+Alaska,,2024,5,7
+Alaska,,2024,6,12
+Southeast,,2020,7,13
+Southeast,38.0,2022,10,14
+Southeast,,2024,2,23
+Southeast,,2024,1,19
+Southeast,,2024,3,23
+Southeast,,2021,4,5
+Southeast,38.0,2022,10,22
+Southeast,38.0,2022,9,3
+Southeast,,2024,5,22
+Southeast,71.0,2024,7,18
+Southeast,,2022,12,2
+Southeast,37.0,2022,4,8
+Southeast,27.0,2021,7,9
+Southeast,6.0,2020,1,10
+Southeast,,2024,10,16
+Southeast,26.0,2021,12,10
+Southeast,,2021,12,21
+Southeast,71.0,2024,5,4
+Southeast,5.0,2020,1,17
+Southeast,50.0,2023,6,18
+Southeast,49.0,2023,12,12
+Southeast,,2021,5,5
+Southeast,26.0,2021,12,12
+Southeast,38.0,2022,12,4
+Southeast,,2024,2,16
+Southeast,,2020,10,4
+Southeast,,2020,2,4
+Southeast,,2024,5,3
+Southeast,5.0,2020,1,15
+Southeast,49.0,2023,7,17
+Southeast,,2024,8,10
+Southeast,49.0,2023,12,21
+Southeast,49.0,2023,11,15
+Southeast,,2023,7,22
+Southeast,71.0,2024,6,18
+Southeast,,2024,6,1
+Southeast,,2024,1,12
+Southeast,5.0,2020,11,16
+Southeast,,2020,5,5
+Southeast,26.0,2021,8,7
+Southeast,,2024,6,7
+Southeast,,2024,5,13
+Southeast,,2021,10,14
+Southeast,39.0,2022,3,21
+Southeast,49.0,2023,1,2
+Southeast,5.0,2020,4,9
+Southeast,26.0,2021,5,7
+Southeast,26.0,2021,2,12
+Southeast,,2024,8,4
+Southeast,,2024,2,8
+Southeast,,2024,5,3
+Southeast,41.0,2022,1,14
+Southeast,5.0,2020,11,0
+Southeast,48.0,2023,11,9
+Southeast,41.0,2022,3,8
+Southeast,5.0,2020,1,2
+Southeast,,2024,2,3
+Southeast,27.0,2021,12,15
+Southeast,47.0,2023,2,3
+Southeast,27.0,2021,3,9
+Southeast,27.0,2021,12,19
+Southeast,,2024,4,6
+Southeast,5.0,2020,10,12
+Southeast,49.0,2023,9,12
+Southeast,41.0,2022,9,22
+Southeast,27.0,2021,2,15
+Southeast,41.0,2022,8,15
+Southeast,,2021,12,2
+Southeast,41.0,2022,2,16
+Southeast,,2022,3,12
+Southeast,41.0,2022,9,19
+Southeast,,2020,7,8
+Southeast,6.0,2020,4,15
+Southeast,6.0,2020,1,2
+Southeast,41.0,2022,1,8
+Southeast,49.0,2023,7,7
+Southeast,6.0,2020,9,11
+Southeast,49.0,2023,1,9
+Southeast,,2021,9,16
+Southeast,49.0,2023,5,17
+Southeast,40.0,2022,1,18
+Southeast,40.0,2022,1,14
+Southeast,40.0,2022,9,20
+Southeast,25.0,2021,3,16
+Southeast,49.0,2023,1,14
+Southeast,41.0,2022,9,21
+Southeast,25.0,2021,6,9
+Southeast,6.0,2020,9,18
+Southeast,,2024,9,3
+Southeast,,2024,6,22
+Southeast,71.0,2024,3,17
+Southeast,25.0,2021,8,22
+Southeast,71.0,2024,6,15
+Southeast,,2021,3,21
+Southeast,26.0,2021,8,23
+Southeast,26.0,2021,4,1
+Southeast,41.0,2022,11,13
+Southeast,45.0,2023,11,22
+Southeast,41.0,2022,3,14
+Southeast,26.0,2021,4,11
+Southeast,,2023,12,16
+Southeast,41.0,2022,9,22
+Southeast,7.0,2020,10,2
+Southeast,45.0,2023,3,17
+Southeast,26.0,2021,2,9
+Southeast,,2024,3,20
+Southeast,29.0,2021,8,8
+Southeast,45.0,2023,2,8
+Southeast,,2024,3,22
+Southeast,29.0,2021,12,12
+Southeast,71.0,2024,5,11
+Southeast,45.0,2023,12,5
+Southeast,7.0,2020,7,10
+Southeast,,2024,8,18
+Southeast,28.0,2021,1,3
+Southeast,6.0,2020,12,20
+Southeast,,2024,8,4
+Southeast,45.0,2023,11,10
+Southeast,45.0,2023,10,18
+Southeast,,2020,5,5
+Southeast,45.0,2023,8,20
+Southeast,6.0,2020,2,2
+Southeast,,2024,7,4
+Southeast,,2021,6,15
+Southeast,41.0,2022,1,5
+Southeast,41.0,2022,11,4
+Southeast,29.0,2021,9,0
+Southeast,45.0,2023,12,22
+Southeast,6.0,2020,12,1
+Southeast,41.0,2022,2,8
+Southeast,6.0,2020,2,19
+Southeast,6.0,2020,6,21
+Southeast,71.0,2024,10,3
+Southeast,6.0,2020,9,2
+Southeast,,2024,8,23
+Southeast,,2024,3,15
+Southeast,45.0,2023,12,22
+Southeast,6.0,2020,4,19
+Southeast,6.0,2020,8,8
+Southeast,,2024,8,14
+Southeast,44.0,2023,8,17
+Southeast,71.0,2024,4,7
+Southeast,44.0,2023,12,13
+Southeast,,2021,4,14
+Southeast,,2024,7,17
+Southeast,27.0,2021,7,11
+Southeast,44.0,2023,4,14
+Southeast,28.0,2021,5,9
+Southeast,71.0,2024,3,12
+Southeast,6.0,2020,9,21
+Southeast,,2024,6,9
+Southeast,6.0,2020,12,9
+Southeast,44.0,2023,2,2
+Southeast,41.0,2022,1,15
+Southeast,,2020,1,9
+Southeast,41.0,2022,3,23
+Southeast,6.0,2020,9,2
+Southeast,44.0,2023,9,13
+Southeast,6.0,2020,3,23
+Southeast,,2024,7,14
+Southeast,,2024,2,23
+Southeast,,2024,9,8
+Southeast,,2024,2,17
+Southeast,46.0,2023,10,15
+Southeast,,2023,5,8
+Southeast,,2024,9,0
+Southeast,,2021,1,4
+Southeast,6.0,2020,4,17
+Alaska,,2024,9,16
+Alaska,,2024,4,0
+Alaska,41.0,2022,12,15
+Alaska,41.0,2022,11,19
+Alaska,,2020,4,15
+Alaska,22.0,2021,3,3
+Alaska,,2023,7,22
+Alaska,,2023,5,2
+Alaska,41.0,2022,10,3
+Alaska,41.0,2022,5,2
+Alaska,,2022,12,7
+Alaska,71.0,2024,1,7
+Alaska,71.0,2024,4,17
+Alaska,41.0,2022,9,6
+Alaska,15.0,2021,8,15
+Alaska,41.0,2022,10,6
+Alaska,6.0,2020,7,0
+Alaska,40.0,2022,1,18
+Alaska,6.0,2020,4,3
+Alaska,46.0,2023,2,6
+Alaska,,2024,10,8
+Alaska,40.0,2022,4,17
+Alaska,,2024,3,12
+Alaska,,2024,3,22
+Alaska,6.0,2020,10,20
+Alaska,46.0,2023,2,7
+Alaska,6.0,2020,1,14
+Alaska,46.0,2023,12,1
+Alaska,70.0,2024,5,12
+Alaska,40.0,2022,9,8
+Alaska,,2021,1,14
+Alaska,,2021,8,11
+Alaska,70.0,2024,3,21
+Alaska,,2023,12,9
+Alaska,46.0,2023,2,6
+Alaska,,2022,12,6
+Alaska,40.0,2022,7,17
+Alaska,40.0,2022,10,12
+Alaska,16.0,2021,10,20
+Alaska,16.0,2021,7,12
+Alaska,7.0,2020,2,13
+Alaska,,2024,3,9
+Alaska,70.0,2024,3,4
+Alaska,,2024,5,20
+Alaska,40.0,2022,11,17
+Alaska,,2024,5,7
+Alaska,,2024,10,8
+Alaska,,2022,5,2
+Alaska,,2024,1,16
+Alaska,16.0,2021,7,8
+Alaska,,2024,8,17
+Alaska,16.0,2021,10,5
+Alaska,6.0,2020,12,13
+Alaska,,2024,8,0
+Alaska,16.0,2021,8,14
+Alaska,70.0,2024,5,21
+Alaska,45.0,2023,10,2
+Alaska,,2024,10,15
+Alaska,45.0,2023,11,20
+Alaska,39.0,2022,10,9
+Alaska,15.0,2021,3,6
+Alaska,,2024,10,22
+Alaska,46.0,2023,1,18
+Alaska,46.0,2023,11,14
+Alaska,39.0,2022,3,6
+Alaska,70.0,2024,7,2
+Alaska,5.0,2020,10,23
+Alaska,15.0,2021,8,10
+Alaska,,2020,9,2
+Alaska,5.0,2020,3,14
+Alaska,45.0,2023,2,8
+Midwest,15.0,2021,2,3
+Midwest,45.0,2023,5,7
+Midwest,,2022,12,21
+Midwest,16.0,2021,3,13
+Midwest,39.0,2022,7,19
+Midwest,39.0,2022,1,23
+Midwest,5.0,2020,1,10
+Midwest,,2022,1,0
+Midwest,5.0,2020,9,1
+Midwest,40.0,2022,6,7
+Midwest,45.0,2023,1,4
+Midwest,,2023,11,10
+Midwest,6.0,2020,2,22
+Midwest,,2024,5,22
+Midwest,6.0,2020,1,4
+Midwest,16.0,2021,11,17
+Midwest,,2024,4,9
+Midwest,40.0,2022,6,22
+Midwest,44.0,2023,5,23
+Midwest,,2021,9,20
+Midwest,,2022,9,10
+Midwest,40.0,2022,3,23
+Midwest,15.0,2021,5,5
+Midwest,15.0,2021,6,6
+Midwest,,2024,10,14
+Midwest,40.0,2022,7,20
+Midwest,5.0,2020,4,22
+Midwest,45.0,2023,11,11
+Midwest,40.0,2022,7,14
+Midwest,15.0,2021,7,8
+Midwest,16.0,2021,10,20
+Midwest,,2022,6,12
+Midwest,,2024,9,15
+Midwest,,2024,6,1
+Midwest,40.0,2022,5,1
+Midwest,16.0,2021,11,17
+Midwest,40.0,2022,7,12
+Midwest,45.0,2023,5,10
+Midwest,16.0,2021,6,11
+Midwest,,2023,11,15
+Midwest,69.0,2024,2,10
+Midwest,69.0,2024,9,8
+Midwest,16.0,2021,10,2
+Midwest,46.0,2023,8,8
+Midwest,40.0,2022,1,0
+Midwest,69.0,2024,5,23
+Midwest,8.0,2020,6,2
+Midwest,15.0,2021,4,21
+Midwest,46.0,2023,5,12
+Midwest,8.0,2020,6,6
+Midwest,,2021,6,17
+Midwest,,2020,5,21
+Midwest,8.0,2020,5,16
+Midwest,8.0,2020,9,11
+Midwest,,2020,2,3
+Midwest,8.0,2020,5,22
+Midwest,,2024,7,17
+Midwest,40.0,2022,7,13
+Midwest,,2024,6,0
+Midwest,46.0,2023,10,7
+Midwest,40.0,2022,2,14
+Midwest,40.0,2022,9,12
+Midwest,,2024,10,7
+Midwest,8.0,2020,2,2
+Midwest,8.0,2020,8,18
+Midwest,40.0,2022,5,16
+Midwest,,2022,5,13
+Midwest,,2021,4,13
+Midwest,,2023,8,18
+Midwest,8.0,2020,6,14
+Midwest,46.0,2023,7,7
+Midwest,46.0,2023,5,17
+Midwest,,2021,1,10
+Alaska,9.0,2020,11,23
+Alaska,40.0,2022,12,13
+Alaska,19.0,2021,10,21
+Alaska,40.0,2022,6,18
+Alaska,40.0,2022,12,23
+Alaska,70.0,2024,7,1
+Alaska,,2024,2,10
+Alaska,44.0,2023,5,20
+Alaska,,2023,3,0
+Alaska,40.0,2022,4,14
+Alaska,40.0,2022,8,21
+Alaska,70.0,2024,1,0
+Alaska,8.0,2020,6,1
+Alaska,8.0,2020,11,9
+Alaska,8.0,2020,10,22
+Alaska,8.0,2020,3,6
+Alaska,,2020,3,19
+Alaska,19.0,2021,8,15
+Alaska,8.0,2020,12,2
+Alaska,40.0,2022,11,8
+Alaska,40.0,2022,4,20
+Alaska,45.0,2023,1,2
+Alaska,45.0,2023,3,15
+Alaska,,2024,3,7
+Alaska,40.0,2022,5,3
+Alaska,53.0,2023,2,21
+Alaska,7.0,2020,5,22
+Alaska,,2022,9,10
+Alaska,19.0,2021,8,4
+Alaska,57.0,2023,4,9
+Alaska,,2024,1,12
+Alaska,18.0,2021,10,14
+Alaska,,2024,3,1
+Alaska,,2024,1,10
+Alaska,18.0,2021,6,18
+Alaska,7.0,2020,10,9
+Alaska,7.0,2020,12,7
+Alaska,70.0,2024,5,18
+Alaska,40.0,2022,4,20
+Alaska,70.0,2024,1,11
+Alaska,,2024,3,20
+Alaska,7.0,2020,5,19
+Alaska,7.0,2020,12,15
+Alaska,7.0,2020,10,14
+Alaska,7.0,2020,2,10
+Alaska,7.0,2020,6,14
+Alaska,58.0,2023,6,18
+Alaska,7.0,2020,11,17
+Alaska,57.0,2023,7,13
+Alaska,40.0,2022,5,6
+Alaska,,2021,4,6
+Alaska,7.0,2020,12,4
+Alaska,18.0,2021,9,4
+Alaska,18.0,2021,6,22
+Alaska,,2024,2,0
+Alaska,,2024,2,0
+Alaska,,2024,5,3
+Alaska,58.0,2023,10,11
+Alaska,,2024,1,23
+Alaska,,2023,3,1
+Alaska,18.0,2021,10,8
+Alaska,,2021,6,4
+Alaska,,2022,3,12
+Alaska,18.0,2021,11,12
+Alaska,,2021,2,20
+Alaska,40.0,2022,3,17
+Alaska,,2024,3,22
+Alaska,40.0,2022,12,16
+Alaska,7.0,2020,11,10
+Alaska,,2021,2,17
+Alaska,57.0,2023,8,22
+Alaska,40.0,2022,11,12
+Alaska,57.0,2023,4,16
+Alaska,,2024,5,3
+Alaska,19.0,2021,7,16
+Alaska,19.0,2021,6,20
+Alaska,70.0,2024,1,18
+Alaska,2.0,2020,5,6
+Alaska,19.0,2021,11,15
+Alaska,,2021,9,14
+Alaska,,2024,9,15
+Alaska,2.0,2020,7,20
+Alaska,,2020,7,14
+Alaska,40.0,2022,9,6
+Alaska,,2020,2,23
+Alaska,2.0,2020,9,3
+Alaska,2.0,2020,11,11
+Alaska,58.0,2023,7,1
+Alaska,,2024,8,9
+Alaska,,2024,1,3
+Alaska,20.0,2021,3,0
+Alaska,,2024,5,12
+Alaska,,2021,9,9
+Alaska,,2024,3,6
+Alaska,56.0,2023,6,2
+Intermountain,56.0,2023,4,13
+Intermountain,56.0,2023,3,20
+Intermountain,40.0,2022,10,10
+Intermountain,,2024,3,0
+Intermountain,63.0,2024,7,2
+Intermountain,40.0,2022,8,17
+Intermountain,19.0,2021,7,4
+Intermountain,56.0,2023,12,4
+Intermountain,40.0,2022,8,15
+Intermountain,,2021,9,15
+Intermountain,,2021,8,1
+Intermountain,40.0,2022,1,9
+Intermountain,,2024,6,19
+Intermountain,19.0,2021,4,11
+Intermountain,55.0,2023,11,3
+Intermountain,2.0,2020,3,2
+Intermountain,2.0,2020,8,19
+Intermountain,2.0,2020,3,15
+Intermountain,19.0,2021,3,2
+Intermountain,19.0,2021,11,1
+Intermountain,63.0,2024,3,5
+Intermountain,,2024,6,11
+Intermountain,1.0,2020,11,4
+Intermountain,1.0,2020,6,12
+Intermountain,40.0,2022,2,13
+Intermountain,55.0,2023,12,13
+Intermountain,55.0,2023,2,5
+Intermountain,56.0,2023,9,21
+Intermountain,56.0,2023,8,6
+Intermountain,56.0,2023,6,5
+Intermountain,56.0,2023,1,5
+Intermountain,40.0,2022,8,0
+Intermountain,1.0,2020,10,8
+Intermountain,1.0,2020,5,5
+Intermountain,39.0,2022,9,4
+Intermountain,57.0,2023,3,1
+Intermountain,56.0,2023,1,11
+Intermountain,,2022,8,2
+Intermountain,1.0,2020,5,18
+Intermountain,,2024,8,22
+Intermountain,1.0,2020,7,0
+Intermountain,56.0,2023,1,15
+Intermountain,17.0,2021,12,20
+Intermountain,39.0,2022,12,7
+Intermountain,56.0,2023,5,23
+Intermountain,,2021,1,7
+Intermountain,,2024,5,6
+Intermountain,17.0,2021,3,6
+Intermountain,,2020,8,1
+Intermountain,,2023,4,23
+Intermountain,63.0,2024,4,16
+Intermountain,,2024,9,3
+Intermountain,17.0,2021,2,20
+Intermountain,56.0,2023,12,3
+Intermountain,,2021,2,3
+Intermountain,,2020,8,3
+Intermountain,,2022,6,3
+Intermountain,56.0,2023,5,9
+Intermountain,40.0,2022,12,14
+Intermountain,40.0,2022,1,17
+Intermountain,1.0,2020,7,5
+Intermountain,17.0,2021,7,22
+Intermountain,,2024,2,12
+Intermountain,40.0,2022,6,11
+Intermountain,56.0,2023,3,3
+Intermountain,40.0,2022,11,11
+Intermountain,17.0,2021,2,9
+Intermountain,,2024,5,14
+Intermountain,4.0,2020,7,5
+Intermountain,,2021,12,6
+Intermountain,17.0,2021,11,5
+Intermountain,,2024,2,16
+Intermountain,40.0,2022,12,16
+Intermountain,56.0,2023,11,19
+Intermountain,4.0,2020,5,14
+Intermountain,17.0,2021,11,11
+Intermountain,4.0,2020,2,6
+Intermountain,,2023,8,11
+Intermountain,56.0,2023,3,6
+Intermountain,16.0,2021,6,0
+Intermountain,,2024,5,15
+Intermountain,56.0,2023,12,3
+Intermountain,,2024,6,4
+Intermountain,16.0,2021,8,3
+Intermountain,4.0,2020,4,15
+Intermountain,40.0,2022,3,22
+Intermountain,,2024,7,16
+Intermountain,16.0,2021,1,13
+Intermountain,40.0,2022,4,9
+Intermountain,,2024,5,2
+Intermountain,16.0,2021,6,17
+Intermountain,4.0,2020,4,6
+Intermountain,63.0,2024,6,8
+Intermountain,,2020,1,10
+Intermountain,40.0,2022,10,14
+Intermountain,16.0,2021,10,15
+Intermountain,4.0,2020,8,14
+Intermountain,40.0,2022,11,14
+Intermountain,,2020,7,16
+Intermountain,57.0,2023,5,5
+Intermountain,,2020,6,8
+Intermountain,,2023,4,21
+Intermountain,41.0,2022,8,10
+Intermountain,17.0,2021,4,1
+Intermountain,41.0,2022,5,3
+Intermountain,,2022,8,11
+Intermountain,57.0,2023,12,14
+Intermountain,57.0,2023,1,20
+Intermountain,4.0,2020,8,14
+Intermountain,,2021,8,2
+Intermountain,41.0,2022,8,14
+Intermountain,57.0,2023,1,5
+Intermountain,,2023,8,1
+Intermountain,57.0,2023,11,19
+Intermountain,41.0,2022,9,4
+Intermountain,41.0,2022,2,12
+Intermountain,4.0,2020,9,23
+Intermountain,41.0,2022,2,3
+Intermountain,41.0,2022,4,7
+Intermountain,,2024,2,3
+Intermountain,,2021,1,20
+Intermountain,18.0,2021,6,17
+Intermountain,,2020,5,0
+Intermountain,,2022,5,16
+Intermountain,,2024,6,14
+Intermountain,55.0,2023,3,8
+Intermountain,55.0,2023,10,18
+Intermountain,55.0,2023,6,22
+Intermountain,42.0,2022,5,5
+Intermountain,42.0,2022,8,0
+Intermountain,42.0,2022,4,1
+Intermountain,1.0,2020,5,18
+Intermountain,,2024,4,23
+Intermountain,,2024,8,17
+Intermountain,18.0,2021,11,9
+Intermountain,,2022,11,4
+Intermountain,18.0,2021,7,15
+Intermountain,18.0,2021,9,19
+Intermountain,3.0,2020,1,5
+Intermountain,18.0,2021,8,18
+Intermountain,,2024,1,15
+Intermountain,41.0,2022,11,12
+Intermountain,18.0,2021,2,18
+Intermountain,18.0,2021,10,17
+Intermountain,41.0,2022,5,4
+Intermountain,3.0,2020,3,7
+Intermountain,18.0,2021,4,21
+Intermountain,3.0,2020,1,12
+Intermountain,18.0,2021,10,5
+Intermountain,18.0,2021,4,6
+Intermountain,,2024,4,1
+Intermountain,41.0,2022,4,16
+Intermountain,56.0,2023,4,16
+Intermountain,56.0,2023,3,11
+Intermountain,41.0,2022,1,2
+Intermountain,56.0,2023,10,14
+Intermountain,17.0,2021,2,12
+Intermountain,,2024,7,8
+Intermountain,4.0,2020,8,6
+Intermountain,3.0,2020,10,17
+Intermountain,,2024,4,18
+Intermountain,,2024,8,21
+Intermountain,,2024,6,20
+Intermountain,56.0,2023,7,4
+Intermountain,57.0,2023,4,22
+Intermountain,,2024,8,10
+Intermountain,,2022,8,7
+Intermountain,4.0,2020,6,1
+Intermountain,41.0,2022,8,13
+Intermountain,17.0,2021,10,0
+Intermountain,,2020,6,1
+Intermountain,56.0,2023,12,1
+Intermountain,41.0,2022,10,2
+Intermountain,41.0,2022,11,22
+Intermountain,,2024,8,5
+Intermountain,,2024,9,19
+Intermountain,56.0,2023,11,17
+Intermountain,18.0,2021,2,1
+Intermountain,,2024,10,22
+Intermountain,18.0,2021,4,17
+Intermountain,64.0,2024,10,20
+Intermountain,41.0,2022,7,15
+Intermountain,3.0,2020,2,19
+Intermountain,,2020,7,6
+Intermountain,41.0,2022,12,11
+Intermountain,18.0,2021,4,19
+Intermountain,41.0,2022,2,9
+Intermountain,58.0,2023,8,7
+Intermountain,58.0,2023,4,12
+Intermountain,40.0,2022,12,23
+Intermountain,18.0,2021,5,2
+Intermountain,,2020,10,7
+Intermountain,13.0,2020,4,14
+Intermountain,57.0,2023,10,23
+Intermountain,18.0,2021,7,2
+Intermountain,,2024,10,0
+Intermountain,40.0,2022,1,17
+Intermountain,,2020,1,5
+Intermountain,13.0,2020,2,9
+Intermountain,17.0,2021,11,8
+Intermountain,,2024,2,1
+Intermountain,58.0,2023,9,15
+Intermountain,13.0,2020,7,11
+Intermountain,,2024,8,2
+Intermountain,40.0,2022,3,9
+Intermountain,41.0,2022,9,13
+Intermountain,41.0,2022,6,14
+Intermountain,,2021,1,2
+Intermountain,,2023,5,13
+Intermountain,64.0,2024,4,2
+Intermountain,41.0,2022,12,6
+Intermountain,13.0,2020,9,4
+Intermountain,18.0,2021,8,1
+Intermountain,,2023,2,7
+Intermountain,41.0,2022,10,14
+Intermountain,,2023,2,19
+Intermountain,,2020,12,12
+Intermountain,18.0,2021,2,15
+Intermountain,18.0,2021,6,14
+Intermountain,41.0,2022,10,3
+Intermountain,58.0,2023,1,10
+Intermountain,18.0,2021,12,18
+Intermountain,18.0,2021,3,21
+Pacific West,58.0,2023,6,2
+Pacific West,18.0,2021,8,20
+Pacific West,,2023,2,15
+Pacific West,58.0,2023,1,2
+Pacific West,41.0,2022,2,1
+Pacific West,,2024,7,1
+Pacific West,,2024,4,10
+Pacific West,13.0,2020,2,11
+Pacific West,17.0,2021,12,9
+Pacific West,,2024,1,9
+Pacific West,17.0,2021,9,6
+Pacific West,57.0,2023,3,9
+Pacific West,17.0,2021,4,18
+Pacific West,57.0,2023,11,1
+Pacific West,,2024,3,6
+Pacific West,,2024,5,16
+Pacific West,41.0,2022,2,2
+Pacific West,14.0,2020,8,8
+Pacific West,14.0,2020,7,8
+Pacific West,,2024,9,10
+Pacific West,41.0,2022,11,15
+Pacific West,,2024,9,3
+Pacific West,,2024,7,9
+Pacific West,,2021,6,11
+Pacific West,15.0,2020,5,21
+Pacific West,16.0,2021,8,15
+Pacific West,,2021,11,1
+Pacific West,14.0,2020,6,8
+Pacific West,14.0,2020,4,17
+Pacific West,16.0,2021,2,1
+Pacific West,16.0,2021,7,5
+Pacific West,14.0,2020,1,7
+Pacific West,14.0,2020,9,1
+Pacific West,14.0,2020,9,15
+Pacific West,,2024,4,17
+Pacific West,14.0,2020,10,9
+Pacific West,57.0,2023,3,17
+Pacific West,57.0,2023,1,15
+Pacific West,,2020,3,20
+Pacific West,41.0,2022,1,5
+Pacific West,14.0,2020,1,21
+Pacific West,14.0,2020,4,3
+Pacific West,41.0,2022,10,17
+Pacific West,17.0,2021,2,19
+Pacific West,40.0,2022,1,14
+Pacific West,57.0,2023,8,12
+Pacific West,38.0,2022,12,18
+Pacific West,14.0,2020,6,8
+Pacific West,38.0,2022,5,0
+Pacific West,57.0,2023,10,0
+Pacific West,57.0,2023,1,15
+Pacific West,58.0,2023,1,8
+Pacific West,,2024,5,21
+Pacific West,57.0,2023,5,16
+Pacific West,57.0,2023,12,17
+Pacific West,,2024,5,22
+Pacific West,38.0,2022,1,4
+Pacific West,,2022,5,23
+Pacific West,17.0,2021,9,19
+Pacific West,17.0,2021,8,21
+Pacific West,,2024,7,16
+Pacific West,14.0,2020,11,15
+Pacific West,38.0,2022,11,2
+Pacific West,57.0,2023,5,20
+Pacific West,38.0,2022,11,20
+Pacific West,17.0,2021,10,23
+Pacific West,10.0,2020,12,21
+Pacific West,10.0,2020,5,23
+Pacific West,17.0,2021,2,15
+Pacific West,10.0,2020,4,17
+Pacific West,62.0,2024,3,2
+Pacific West,,2024,3,21
+Pacific West,57.0,2023,12,18
+Pacific West,,2024,7,17
+Pacific West,57.0,2023,11,21
+Pacific West,,2024,10,17
+Pacific West,19.0,2021,7,18
+Pacific West,37.0,2022,10,22
+Pacific West,,2024,6,6
+Pacific West,58.0,2023,7,17
+Pacific West,10.0,2020,4,12
+Pacific West,55.0,2023,3,3
+Pacific West,,2023,3,18
+Pacific West,11.0,2020,11,14
+Pacific West,19.0,2021,9,7
+Pacific West,19.0,2021,11,16
+Pacific West,,2024,1,4
+Pacific West,37.0,2022,5,0
+Pacific West,52.0,2023,9,23
+Pacific West,52.0,2023,1,11
+Pacific West,62.0,2024,6,13
+Pacific West,19.0,2021,10,7
+Pacific West,,2021,3,13
+Pacific West,52.0,2023,5,15
+Pacific West,38.0,2022,4,15
+Pacific West,52.0,2023,6,14
+Pacific West,,2021,3,10
+Pacific West,38.0,2022,6,8
+Pacific West,,2020,12,9
+Pacific West,,2024,9,0
+Pacific West,,2024,2,13
+Pacific West,,2022,4,10
+Pacific West,9.0,2020,10,1
+Pacific West,52.0,2023,2,20
+Pacific West,52.0,2023,7,8
+Pacific West,38.0,2022,6,1
+Pacific West,20.0,2021,5,4
+Pacific West,52.0,2023,1,2
+Pacific West,,2024,6,13
+Pacific West,63.0,2024,5,2
+Pacific West,,2024,5,18
+Pacific West,9.0,2020,7,8
+Pacific West,20.0,2021,8,15
+Intermountain,,2023,2,16
+Intermountain,38.0,2022,6,7
+Intermountain,52.0,2023,2,18
+Intermountain,19.0,2021,10,1
+Intermountain,52.0,2023,11,19
+Intermountain,52.0,2023,1,16
+Intermountain,,2021,7,23
+Intermountain,10.0,2020,10,3
+Intermountain,52.0,2023,6,0
+Intermountain,,2021,5,1
+Intermountain,37.0,2022,8,21
+Intermountain,9.0,2020,1,9
+Intermountain,19.0,2021,3,17
+Intermountain,19.0,2021,7,6
+Intermountain,52.0,2023,6,19
+Intermountain,,2024,10,8
+Intermountain,52.0,2023,2,14
+Intermountain,37.0,2022,7,2
+Intermountain,37.0,2022,2,20
+Intermountain,52.0,2023,4,9
+Intermountain,,2024,7,6
+Intermountain,,2021,6,10
+Intermountain,,2020,7,7
+Intermountain,19.0,2021,12,9
+Intermountain,,2023,1,9
+Intermountain,,2023,6,23
+Intermountain,37.0,2022,3,21
+Intermountain,12.0,2020,8,19
+Intermountain,52.0,2023,6,7
+Intermountain,37.0,2022,11,1
+Intermountain,,2022,5,5
+Intermountain,52.0,2023,5,6
+Intermountain,,2021,10,3
+Intermountain,37.0,2022,3,20
+Intermountain,,2020,4,4
+Intermountain,11.0,2020,10,20
+Intermountain,52.0,2023,9,1
+Intermountain,,2020,7,10
+Intermountain,,2024,5,9
+Intermountain,37.0,2022,4,12
+Intermountain,,2021,8,6
+Intermountain,18.0,2021,3,16
+Intermountain,,2024,3,8
+Intermountain,37.0,2022,10,12
+Intermountain,,2024,5,2
+Intermountain,,2024,7,22
+Intermountain,,2021,8,19
+Intermountain,,2024,6,22
+Intermountain,11.0,2020,3,22
+Intermountain,37.0,2022,7,18
+Intermountain,,2022,5,13
+Intermountain,,2023,10,20
+Intermountain,19.0,2021,8,21
+Intermountain,53.0,2023,5,5
+Intermountain,37.0,2022,4,14
+Intermountain,53.0,2023,9,12
+Intermountain,11.0,2020,11,15
+Intermountain,63.0,2024,3,9
+Intermountain,37.0,2022,8,20
+Intermountain,,2024,6,13
+Intermountain,19.0,2021,1,22
+Intermountain,53.0,2023,9,21
+Intermountain,11.0,2020,9,15
+Intermountain,,2022,8,6
+Intermountain,37.0,2022,5,13
+Intermountain,37.0,2022,4,9
+Intermountain,19.0,2021,1,13
+Intermountain,19.0,2021,2,12
+Intermountain,53.0,2023,6,8
+Intermountain,11.0,2020,7,18
+Intermountain,37.0,2022,1,1
+Intermountain,37.0,2022,5,0
+Intermountain,53.0,2023,1,11
+Intermountain,62.0,2024,8,15
+Intermountain,53.0,2023,11,1
+Southeast,53.0,2023,3,19
+Southeast,53.0,2023,3,20
+Southeast,18.0,2021,12,17
+Southeast,18.0,2021,11,16
+Southeast,,2024,10,6
+Southeast,,2024,6,2
+Southeast,11.0,2020,8,5
+Southeast,16.0,2021,12,16
+Southeast,,2024,5,21
+Southeast,,2024,5,11
+Southeast,53.0,2023,5,3
+Southeast,15.0,2021,11,10
+Southeast,,2021,11,19
+Southeast,,2020,12,6
+Southeast,,2020,7,1
+Southeast,,2021,11,23
+Southeast,38.0,2022,4,22
+Southeast,15.0,2021,9,7
+Southeast,15.0,2021,11,7
+Southeast,15.0,2021,8,3
+Southeast,11.0,2020,8,12
+Southeast,11.0,2020,2,19
+Southeast,,2024,1,17
+Southeast,11.0,2020,11,6
+Southeast,15.0,2021,12,5
+Southeast,52.0,2023,6,7
+Southeast,12.0,2020,12,3
+Southeast,,2024,5,2
+Southeast,,2024,2,21
+Southeast,,2023,2,10
+Southeast,39.0,2022,12,11
+Southeast,39.0,2022,5,23
+Southeast,63.0,2024,10,20
+Southeast,12.0,2020,7,11
+Southeast,63.0,2024,7,5
+Southeast,12.0,2020,7,17
+Southeast,12.0,2020,1,2
+Southeast,,2022,7,3
+Southeast,9.0,2020,8,9
+Southeast,,2020,6,23
+Southeast,10.0,2020,5,1
+Southeast,63.0,2024,5,20
+Southeast,52.0,2023,6,1
+Southeast,39.0,2022,1,12
+Southeast,39.0,2022,11,22
+Southeast,9.0,2020,7,21
+Southeast,9.0,2020,10,6
+Southeast,52.0,2023,2,1
+Southeast,39.0,2022,10,4
+Southeast,39.0,2022,5,17
+Southeast,39.0,2022,3,16
+Southeast,,2024,3,11
+Southeast,10.0,2020,8,1
+Southeast,52.0,2023,9,1
+Southeast,,2022,11,8
+Southeast,10.0,2020,12,12
+Southeast,,2024,6,0
+Southeast,,2023,2,5
+Southeast,39.0,2022,11,19
+Southeast,39.0,2022,8,15
+Southeast,52.0,2023,11,8
+Southeast,,2024,3,9
+Southeast,51.0,2023,4,13
+Southeast,51.0,2023,8,14
+Southeast,39.0,2022,11,5
+Southeast,,2020,1,19
+Southeast,,2024,9,23
+Southeast,39.0,2022,12,12
+Southeast,15.0,2021,3,15
+Southeast,,2023,8,5
+Southeast,15.0,2021,2,23
+Southeast,15.0,2021,8,12
+Southeast,14.0,2020,8,9
+Southeast,,2024,9,5
+Southeast,16.0,2021,7,5
+Southeast,,2024,9,14
+Southeast,14.0,2020,6,3
+Southeast,14.0,2020,12,21
+Southeast,,2024,2,16
+Southeast,16.0,2021,5,10
+Southeast,14.0,2020,11,0
+Southeast,39.0,2022,2,17
+Southeast,16.0,2021,6,15
+Southeast,,2024,1,0
+Intermountain,51.0,2023,12,10
+Intermountain,51.0,2023,6,14
+Intermountain,13.0,2020,8,17
+Intermountain,39.0,2022,3,8
+Intermountain,51.0,2023,11,12
+Intermountain,16.0,2021,8,18
+Intermountain,15.0,2021,3,12
+Intermountain,15.0,2021,6,2
+Intermountain,,2024,2,4
+Intermountain,39.0,2022,2,20
+Intermountain,16.0,2021,2,6
+Intermountain,12.0,2020,6,20
+Intermountain,16.0,2021,12,23
+Intermountain,,2024,4,17
+Intermountain,13.0,2020,10,13
+Intermountain,16.0,2021,6,9
+Intermountain,51.0,2023,4,14
+Intermountain,38.0,2022,8,16
+Intermountain,,2021,10,18
+Intermountain,38.0,2022,11,15
+Intermountain,,2021,10,17
+Intermountain,51.0,2023,4,5
+Intermountain,15.0,2021,2,16
+Intermountain,,2021,4,11
+Intermountain,,2023,10,23
+Intermountain,,2024,3,4
+Intermountain,50.0,2023,1,10
+Intermountain,7.0,2020,6,0
+Intermountain,20.0,2021,11,18
+Intermountain,13.0,2020,11,12
+Intermountain,13.0,2020,8,15
+Intermountain,13.0,2020,4,14
+Intermountain,,2024,2,21
+Intermountain,50.0,2023,2,16
+Intermountain,50.0,2023,8,20
+Intermountain,16.0,2021,2,4
+Intermountain,38.0,2022,2,14
+Intermountain,38.0,2022,5,20
+Intermountain,,2024,7,11
+Intermountain,,2024,10,13
+Intermountain,51.0,2023,2,19
+Intermountain,,2022,7,5
+Intermountain,38.0,2022,7,22
+Intermountain,15.0,2021,5,11
+Intermountain,51.0,2023,10,12
+Intermountain,,2022,12,5
+Intermountain,16.0,2021,8,4
+Intermountain,38.0,2022,4,2
+Intermountain,16.0,2021,9,23
+Intermountain,,2022,4,15
+Intermountain,11.0,2020,5,14
+Intermountain,11.0,2020,12,19
+Intermountain,38.0,2022,8,5
+Intermountain,11.0,2020,10,7
+Intermountain,51.0,2023,10,9
+Intermountain,13.0,2020,8,11
+Intermountain,39.0,2022,4,11
+Intermountain,,2024,4,15
+Intermountain,38.0,2022,2,8
+Intermountain,,2024,6,20
+Intermountain,11.0,2020,9,3
+Intermountain,18.0,2021,6,19
+Intermountain,18.0,2021,3,13
+Intermountain,,2021,7,0
+Intermountain,38.0,2022,11,5
+Intermountain,38.0,2022,1,17
+Intermountain,19.0,2021,12,15
+Intermountain,51.0,2023,4,2
+Intermountain,,2021,9,1
+Intermountain,38.0,2022,2,13
+Intermountain,38.0,2022,12,10
+Intermountain,38.0,2022,11,17
+Intermountain,,2020,7,3
+Intermountain,51.0,2023,5,2
+Intermountain,,2024,1,6
+Intermountain,51.0,2023,9,4
+Intermountain,38.0,2022,10,15
+Intermountain,17.0,2021,1,18
+Intermountain,51.0,2023,11,10
+Intermountain,17.0,2021,10,7
+Intermountain,52.0,2023,4,21
+Intermountain,38.0,2022,11,9
+Intermountain,52.0,2023,4,3
+Intermountain,38.0,2022,7,8
+Pacific West,38.0,2022,8,18
+Pacific West,14.0,2020,4,16
+Pacific West,39.0,2022,2,21
+Pacific West,,2021,7,18
+Pacific West,17.0,2021,8,0
+Pacific West,13.0,2020,3,11
+Pacific West,42.0,2022,7,13
+Pacific West,12.0,2020,12,23
+Pacific West,42.0,2022,3,14
+Pacific West,,2024,4,20
+Pacific West,17.0,2021,7,22
+Pacific West,52.0,2023,5,1
+Pacific West,,2024,1,4
+Pacific West,18.0,2021,12,19
+Pacific West,18.0,2021,11,22
+Pacific West,3.0,2020,4,20
+Pacific West,44.0,2022,4,22
+Pacific West,,2024,10,13
+Pacific West,3.0,2020,3,14
+Pacific West,,2020,5,1
+Pacific West,4.0,2020,6,23
+Pacific West,,2024,6,22
+Pacific West,17.0,2021,4,20
+Pacific West,67.0,2024,5,0
+Pacific West,18.0,2021,11,13
+Pacific West,52.0,2023,11,6
+Pacific West,3.0,2020,4,23
+Pacific West,51.0,2023,10,20
+Pacific West,43.0,2022,8,7
+Pacific West,4.0,2020,9,21
+Pacific West,51.0,2023,6,23
+Pacific West,51.0,2023,1,12
+Pacific West,,2021,1,3
+Pacific West,4.0,2020,10,4
+Pacific West,51.0,2023,10,23
+Pacific West,16.0,2021,7,2
+Pacific West,,2024,4,4
+Pacific West,51.0,2023,5,16
+Pacific West,,2020,11,7
+Pacific West,67.0,2024,3,18
+Pacific West,,2024,2,12
+Pacific West,44.0,2022,4,9
+Pacific West,,2023,6,16
+Pacific West,,2024,8,16
+Pacific West,,2020,3,22
+Pacific West,44.0,2022,3,10
+Pacific West,,2024,7,2
+Pacific West,1.0,2020,5,5
+Pacific West,,2024,9,6
+Pacific West,44.0,2022,5,2
+Pacific West,,2023,4,2
+Pacific West,,2024,2,13
+Pacific West,,2022,2,15
+Pacific West,1.0,2020,3,21
+Pacific West,67.0,2024,3,6
+Pacific West,43.0,2022,4,6
+Pacific West,19.0,2021,11,20
+Pacific West,19.0,2021,7,17
+Pacific West,2.0,2020,4,4
+Pacific West,20.0,2021,2,23
+Pacific West,,2024,5,17
+Pacific West,44.0,2022,2,1
+Pacific West,,2020,11,16
+Pacific West,,2023,3,15
+Pacific West,51.0,2023,4,23
+Pacific West,18.0,2021,12,16
+Pacific West,18.0,2021,4,14
+Pacific West,8.0,2020,9,0
+Pacific West,18.0,2021,6,12
+Pacific West,44.0,2022,2,1
+Pacific West,44.0,2022,7,15
+Pacific West,51.0,2023,8,16
+Pacific West,,2024,1,13
+Pacific West,19.0,2021,9,6
+Pacific West,52.0,2023,10,19
+Pacific West,,2024,7,22
+Pacific West,,2022,8,21
+Pacific West,53.0,2023,2,5
+Pacific West,54.0,2023,7,16
+Pacific West,54.0,2023,3,11
+Pacific West,44.0,2022,10,3
+Pacific West,54.0,2023,4,11
+Pacific West,,2024,6,6
+Pacific West,,2024,8,19
+Pacific West,44.0,2022,8,0
+Pacific West,16.0,2021,10,14
+Pacific West,54.0,2023,2,10
+Pacific West,6.0,2020,2,15
+Pacific West,,2021,10,16
+Pacific West,5.0,2020,5,18
+Pacific West,15.0,2021,12,13
+Pacific West,6.0,2020,5,13
+Pacific West,16.0,2021,2,13
+Pacific West,6.0,2020,7,8
+Pacific West,54.0,2023,3,17
+Pacific West,44.0,2022,6,7
+Pacific West,15.0,2021,6,6
+Pacific West,,2024,2,14
+Pacific West,54.0,2023,4,20
+Pacific West,,2023,5,2
+Pacific West,6.0,2020,6,19
+Pacific West,,2024,6,16
+Pacific West,28.0,2021,10,21
+Pacific West,6.0,2020,12,4
+Pacific West,54.0,2023,8,15
+Pacific West,,2024,10,22
+Pacific West,6.0,2020,2,4
+Pacific West,,2022,8,21
+Pacific West,,2024,3,19
+Pacific West,6.0,2020,5,12
+Pacific West,,2024,8,18
+Pacific West,28.0,2021,8,11
+Pacific West,42.0,2022,5,21
+Pacific West,29.0,2021,2,3
+Pacific West,29.0,2021,3,18
+Pacific West,7.0,2020,3,15
+Pacific West,7.0,2020,6,11
+Pacific West,26.0,2021,4,19
+Pacific West,54.0,2023,7,7
+Pacific West,25.0,2021,8,3
+Pacific West,,2024,1,18
+Pacific West,,2020,8,19
+Pacific West,27.0,2021,12,12
+Pacific West,5.0,2020,12,11
+Pacific West,54.0,2023,6,2
+Pacific West,,2024,10,11
+Pacific West,,2022,8,21
+Pacific West,27.0,2021,1,14
+Pacific West,,2021,1,21
+Pacific West,65.0,2024,7,5
+Pacific West,65.0,2024,6,4
+Pacific West,26.0,2021,3,18
+Pacific West,27.0,2021,8,3
+Pacific West,,2023,4,9
+Pacific West,54.0,2023,8,16
+Pacific West,64.0,2024,6,14
+Pacific West,42.0,2022,5,20
+Pacific West,26.0,2021,6,18
+Pacific West,26.0,2021,12,17
+Pacific West,54.0,2023,3,14
+Pacific West,27.0,2021,10,13
+Pacific West,27.0,2021,2,17
+Pacific West,54.0,2023,1,5
+Pacific West,54.0,2023,12,7
+Pacific West,27.0,2021,4,3
+Pacific West,54.0,2023,8,10
+Pacific West,27.0,2021,12,8
+Pacific West,,2020,1,6
+Pacific West,54.0,2023,1,7
+Pacific West,8.0,2020,10,12
+Pacific West,54.0,2023,2,1
+Pacific West,54.0,2023,8,6
+Pacific West,42.0,2022,8,5
+Pacific West,55.0,2023,12,23
+Pacific West,8.0,2020,5,14
+Pacific West,,2024,8,5
+Pacific West,64.0,2024,3,3
+Pacific West,42.0,2022,7,2
+Pacific West,64.0,2024,4,6
+Pacific West,42.0,2022,9,18
+Pacific West,,2024,5,15
+Pacific West,55.0,2023,1,5
+Pacific West,42.0,2022,12,16
+Pacific West,25.0,2021,8,13
+Pacific West,55.0,2023,6,16
+Pacific West,42.0,2022,8,14
+Pacific West,,2024,6,18
+Pacific West,,2023,7,10
+Pacific West,26.0,2021,3,0
+Pacific West,55.0,2023,1,7
+Pacific West,26.0,2021,5,12
+Pacific West,,2024,10,13
+Pacific West,7.0,2020,5,12
+Midwest,42.0,2022,12,23
+Midwest,,2021,10,19
+Midwest,,2024,6,23
+Midwest,27.0,2021,2,18
+Midwest,2.0,2020,9,16
+Midwest,,2020,7,0
+Midwest,55.0,2023,9,8
+Midwest,,2022,8,6
+Midwest,,2024,4,15
+Midwest,29.0,2021,1,9
+Midwest,,2024,4,18
+Midwest,29.0,2021,9,1
+Midwest,,2024,6,5
+Midwest,55.0,2023,5,6
+Midwest,2.0,2020,7,4
+Midwest,43.0,2022,5,21
+Midwest,43.0,2022,4,16
+Midwest,28.0,2021,6,18
+Midwest,2.0,2020,3,21
+Midwest,43.0,2022,6,20
+Midwest,,2021,3,2
+Midwest,64.0,2024,2,23
+Midwest,43.0,2022,3,23
+Midwest,29.0,2021,5,2
+Midwest,2.0,2020,3,7
+Midwest,2.0,2020,8,1
+Midwest,29.0,2021,7,10
+Midwest,,2022,8,18
+Midwest,55.0,2023,1,18
+Midwest,43.0,2022,11,5
+Midwest,,2024,10,9
+Midwest,43.0,2022,10,12
+Midwest,,2023,12,22
+Midwest,,2020,11,4
+Midwest,1.0,2020,7,22
+Midwest,,2023,6,18
+Midwest,28.0,2021,2,15
+Midwest,,2024,3,8
+Midwest,55.0,2023,9,10
+Midwest,,2023,3,0
+Midwest,1.0,2020,7,7
+Midwest,,2024,5,11
+Midwest,28.0,2021,1,3
+Midwest,43.0,2022,10,13
+Midwest,27.0,2021,9,21
+Midwest,43.0,2022,11,23
+Midwest,55.0,2023,10,17
+Midwest,28.0,2021,6,16
+Midwest,28.0,2021,3,4
+Midwest,64.0,2024,8,18
+Midwest,4.0,2020,6,4
+Midwest,54.0,2023,7,10
+Midwest,28.0,2021,5,2
+Midwest,53.0,2023,11,19
+Midwest,4.0,2020,10,14
+Midwest,43.0,2022,2,8
+Midwest,64.0,2024,2,6
+Midwest,,2020,9,14
+Midwest,64.0,2024,8,3
+Midwest,53.0,2023,3,7
+Midwest,21.0,2021,7,7
+Midwest,64.0,2024,9,21
+Midwest,,2022,7,1
+Midwest,,2024,6,9
+Midwest,,2024,3,20
+Midwest,,2024,4,16
+Midwest,,2024,4,12
+Midwest,43.0,2022,7,8
+Midwest,3.0,2020,1,21
+Midwest,42.0,2022,3,15
+Midwest,,2021,3,23
+Midwest,,2020,8,20
+Midwest,53.0,2023,5,23
+Midwest,,2024,1,1
+Midwest,53.0,2023,9,8
+Midwest,43.0,2022,7,18
+Midwest,65.0,2024,3,10
+Midwest,53.0,2023,4,17
+Midwest,43.0,2022,4,9
+Midwest,53.0,2023,7,1
+Midwest,22.0,2021,2,18
+Midwest,,2021,6,3
+Midwest,13.0,2020,12,10
+Midwest,,2022,7,9
+Midwest,,2024,8,7
+Midwest,43.0,2022,11,21
+Midwest,,2024,7,2
+Midwest,22.0,2021,2,15
+Midwest,12.0,2020,11,2
+Midwest,43.0,2022,7,17
+Midwest,53.0,2023,1,13
+Midwest,43.0,2022,7,1
+Midwest,,2022,12,19
+Midwest,53.0,2023,10,0
+Midwest,43.0,2022,9,10
+Midwest,13.0,2020,9,18
+Midwest,20.0,2021,4,16
+Midwest,20.0,2021,9,8
+Midwest,43.0,2022,8,13
+Midwest,,2022,5,12
+Midwest,20.0,2021,6,9
+Midwest,53.0,2023,9,16
+Midwest,42.0,2022,1,21
+Midwest,,2024,1,18
+Midwest,,2023,1,7
+Midwest,14.0,2020,12,17
+Midwest,42.0,2022,11,18
+Midwest,42.0,2022,12,0
+Midwest,,2022,10,13
+Midwest,,2020,9,7
+Midwest,21.0,2021,10,21
+Midwest,,2022,6,10
+Midwest,,2024,3,11
+Midwest,53.0,2023,10,13
+Midwest,53.0,2023,5,21
+Midwest,42.0,2022,3,1
+Midwest,,2020,5,7
+Midwest,,2021,11,18
+Midwest,20.0,2021,11,23
+Midwest,65.0,2024,1,12
+Midwest,53.0,2023,6,19
+Midwest,,2020,2,0
+Midwest,,2023,8,17
+Midwest,,2024,3,13
+Midwest,42.0,2022,6,17
+Midwest,,2024,6,20
+Midwest,24.0,2021,10,1
+Midwest,37.0,2022,1,18
+Midwest,24.0,2021,2,6
+Midwest,42.0,2022,10,18
+Midwest,24.0,2021,9,21
+Midwest,53.0,2023,2,18
+Midwest,54.0,2023,1,2
+Midwest,,2024,6,11
+Midwest,42.0,2022,2,14
+Midwest,24.0,2021,10,9
+Midwest,11.0,2020,1,10
+Midwest,12.0,2020,7,13
+Midwest,,2021,5,16
+Midwest,,2024,3,20
+Midwest,,2024,10,11
+Midwest,42.0,2022,2,0
+Midwest,,2024,10,6
+Midwest,42.0,2022,11,7
+Midwest,42.0,2022,2,18
+Midwest,54.0,2023,8,23
+Midwest,24.0,2021,2,11
+Midwest,54.0,2023,8,19
+Midwest,11.0,2020,6,5
+Midwest,54.0,2023,8,12
+Midwest,44.0,2022,10,12
+Midwest,23.0,2021,2,19
+Midwest,,2024,10,16
+Midwest,44.0,2022,8,5
+Midwest,54.0,2023,10,8
+Midwest,54.0,2023,3,18
+Midwest,11.0,2020,11,7
+Midwest,54.0,2023,9,5
+Midwest,,2024,3,22
+Midwest,,2022,1,0
+Midwest,22.0,2021,1,6
+Midwest,53.0,2023,9,6
+Midwest,22.0,2021,8,18
+Midwest,53.0,2023,7,15
+Midwest,53.0,2023,11,12
+Midwest,44.0,2022,4,14
+Midwest,44.0,2022,9,18
+Midwest,53.0,2023,4,22
+Midwest,,2022,7,16
+Midwest,,2024,9,23
+Midwest,,2024,7,5
+Midwest,13.0,2020,9,13
+Midwest,44.0,2022,10,4
+Midwest,23.0,2021,8,3
+Midwest,,2024,3,7
+Midwest,,2024,4,1
+Midwest,53.0,2023,12,5
+Midwest,53.0,2023,3,7
+Midwest,53.0,2023,4,11
+Midwest,53.0,2023,4,8
+Midwest,,2020,9,1
+Midwest,,2020,2,19
+Midwest,44.0,2022,3,20
+Midwest,,2024,8,19
+Midwest,,2024,4,3
+Midwest,37.0,2022,2,16
+Midwest,5.0,2020,1,2
+Midwest,53.0,2023,12,6
+Midwest,,2021,2,21
+Midwest,65.0,2024,5,12
+Midwest,53.0,2023,11,18
+Midwest,,2024,9,15
+Midwest,,2024,1,9
+Midwest,23.0,2021,5,16
+Midwest,23.0,2021,9,22
+Midwest,,2024,2,11
+Midwest,13.0,2020,9,11
+Midwest,12.0,2020,5,9
+Midwest,29.0,2022,1,11
+Midwest,53.0,2023,10,4
+Midwest,13.0,2020,9,14
+Midwest,,2022,3,3
+Midwest,,2024,1,18
+Midwest,29.0,2022,4,17
+Midwest,,2024,1,7
+Midwest,29.0,2022,12,1
+Midwest,23.0,2021,7,2
+Midwest,,2024,6,2
+Midwest,,2023,2,10
+Midwest,,2021,8,6
+Midwest,,2021,9,10
+Midwest,10.0,2020,11,3
+Midwest,10.0,2020,1,15
+Midwest,29.0,2022,2,1
+Pacific West,53.0,2023,3,7
+Pacific West,23.0,2021,11,4
+Pacific West,,2021,5,20
+Pacific West,23.0,2021,1,2
+Pacific West,54.0,2023,11,18
+Pacific West,,2020,7,23
+Pacific West,12.0,2020,3,6
+Pacific West,30.0,2022,5,16
+Pacific West,23.0,2021,4,14
+Pacific West,,2023,1,4
+Pacific West,,2024,3,1
+Pacific West,30.0,2022,6,15
+Pacific West,54.0,2023,12,1
+Pacific West,54.0,2023,6,7
+Pacific West,23.0,2021,3,9
+Pacific West,65.0,2024,5,13
+Pacific West,11.0,2020,10,18
+Pacific West,,2023,3,11
+Pacific West,24.0,2021,7,4
+Pacific West,,2022,12,5
+Pacific West,11.0,2020,9,8
+Pacific West,24.0,2021,8,17
+Pacific West,11.0,2020,7,6
+Pacific West,24.0,2021,5,19
+Pacific West,54.0,2023,12,18
+Pacific West,,2022,1,15
+Pacific West,30.0,2022,2,2
+Pacific West,54.0,2023,11,4
+Pacific West,54.0,2023,12,22
+Pacific West,,2022,2,20
+Pacific West,24.0,2021,1,12
+Pacific West,54.0,2023,5,23
+Pacific West,9.0,2020,6,2
+Pacific West,10.0,2020,1,3
+Pacific West,9.0,2020,7,9
+Pacific West,30.0,2022,8,14
+Pacific West,,2023,9,18
+Pacific West,9.0,2020,4,12
+Pacific West,30.0,2022,8,7
+Pacific West,53.0,2023,1,8
+Pacific West,,2023,11,17
+Pacific West,30.0,2022,12,22
+Pacific West,53.0,2023,11,3
+Pacific West,53.0,2023,12,8
+Pacific West,,2024,5,0
+Pacific West,30.0,2022,3,19
+Pacific West,10.0,2020,11,22
+Pacific West,,2024,9,8
+Pacific West,10.0,2020,5,8
+Pacific West,21.0,2021,7,14
+Pacific West,30.0,2022,12,9
+Pacific West,10.0,2020,3,0
+Pacific West,,2024,10,23
+Pacific West,,2024,1,0
+Pacific West,10.0,2020,2,19
+Pacific West,,2020,5,0
+Pacific West,,2024,1,4
+Pacific West,53.0,2023,4,2
+Pacific West,30.0,2022,4,4
+Pacific West,30.0,2022,12,5
+Pacific West,20.0,2021,3,14
+Pacific West,,2020,10,9
+Pacific West,20.0,2021,12,8
+Pacific West,20.0,2021,3,7
+Pacific West,20.0,2021,2,0
+Pacific West,20.0,2021,3,3
+Pacific West,53.0,2023,11,11
+Pacific West,53.0,2023,4,15
+Pacific West,13.0,2020,2,20
+Pacific West,,2021,12,20
+Pacific West,53.0,2023,9,0
+Pacific West,13.0,2020,6,20
+Pacific West,12.0,2020,6,3
+Pacific West,,2022,4,0
+Pacific West,22.0,2021,12,7
+Pacific West,13.0,2020,9,23
+Pacific West,22.0,2021,3,2
+Pacific West,13.0,2020,11,7
+Pacific West,,2021,6,6
+Alaska,22.0,2021,6,12
+Alaska,,2024,3,9
+Alaska,,2022,12,1
+Alaska,65.0,2024,9,0
+Alaska,,2022,6,17
+Alaska,,2024,3,22
+Alaska,22.0,2021,3,7
+Alaska,,2024,4,19
+Alaska,22.0,2021,6,2
+Alaska,3.0,2020,8,15
+Alaska,,2023,7,15
+Alaska,65.0,2024,4,19
+Alaska,65.0,2024,9,11
+Alaska,,2020,4,13
+Alaska,30.0,2022,9,2
+Alaska,30.0,2022,8,12
+Alaska,21.0,2021,11,19
+Alaska,,2022,11,22
+Alaska,53.0,2023,5,7
+Alaska,21.0,2021,5,23
+Alaska,22.0,2021,9,9
+Alaska,,2022,8,21
+Alaska,30.0,2022,5,19
+Alaska,,2024,10,23
+Alaska,,2024,2,12
+Alaska,21.0,2021,9,2
+Alaska,4.0,2020,10,5
+Alaska,,2024,4,9
+Alaska,25.0,2021,6,22
+Alaska,53.0,2023,12,10
+Alaska,,2021,11,1
+Alaska,4.0,2020,8,4
+Alaska,28.0,2021,6,9
+Alaska,53.0,2023,12,19
+Alaska,,2024,7,3
+Alaska,,2023,12,17
+Alaska,53.0,2023,5,19
+Alaska,,2022,9,16
+Alaska,30.0,2022,5,9
+Alaska,30.0,2022,5,4
+Alaska,4.0,2020,2,10
+Alaska,54.0,2023,9,17
+Alaska,55.0,2023,10,3
+Alaska,27.0,2021,8,9
+Alaska,1.0,2020,9,19
+Alaska,,2023,8,5
+Alaska,1.0,2020,5,5
+Alaska,28.0,2021,9,2
+Alaska,2.0,2020,1,3
+Alaska,30.0,2022,10,3
+Alaska,55.0,2023,7,23
+Alaska,55.0,2023,9,10
+Alaska,,2023,3,17
+Alaska,55.0,2023,5,23
+Alaska,,2024,6,21
+Alaska,,2024,7,12
+Alaska,55.0,2023,11,7
+Alaska,,2024,2,23
+Alaska,55.0,2023,10,9
+Alaska,55.0,2023,7,8
+Alaska,1.0,2020,8,11
+Alaska,30.0,2022,7,11
+Alaska,,2023,9,22
+Alaska,30.0,2022,8,23
+Alaska,30.0,2022,10,2
+Alaska,,2024,7,3
+Alaska,1.0,2020,3,8
+Alaska,,2024,2,11
+Alaska,64.0,2024,1,15
+Alaska,1.0,2020,5,11
+Alaska,55.0,2023,12,13
+Alaska,2.0,2020,9,13
+Alaska,,2024,5,17
+Alaska,29.0,2021,6,4
+Alaska,2.0,2020,9,12
+Alaska,,2022,3,11
+Alaska,30.0,2022,8,4
+Alaska,55.0,2023,12,22
+Alaska,55.0,2023,5,9
+Alaska,,2024,1,12
+Alaska,,2021,7,15
+Alaska,,2024,9,14
+Alaska,55.0,2023,4,3
+Alaska,,2024,6,8
+Alaska,30.0,2022,6,8
+Alaska,2.0,2020,4,16
+Alaska,,2020,2,19
+Alaska,55.0,2023,3,11
+Alaska,55.0,2023,6,3
+Alaska,30.0,2022,5,18
+Alaska,2.0,2020,5,23
+Alaska,,2021,1,21
+Alaska,7.0,2020,8,13
+Alaska,30.0,2022,7,18
+Alaska,55.0,2023,7,12
+Alaska,26.0,2021,10,2
+Alaska,7.0,2020,8,14
+Alaska,30.0,2022,7,3
+Alaska,30.0,2022,10,20
+Alaska,30.0,2022,12,7
+Alaska,25.0,2021,5,21
+Alaska,55.0,2023,1,16
+Alaska,30.0,2022,2,16
+Alaska,,2020,8,0
+Alaska,,2023,4,8
+Alaska,30.0,2022,4,10
+Alaska,25.0,2021,1,14
+Alaska,7.0,2020,10,3
+Alaska,30.0,2022,4,1
+Alaska,,2020,11,17
+Alaska,30.0,2022,6,5
+Alaska,54.0,2023,9,4
+Alaska,30.0,2022,6,22
+Alaska,54.0,2023,8,21
+Alaska,30.0,2022,3,9
+Alaska,30.0,2022,9,14
+Alaska,54.0,2023,6,3
+Alaska,,2020,6,13
+Alaska,,2024,5,16
+Alaska,30.0,2022,12,2
+Alaska,54.0,2023,2,14
+Alaska,30.0,2022,10,8
+Alaska,,2022,10,2
+Alaska,,2020,3,6
+Alaska,,2024,6,15
+Alaska,6.0,2020,8,7
+Alaska,,2022,5,12
+Alaska,,2024,9,10
+Alaska,26.0,2021,5,18
+Alaska,6.0,2020,4,10
+Alaska,,2021,2,19
+Alaska,5.0,2020,1,20
+Alaska,5.0,2020,10,5
+Alaska,30.0,2022,10,0
+Alaska,5.0,2020,6,13
+Alaska,6.0,2020,9,0
+Alaska,,2024,5,4
+Alaska,54.0,2023,2,20
+Alaska,26.0,2021,4,3
+Alaska,,2024,3,21
+Alaska,54.0,2023,4,3
+Alaska,28.0,2021,5,11
+Alaska,,2024,9,17
+Alaska,29.0,2021,8,8
+Alaska,,2024,6,6
+Alaska,66.0,2024,3,9
+Alaska,29.0,2021,11,2
+Alaska,29.0,2022,2,13
+Alaska,29.0,2022,1,9
+Alaska,,2023,5,4
+Alaska,54.0,2023,4,22
+Alaska,29.0,2022,5,6
+Alaska,9.0,2020,12,18
+Pacific West,,2023,10,12
+Pacific West,15.0,2021,1,19
+Pacific West,15.0,2021,9,8
+Pacific West,54.0,2023,5,4
+Pacific West,30.0,2022,5,13
+Pacific West,16.0,2021,7,0
+Pacific West,30.0,2022,4,14
+Pacific West,54.0,2023,1,6
+Pacific West,66.0,2024,10,14
+Pacific West,15.0,2021,1,2
+Pacific West,16.0,2021,1,23
+Pacific West,16.0,2021,9,10
+Pacific West,16.0,2021,12,7
+Pacific West,30.0,2022,1,4
+Pacific West,54.0,2023,8,5
+Pacific West,15.0,2021,9,13
+Pacific West,8.0,2020,11,1
+Pacific West,54.0,2023,11,18
+Pacific West,66.0,2024,10,20
+Pacific West,54.0,2023,1,4
+Pacific West,18.0,2021,5,19
+Pacific West,8.0,2020,2,9
+Pacific West,9.0,2020,3,10
+Pacific West,,2024,3,20
+Pacific West,30.0,2022,7,15
+Pacific West,9.0,2020,3,11
+Pacific West,51.0,2023,9,6
+Pacific West,8.0,2020,11,16
+Pacific West,,2024,6,15
+Pacific West,7.0,2020,4,3
+Pacific West,30.0,2022,10,23
+Pacific West,,2022,8,1
+Pacific West,8.0,2020,3,13
+Pacific West,51.0,2023,12,13
+Pacific West,7.0,2020,11,22
+Pacific West,19.0,2021,5,15
+Pacific West,30.0,2022,5,14
+Pacific West,,2022,1,10
+Pacific West,51.0,2023,1,2
+Pacific West,,2022,2,23
+Pacific West,30.0,2022,5,11
+Pacific West,30.0,2022,2,14
+Pacific West,,2024,3,1
+Pacific West,51.0,2023,3,9
+Pacific West,19.0,2021,2,8
+Pacific West,,2020,7,2
+Pacific West,1.0,2020,11,12
+Pacific West,1.0,2020,11,2
+Pacific West,17.0,2021,5,14
+Pacific West,51.0,2023,6,10
+Pacific West,1.0,2020,10,7
+Pacific West,30.0,2022,4,14
+Pacific West,,2024,9,8
+Pacific West,30.0,2022,8,6
+Pacific West,3.0,2020,2,17
+Pacific West,17.0,2021,7,16
+Pacific West,,2021,5,6
+Pacific West,,2021,11,16
+Pacific West,,2023,12,1
+Pacific West,4.0,2020,8,9
+Pacific West,,2022,4,9
+Pacific West,30.0,2022,1,2
+Pacific West,30.0,2022,7,18
+Pacific West,,2024,3,2
+Pacific West,30.0,2022,2,15
+Pacific West,,2024,10,21
+Pacific West,52.0,2023,9,0
+Pacific West,3.0,2020,12,0
+Pacific West,30.0,2022,8,7
+Pacific West,30.0,2022,5,18
+Pacific West,67.0,2024,2,23
+Pacific West,3.0,2020,4,4
+Pacific West,,2024,10,4
+Pacific West,3.0,2020,9,10
+Pacific West,18.0,2021,8,23
+Pacific West,18.0,2021,10,11
+Pacific West,17.0,2021,5,5
+Pacific West,30.0,2022,12,10
+Pacific West,13.0,2020,2,13
+Pacific West,52.0,2023,7,10
+Alaska,,2020,6,1
+Alaska,30.0,2022,7,2
+Alaska,17.0,2021,1,8
+Alaska,,2024,7,7
+Alaska,30.0,2022,8,3
+Alaska,,2024,3,18
+Alaska,,2024,4,15
+Alaska,,2022,8,20
+Alaska,17.0,2021,12,17
+Alaska,66.0,2024,8,3
+Alaska,,2024,4,15
+Alaska,,2024,9,2
+Alaska,17.0,2021,6,15
+Alaska,30.0,2022,9,13
+Alaska,18.0,2021,10,15
+Alaska,,2021,3,21
+Alaska,,2022,4,16
+Alaska,51.0,2023,4,12
+Alaska,30.0,2022,5,23
+Alaska,,2024,8,7
+Alaska,9.0,2020,9,11
+Alaska,,2020,3,19
+Alaska,51.0,2023,2,1
+Alaska,51.0,2023,5,13
+Alaska,30.0,2022,7,20
+Alaska,19.0,2021,1,23
+Alaska,9.0,2020,3,16
+Alaska,11.0,2020,11,18
+Alaska,,2023,9,22
+Alaska,11.0,2020,3,16
+Alaska,19.0,2021,7,8
+Alaska,30.0,2022,12,12
+Alaska,11.0,2020,1,0
+Alaska,30.0,2022,1,3
+Alaska,,2024,9,0
+Alaska,51.0,2023,2,4
+Alaska,,2024,5,14
+Alaska,51.0,2023,9,9
+Alaska,,2020,7,14
+Alaska,,2020,3,6
+Alaska,51.0,2023,7,22
+Alaska,16.0,2021,6,22
+Alaska,,2024,2,20
+Alaska,16.0,2021,8,15
+Alaska,15.0,2021,1,21
+Alaska,29.0,2022,12,9
+Alaska,15.0,2021,11,23
+Alaska,,2023,7,18
+Alaska,29.0,2022,8,15
+Alaska,,2022,8,7
+Alaska,16.0,2021,9,22
+Alaska,29.0,2022,10,17
+Alaska,,2024,10,8
+Alaska,16.0,2021,7,16
+Alaska,13.0,2020,8,18
+Alaska,29.0,2022,4,12
+Alaska,,2024,9,3
+Alaska,,2023,5,22
+Alaska,34.0,2022,7,17
+Alaska,31.0,2022,7,1
+Alaska,35.0,2022,9,18
+Alaska,15.0,2021,4,13
+Alaska,35.0,2022,7,11
+Alaska,51.0,2023,1,6
+Alaska,65.0,2024,4,0
+Alaska,15.0,2021,1,21
+Alaska,51.0,2023,9,5
+Alaska,51.0,2023,7,16
+Alaska,35.0,2022,2,19
+Alaska,13.0,2020,4,10
+Alaska,51.0,2023,12,23
+Alaska,35.0,2022,1,5
+Alaska,12.0,2020,12,7
+Alaska,13.0,2020,9,2
+Alaska,66.0,2024,7,0
+Alaska,,2022,5,21
+Alaska,14.0,2020,6,10
+Alaska,,2024,3,16
+Alaska,35.0,2022,8,1
+Alaska,35.0,2022,11,3
+Alaska,51.0,2023,1,23
+Alaska,,2023,3,1
+Alaska,,2024,8,15
+Alaska,14.0,2020,2,10
+Alaska,,2022,9,17
+Alaska,14.0,2020,10,7
+Alaska,,2024,8,0
+Alaska,,2021,5,21
+Alaska,14.0,2020,10,13
+Alaska,51.0,2023,5,21
+Alaska,51.0,2023,4,21
+Alaska,,2022,10,1
+Alaska,14.0,2020,5,15
+Alaska,14.0,2020,3,6
+Alaska,14.0,2020,2,2
+Alaska,34.0,2022,9,21
+Alaska,,2022,6,5
+Alaska,,2024,2,1
+Alaska,,2024,8,5
+Alaska,15.0,2021,3,16
+Alaska,11.0,2020,6,12
+Alaska,34.0,2022,1,1
+Alaska,,2023,10,11
+Alaska,34.0,2022,11,17
+Alaska,,2024,10,11
+Alaska,15.0,2021,8,10
+Alaska,11.0,2020,5,12
+Alaska,,2024,4,8
+Alaska,,2024,8,2
+Alaska,16.0,2021,11,17
+Alaska,10.0,2020,5,14
+Alaska,34.0,2022,8,22
+Alaska,10.0,2020,5,23
+Alaska,,2024,9,1
+Alaska,,2024,6,8
+Alaska,64.0,2024,7,15
+Alaska,,2024,8,21
+Alaska,,2024,5,13
+Alaska,,2020,2,14
+Alaska,34.0,2022,12,22
+Alaska,52.0,2023,6,11
+Alaska,16.0,2021,4,17
+Alaska,34.0,2022,7,11
+Alaska,,2023,5,5
+Alaska,34.0,2022,5,8
+Alaska,34.0,2022,2,2
+Alaska,15.0,2021,7,6
+Alaska,15.0,2021,5,23
+Alaska,,2022,10,22
+Alaska,63.0,2024,3,2
+Alaska,,2020,10,15
+Alaska,52.0,2023,11,21
+Alaska,34.0,2022,6,15
+Alaska,52.0,2023,8,21
+Alaska,,2021,1,2
+Alaska,16.0,2021,5,19
+Alaska,,2024,1,18
+Alaska,12.0,2020,5,21
+Alaska,52.0,2023,6,14
+Alaska,34.0,2022,7,7
+Alaska,34.0,2022,10,14
+Alaska,34.0,2022,8,3
+Pacific West,53.0,2023,6,4
+Pacific West,35.0,2022,11,2
+Pacific West,35.0,2022,9,5
+Pacific West,,2024,7,21
+Pacific West,,2023,1,10
+Pacific West,11.0,2020,5,1
+Pacific West,11.0,2020,6,10
+Pacific West,35.0,2022,5,14
+Pacific West,53.0,2023,8,22
+Pacific West,,2021,10,12
+Pacific West,19.0,2021,2,18
+Pacific West,,2024,3,13
+Pacific West,,2020,10,1
+Pacific West,,2024,10,14
+Pacific West,19.0,2021,6,13
+Pacific West,,2020,7,20
+Pacific West,19.0,2021,7,5
+Pacific West,,2024,7,8
+Pacific West,11.0,2020,5,7
+Pacific West,35.0,2022,8,3
+Pacific West,53.0,2023,6,14
+Pacific West,53.0,2023,6,0
+Pacific West,11.0,2020,5,7
+Pacific West,11.0,2020,8,12
+Pacific West,35.0,2022,1,2
+Pacific West,53.0,2023,9,16
+Pacific West,,2021,12,20
+Pacific West,19.0,2021,7,14
+Pacific West,,2024,8,23
+Pacific West,11.0,2020,4,23
+Pacific West,19.0,2021,12,7
+Pacific West,,2020,3,7
+Pacific West,11.0,2020,1,2
+Pacific West,,2024,9,22
+Pacific West,,2023,6,19
+Pacific West,19.0,2021,5,18
+Pacific West,11.0,2020,9,7
+Pacific West,,2022,7,3
+Pacific West,,2023,3,13
+Pacific West,19.0,2021,12,7
+Pacific West,35.0,2022,7,17
+Pacific West,12.0,2020,2,19
+Pacific West,,2024,3,14
+Pacific West,12.0,2020,12,15
+Pacific West,,2020,1,12
+Pacific West,52.0,2023,6,6
+Pacific West,18.0,2021,5,4
+Pacific West,35.0,2022,7,20
+Pacific West,52.0,2023,4,18
+Pacific West,,2023,3,6
+Pacific West,,2021,8,6
+Pacific West,12.0,2020,10,0
+Pacific West,18.0,2021,5,13
+Pacific West,63.0,2024,7,1
+Pacific West,18.0,2021,2,14
+Pacific West,52.0,2023,7,7
+Pacific West,11.0,2020,5,1
+Pacific West,12.0,2020,5,10
+Pacific West,52.0,2023,5,13
+Pacific West,35.0,2022,8,3
+Pacific West,,2024,2,17
+Pacific West,18.0,2021,6,6
+Pacific West,,2024,5,13
+Pacific West,18.0,2021,10,10
+Pacific West,19.0,2021,1,7
+Pacific West,,2022,2,14
+Pacific West,35.0,2022,9,13
+Pacific West,52.0,2023,2,5
+Pacific West,,2021,5,9
+Pacific West,19.0,2021,8,15
+Pacific West,,2022,12,8
+Pacific West,35.0,2022,6,5
+Pacific West,9.0,2020,2,12
+Pacific West,,2024,7,13
+Pacific West,9.0,2020,4,21
+Pacific West,,2022,12,12
+Pacific West,,2024,8,3
+Pacific West,,2024,7,21
+Pacific West,19.0,2021,5,16
+Pacific West,52.0,2023,7,22
+Pacific West,10.0,2020,7,9
+Pacific West,35.0,2022,11,15
+Pacific West,52.0,2023,7,13
+Pacific West,,2020,6,14
+Southeast,35.0,2022,12,9
+Southeast,,2021,3,13
+Southeast,,2024,9,1
+Southeast,63.0,2024,7,2
+Southeast,9.0,2020,12,23
+Southeast,,2024,5,0
+Southeast,,2024,7,2
+Southeast,,2022,4,11
+Southeast,9.0,2020,5,1
+Southeast,52.0,2023,7,13
+Southeast,,2024,7,0
+Southeast,,2023,2,21
+Southeast,9.0,2020,5,19
+Southeast,19.0,2021,11,21
+Southeast,,2024,8,23
+Southeast,9.0,2020,11,21
+Southeast,9.0,2020,3,7
+Southeast,35.0,2022,1,2
+Southeast,10.0,2020,2,17
+Southeast,10.0,2020,2,5
+Southeast,19.0,2021,11,6
+Southeast,,2024,4,5
+Southeast,62.0,2024,6,22
+Southeast,52.0,2023,3,2
+Southeast,19.0,2021,5,1
+Southeast,35.0,2022,6,12
+Southeast,,2021,3,0
+Southeast,,2020,1,14
+Southeast,,2023,7,18
+Southeast,19.0,2021,5,21
+Southeast,,2024,5,19
+Southeast,,2024,9,8
+Southeast,,2022,7,18
+Southeast,10.0,2020,9,0
+Southeast,11.0,2020,5,1
+Southeast,,2024,7,19
+Southeast,57.0,2023,5,11
+Southeast,,2024,4,12
+Southeast,10.0,2020,3,2
+Southeast,10.0,2020,11,2
+Southeast,,2024,10,5
+Southeast,,2023,2,3
+Southeast,12.0,2020,6,21
+Southeast,,2024,5,6
+Southeast,19.0,2021,11,18
+Southeast,19.0,2021,10,23
+Southeast,19.0,2021,4,1
+Southeast,35.0,2022,10,18
+Southeast,10.0,2020,2,14
+Southeast,,2021,12,6
+Southeast,57.0,2023,1,21
+Southeast,35.0,2022,6,12
+Southeast,,2020,7,22
+Southeast,,2021,6,9
+Southeast,,2022,3,4
+Southeast,,2024,4,18
+Southeast,15.0,2020,11,3
+Southeast,35.0,2022,4,23
+Southeast,17.0,2021,9,23
+Southeast,,2024,10,22
+Southeast,,2024,4,14
+Southeast,,2022,6,4
+Southeast,17.0,2021,11,13
+Southeast,17.0,2021,3,22
+Southeast,14.0,2020,6,18
+Southeast,,2023,2,7
+Southeast,,2024,5,6
+Southeast,17.0,2021,5,14
+Southeast,34.0,2022,7,14
+Southeast,17.0,2021,6,14
+Southeast,,2024,3,1
+Southeast,14.0,2020,8,18
+Southeast,57.0,2023,9,8
+Southeast,57.0,2023,1,14
+Southeast,34.0,2022,9,21
+Southeast,,2022,11,5
+Southeast,,2022,10,15
+Southeast,,2024,3,22
+Southeast,,2024,3,9
+Southeast,,2024,1,5
+Southeast,,2024,1,7
+Southeast,57.0,2023,7,10
+Southeast,14.0,2020,4,22
+Intermountain,34.0,2022,10,3
+Intermountain,14.0,2020,5,12
+Intermountain,14.0,2020,6,23
+Intermountain,,2020,5,2
+Intermountain,,2024,6,12
+Intermountain,17.0,2021,4,9
+Intermountain,57.0,2023,1,9
+Intermountain,57.0,2023,5,22
+Intermountain,34.0,2022,2,18
+Intermountain,57.0,2023,8,20
+Intermountain,14.0,2020,2,9
+Intermountain,14.0,2020,6,16
+Intermountain,,2022,5,19
+Intermountain,34.0,2022,1,5
+Intermountain,34.0,2022,7,14
+Intermountain,,2020,5,23
+Intermountain,57.0,2023,1,2
+Intermountain,57.0,2023,4,19
+Intermountain,34.0,2022,3,9
+Intermountain,13.0,2020,10,4
+Intermountain,,2022,2,10
+Intermountain,18.0,2021,6,19
+Intermountain,17.0,2021,4,11
+Intermountain,,2022,11,2
+Intermountain,18.0,2021,3,15
+Intermountain,12.0,2020,7,10
+Intermountain,34.0,2022,5,15
+Intermountain,,2024,7,22
+Intermountain,,2020,10,19
+Intermountain,34.0,2022,4,3
+Intermountain,,2021,9,8
+Intermountain,12.0,2020,3,6
+Intermountain,18.0,2021,2,3
+Intermountain,13.0,2020,12,0
+Intermountain,18.0,2021,7,10
+Intermountain,,2020,3,13
+Intermountain,64.0,2024,6,1
+Intermountain,17.0,2021,10,15
+Intermountain,17.0,2021,7,7
+Intermountain,17.0,2021,6,5
+Intermountain,34.0,2022,8,14
+Intermountain,58.0,2023,7,6
+Intermountain,58.0,2023,4,2
+Intermountain,17.0,2021,10,11
+Intermountain,17.0,2021,2,13
+Intermountain,34.0,2022,5,4
+Intermountain,18.0,2021,10,19
+Intermountain,57.0,2023,6,12
+Intermountain,34.0,2022,1,6
+Intermountain,57.0,2023,9,9
+Intermountain,,2024,10,18
+Intermountain,57.0,2023,5,19
+Intermountain,,2024,7,15
+Intermountain,13.0,2020,11,5
+Intermountain,,2024,8,22
+Intermountain,16.0,2021,4,20
+Intermountain,58.0,2023,4,5
+Intermountain,,2022,2,21
+Intermountain,58.0,2023,12,10
+Intermountain,64.0,2024,7,15
+Intermountain,,2022,8,5
+Intermountain,57.0,2023,7,18
+Intermountain,,2023,1,15
+Intermountain,56.0,2023,5,6
+Intermountain,34.0,2022,9,1
+Intermountain,,2022,5,4
+Intermountain,56.0,2023,7,11
+Intermountain,,2024,8,6
+Intermountain,,2022,8,22
+Intermountain,3.0,2020,2,2
+Intermountain,,2022,8,5
+Intermountain,,2024,6,7
+Intermountain,3.0,2020,6,21
+Intermountain,,2024,1,10
+Intermountain,,2024,1,23
+Intermountain,34.0,2022,7,3
+Pacific West,,2024,4,7
+Pacific West,34.0,2022,12,14
+Pacific West,17.0,2021,7,23
+Pacific West,56.0,2023,12,12
+Pacific West,56.0,2023,12,21
+Pacific West,34.0,2022,1,5
+Pacific West,17.0,2021,9,12
+Pacific West,34.0,2022,12,10
+Pacific West,56.0,2023,2,13
+Pacific West,17.0,2021,2,16
+Pacific West,17.0,2021,3,22
+Pacific West,,2024,5,21
+Pacific West,56.0,2023,11,21
+Pacific West,56.0,2023,5,10
+Pacific West,3.0,2020,3,4
+Pacific West,,2024,4,9
+Pacific West,,2023,11,13
+Pacific West,,2022,12,7
+Pacific West,17.0,2021,5,11
+Pacific West,17.0,2021,1,6
+Pacific West,,2021,8,12
+Pacific West,,2021,3,16
+Pacific West,,2022,11,2
+Pacific West,34.0,2022,11,20
+Pacific West,55.0,2023,8,9
+Pacific West,3.0,2020,12,10
+Pacific West,55.0,2023,5,22
+Pacific West,64.0,2024,4,3
+Pacific West,,2021,10,9
+Pacific West,3.0,2020,6,6
+Pacific West,,2022,1,19
+Pacific West,,2021,8,13
+Pacific West,55.0,2023,2,3
+Pacific West,34.0,2022,10,17
+Pacific West,3.0,2020,11,16
+Pacific West,34.0,2022,6,5
+Pacific West,,2024,4,9
+Pacific West,64.0,2024,9,22
+Pacific West,55.0,2023,10,11
+Pacific West,18.0,2021,5,19
+Pacific West,4.0,2020,11,22
+Pacific West,55.0,2023,11,20
+Pacific West,,2021,1,19
+Pacific West,55.0,2023,7,14
+Pacific West,18.0,2021,7,2
+Pacific West,55.0,2023,7,2
+Pacific West,4.0,2020,10,14
+Pacific West,55.0,2023,5,12
+Pacific West,4.0,2020,1,4
+Pacific West,4.0,2020,12,11
+Pacific West,,2024,1,6
+Pacific West,55.0,2023,3,22
+Pacific West,55.0,2023,9,20
+Pacific West,55.0,2023,7,23
+Pacific West,18.0,2021,8,12
+Pacific West,17.0,2021,1,13
+Pacific West,17.0,2021,7,21
+Pacific West,55.0,2023,5,0
+Pacific West,56.0,2023,6,19
+Pacific West,34.0,2022,5,20
+Pacific West,17.0,2021,1,2
+Pacific West,17.0,2021,12,10
+Pacific West,,2024,10,7
+Pacific West,64.0,2024,6,1
+Pacific West,57.0,2023,9,10
+Pacific West,34.0,2022,2,12
+Pacific West,34.0,2022,10,4
+Pacific West,34.0,2022,1,11
+Pacific West,4.0,2020,12,21
+Pacific West,57.0,2023,2,0
+Pacific West,,2024,9,22
+Pacific West,,2024,6,3
+Pacific West,,2022,6,14
+Pacific West,34.0,2022,2,22
+Pacific West,4.0,2020,5,4
+Pacific West,57.0,2023,9,0
+Pacific West,34.0,2022,2,10
+Pacific West,,2024,9,23
+Pacific West,57.0,2023,12,4
+Pacific West,5.0,2020,9,1
+Pacific West,4.0,2020,6,5
+Pacific West,63.0,2024,3,7
+Pacific West,4.0,2020,9,6
+Pacific West,,2024,5,2
+Pacific West,4.0,2020,5,23
+Pacific West,,2023,2,10
+Pacific West,4.0,2020,11,16
+Pacific West,,2021,12,0
+Pacific West,57.0,2023,2,3
+Pacific West,,2021,2,2
+Pacific West,34.0,2022,2,22
+Pacific West,,2024,5,8
+Pacific West,16.0,2021,8,23
+Pacific West,,2020,7,2
+Pacific West,,2021,1,18
+Pacific West,34.0,2022,9,14
+Pacific West,4.0,2020,7,6
+Pacific West,4.0,2020,8,16
+Pacific West,56.0,2023,3,23
+Pacific West,56.0,2023,5,6
+Pacific West,34.0,2022,2,0
+Pacific West,56.0,2023,7,8
+Pacific West,56.0,2023,9,3
+Pacific West,,2021,10,5
+Pacific West,34.0,2022,7,4
+Pacific West,34.0,2022,3,8
+Pacific West,3.0,2020,9,2
+Pacific West,56.0,2023,12,23
+Pacific West,34.0,2022,1,19
+Pacific West,34.0,2022,7,11
+Pacific West,56.0,2023,6,17
+Pacific West,56.0,2023,1,8
+Pacific West,34.0,2022,1,16
+Pacific West,17.0,2021,8,1
+Pacific West,56.0,2023,12,21
+Pacific West,63.0,2024,8,14
+Pacific West,17.0,2021,12,16
+Pacific West,34.0,2022,5,22
+Pacific West,1.0,2020,8,0
+Pacific West,1.0,2020,3,3
+Pacific West,1.0,2020,7,20
+Pacific West,56.0,2023,3,8
+Pacific West,34.0,2022,8,3
+Pacific West,56.0,2023,3,17
+Pacific West,56.0,2023,3,1
+Pacific West,56.0,2023,6,12
+Pacific West,,2023,6,5
+Pacific West,1.0,2020,3,13
+Pacific West,1.0,2020,9,20
+Pacific West,1.0,2020,10,17
+Pacific West,,2022,8,3
+Pacific West,,2024,1,10
+Pacific West,,2024,6,0
+Pacific West,35.0,2022,11,9
+Pacific West,35.0,2022,3,7
+Pacific West,,2023,12,23
+Pacific West,1.0,2020,11,11
+Pacific West,56.0,2023,5,2
+Pacific West,1.0,2020,9,8
+Pacific West,1.0,2020,1,3
+Pacific West,,2024,8,0
+Pacific West,,2024,1,7
+Pacific West,,2024,6,0
+Pacific West,,2024,4,19
+Pacific West,57.0,2023,5,18
+Pacific West,,2024,5,21
+Pacific West,36.0,2022,2,6
+Pacific West,35.0,2022,9,1
+Pacific West,56.0,2023,5,21
+Pacific West,,2024,6,22
+Pacific West,,2024,4,17
+Pacific West,,2024,8,12
+Pacific West,36.0,2022,6,16
+Pacific West,,2021,6,20
+Pacific West,1.0,2020,5,11
+Pacific West,,2021,3,15
+Pacific West,,2023,12,12
+Pacific West,56.0,2023,9,17
+Pacific West,19.0,2021,7,5
+Pacific West,36.0,2022,1,7
+Pacific West,19.0,2021,12,3
+Pacific West,,2024,4,22
+Pacific West,50.0,2023,3,4
+Pacific West,55.0,2023,9,14
+Northeast,63.0,2024,9,14
+Northeast,,2023,2,6
+Northeast,,2022,5,4
+Northeast,36.0,2022,2,17
+Northeast,36.0,2022,10,13
+Northeast,36.0,2022,8,17
+Northeast,,2024,8,19
+Northeast,56.0,2023,2,20
+Northeast,36.0,2022,8,10
+Northeast,,2024,5,0
+Northeast,2.0,2020,12,13
+Northeast,2.0,2020,5,1
+Northeast,19.0,2021,11,13
+Northeast,19.0,2021,2,3
+Northeast,3.0,2020,2,5
+Northeast,56.0,2023,4,18
+Northeast,19.0,2021,10,11
+Northeast,,2023,10,23
+Northeast,2.0,2020,7,6
+Northeast,20.0,2021,4,18
+Northeast,,2024,3,17
+Northeast,56.0,2023,10,21
+Northeast,2.0,2020,7,4
+Northeast,36.0,2022,3,0
+Northeast,36.0,2022,12,21
+Northeast,36.0,2022,11,1
+Northeast,,2024,1,23
+Northeast,20.0,2021,9,14
+Northeast,58.0,2023,8,12
+Northeast,,2024,2,13
+Northeast,2.0,2020,9,15
+Northeast,36.0,2022,7,5
+Northeast,,2020,3,10
+Northeast,,2021,4,21
+Northeast,2.0,2020,1,17
+Northeast,70.0,2024,8,1
+Northeast,,2024,1,14
+Northeast,2.0,2020,8,15
+Northeast,5.0,2020,2,14
+Northeast,36.0,2022,10,9
+Northeast,,2024,8,16
+Northeast,19.0,2021,4,17
+Northeast,7.0,2020,11,10
+Northeast,,2022,4,7
+Northeast,,2024,7,6
+Northeast,,2022,4,14
+Northeast,57.0,2023,10,7
+Northeast,18.0,2021,11,14
+Northeast,36.0,2022,10,22
+Northeast,,2022,5,5
+Northeast,,2024,2,3
+Northeast,,2022,6,22
+Northeast,,2022,11,9
+Northeast,,2024,2,19
+Northeast,8.0,2020,1,21
+Northeast,36.0,2022,10,7
+Northeast,70.0,2024,6,6
+Northeast,58.0,2023,9,10
+Northeast,7.0,2020,6,1
+Northeast,58.0,2023,7,5
+Northeast,70.0,2024,9,17
+Northeast,36.0,2022,12,6
+Northeast,18.0,2021,8,18
+Northeast,18.0,2021,8,15
+Northeast,,2024,4,13
+Northeast,57.0,2023,1,19
+Northeast,18.0,2021,12,8
+Northeast,7.0,2020,7,10
+Northeast,7.0,2020,8,13
+Northeast,57.0,2023,8,6
+Northeast,,2024,7,1
+Northeast,,2024,1,21
+Northeast,18.0,2021,2,20
+Northeast,,2020,5,5
+Northeast,,2024,5,20
+Northeast,7.0,2020,9,9
+Northeast,18.0,2021,2,2
+Pacific West,7.0,2020,5,7
+Pacific West,,2024,1,23
+Pacific West,50.0,2023,5,16
+Pacific West,18.0,2021,2,7
+Pacific West,,2024,10,21
+Pacific West,47.0,2023,12,8
+Pacific West,19.0,2021,6,17
+Pacific West,,2024,7,14
+Pacific West,,2024,3,9
+Pacific West,,2024,1,20
+Pacific West,36.0,2022,8,22
+Pacific West,,2022,2,2
+Pacific West,,2023,1,21
+Pacific West,45.0,2023,9,2
+Pacific West,7.0,2020,7,12
+Pacific West,,2024,4,16
+Pacific West,,2023,12,21
+Pacific West,,2022,3,21
+Pacific West,36.0,2022,2,15
+Pacific West,,2024,6,7
+Pacific West,45.0,2023,4,2
+Pacific West,45.0,2023,9,18
+Pacific West,9.0,2020,11,18
+Pacific West,9.0,2020,10,18
+Pacific West,36.0,2022,12,9
+Pacific West,70.0,2024,3,6
+Pacific West,36.0,2022,1,16
+Pacific West,45.0,2023,5,21
+Pacific West,70.0,2024,4,15
+Pacific West,44.0,2023,9,14
+Pacific West,,2023,9,12
+Pacific West,70.0,2024,4,14
+Pacific West,9.0,2020,12,3
+Pacific West,19.0,2021,1,23
+Pacific West,44.0,2023,12,17
+Pacific West,,2021,3,15
+Pacific West,,2024,5,1
+Pacific West,,2021,2,19
+Pacific West,,2020,7,15
+Pacific West,,2022,12,19
+Pacific West,45.0,2023,6,11
+Pacific West,,2024,7,2
+Pacific West,18.0,2021,9,8
+Pacific West,37.0,2022,5,10
+Pacific West,37.0,2022,12,17
+Pacific West,,2024,7,21
+Pacific West,,2024,2,18
+Pacific West,8.0,2020,9,19
+Pacific West,46.0,2023,6,0
+Pacific West,69.0,2024,6,23
+Pacific West,8.0,2020,8,10
+Pacific West,69.0,2024,3,17
+Pacific West,46.0,2023,6,13
+Pacific West,46.0,2023,10,11
+Pacific West,46.0,2023,5,14
+Pacific West,18.0,2021,12,12
+Pacific West,15.0,2021,7,8
+Pacific West,15.0,2021,11,3
+Pacific West,8.0,2020,11,16
+Pacific West,,2022,9,10
+Pacific West,15.0,2021,12,20
+Pacific West,,2020,7,2
+Pacific West,37.0,2022,1,2
+Pacific West,37.0,2022,6,2
+Pacific West,,2022,10,15
+Pacific West,37.0,2022,7,18
+Pacific West,5.0,2020,9,12
+Pacific West,,2024,3,12
+Pacific West,16.0,2021,3,19
+Pacific West,45.0,2023,11,18
+Pacific West,37.0,2022,10,7
+Pacific West,16.0,2021,2,4
+Pacific West,,2020,12,8
+Pacific West,37.0,2022,8,20
+Pacific West,16.0,2021,6,9
+Pacific West,16.0,2021,1,23
+Pacific West,16.0,2021,6,8
+Pacific West,15.0,2021,11,6
+Pacific West,45.0,2023,12,1
+Pacific West,45.0,2023,7,12
+Pacific West,,2024,8,15
+Pacific West,45.0,2023,7,16
+Pacific West,,2021,12,12
+Pacific West,16.0,2021,8,22
+Pacific West,,2021,6,17
+Pacific West,16.0,2021,10,9
+Pacific West,16.0,2021,12,6
+Pacific West,,2024,4,23
+Pacific West,,2024,8,18
+Pacific West,6.0,2020,1,2
+Pacific West,45.0,2023,9,10
+Pacific West,,2024,9,12
+Pacific West,16.0,2021,11,4
+Pacific West,37.0,2022,6,7
+Pacific West,16.0,2021,8,19
+Pacific West,,2022,9,9
+Pacific West,15.0,2021,7,23
+Pacific West,6.0,2020,2,10
+Pacific West,5.0,2020,10,4
+Pacific West,15.0,2021,10,15
+Pacific West,,2022,3,8
+Pacific West,5.0,2020,8,9
+Pacific West,,2022,9,11
+Pacific West,,2024,8,9
+Pacific West,15.0,2021,3,22
+Pacific West,,2024,8,1
+Pacific West,16.0,2021,10,20
+Pacific West,,2024,10,21
+Pacific West,15.0,2021,8,4
+Pacific West,5.0,2020,10,8
+Pacific West,15.0,2021,2,8
+Pacific West,15.0,2021,12,9
+Pacific West,36.0,2022,8,9
+Pacific West,5.0,2020,4,14
+Pacific West,45.0,2023,11,2
+Pacific West,36.0,2022,8,9
+Pacific West,,2023,4,1
+Pacific West,16.0,2021,12,14
+Pacific West,45.0,2023,8,15
+Pacific West,,2020,10,18
+Pacific West,,2024,1,9
+Pacific West,36.0,2022,8,18
+Pacific West,16.0,2021,9,5
+Pacific West,6.0,2020,7,20
+Pacific West,36.0,2022,7,6
+Pacific West,,2021,12,9
+Pacific West,45.0,2023,11,15
+Pacific West,15.0,2021,10,19
+Pacific West,6.0,2020,7,14
+Pacific West,36.0,2022,4,18
+Pacific West,,2020,9,10
+Pacific West,16.0,2021,1,12
+Pacific West,45.0,2023,4,18
+Pacific West,45.0,2023,11,14
+Pacific West,7.0,2020,5,4
+Pacific West,16.0,2021,4,10
+Pacific West,,2024,9,12
+Pacific West,,2021,7,17
+Pacific West,46.0,2023,6,22
+Pacific West,,2020,2,12
+Pacific West,46.0,2023,10,13
+Pacific West,6.0,2020,3,22
+Pacific West,,2024,1,6
+Pacific West,15.0,2021,10,2
+Pacific West,,2024,2,3
+Pacific West,,2021,4,2
+Pacific West,16.0,2021,5,0
+Pacific West,16.0,2021,8,14
+Pacific West,36.0,2022,10,14
+Pacific West,16.0,2021,12,5
+Pacific West,46.0,2023,4,1
+Pacific West,46.0,2023,7,1
+Pacific West,15.0,2021,3,9
+Pacific West,,2024,8,14
+Pacific West,36.0,2022,4,19
+Pacific West,46.0,2023,5,16
+Pacific West,36.0,2022,9,21
+Pacific West,15.0,2021,5,14
+Pacific West,6.0,2020,6,1
+Pacific West,15.0,2021,1,4
+Pacific West,6.0,2020,6,19
+Pacific West,46.0,2023,4,9
+Pacific West,6.0,2020,11,2
+Intermountain,46.0,2023,8,16
+Intermountain,36.0,2022,11,0
+Intermountain,,2022,7,4
+Intermountain,,2023,3,19
+Intermountain,36.0,2022,4,5
+Intermountain,71.0,2024,4,12
+Intermountain,46.0,2023,12,18
+Intermountain,15.0,2021,2,23
+Intermountain,,2021,10,17
+Intermountain,,2022,8,15
+Intermountain,20.0,2021,1,4
+Intermountain,6.0,2020,6,18
+Intermountain,,2021,3,14
+Intermountain,6.0,2020,5,23
+Intermountain,,2022,7,15
+Intermountain,6.0,2020,4,9
+Intermountain,,2024,5,4
+Intermountain,46.0,2023,8,18
+Intermountain,28.0,2021,4,10
+Intermountain,35.0,2022,3,18
+Intermountain,35.0,2022,9,7
+Intermountain,47.0,2023,7,19
+Intermountain,71.0,2024,2,17
+Intermountain,28.0,2021,6,6
+Intermountain,28.0,2021,9,7
+Intermountain,,2024,6,0
+Intermountain,28.0,2021,6,21
+Intermountain,44.0,2023,10,2
+Intermountain,,2020,11,3
+Intermountain,28.0,2021,9,13
+Intermountain,,2024,9,17
+Intermountain,44.0,2023,1,23
+Intermountain,35.0,2022,3,16
+Intermountain,6.0,2020,5,2
+Intermountain,35.0,2022,6,21
+Intermountain,,2020,8,15
+Intermountain,6.0,2020,4,11
+Intermountain,28.0,2021,8,9
+Intermountain,,2024,4,12
+Intermountain,44.0,2023,3,7
+Intermountain,6.0,2020,7,7
+Intermountain,,2021,6,10
+Intermountain,35.0,2022,2,2
+Intermountain,44.0,2023,7,3
+Intermountain,,2024,5,12
+Intermountain,71.0,2024,5,1
+Intermountain,,2024,6,20
+Intermountain,6.0,2020,5,12
+Intermountain,6.0,2020,2,16
+Intermountain,,2021,11,20
+Intermountain,35.0,2022,6,6
+Intermountain,29.0,2021,5,1
+Intermountain,35.0,2022,5,4
+Intermountain,,2024,9,23
+Intermountain,,2024,6,3
+Intermountain,35.0,2022,6,19
+Intermountain,29.0,2021,7,10
+Intermountain,6.0,2020,4,14
+Intermountain,45.0,2023,3,15
+Intermountain,7.0,2020,11,12
+Intermountain,,2022,11,5
+Intermountain,45.0,2023,7,20
+Intermountain,71.0,2024,10,17
+Intermountain,35.0,2022,8,23
+Intermountain,,2024,10,10
+Intermountain,,2024,2,10
+Intermountain,,2023,10,6
+Intermountain,,2024,9,4
+Intermountain,45.0,2023,3,3
+Pacific West,6.0,2020,3,18
+Pacific West,6.0,2020,12,5
+Pacific West,45.0,2023,9,16
+Pacific West,35.0,2022,1,8
+Pacific West,35.0,2022,6,22
+Pacific West,7.0,2020,1,2
+Pacific West,,2020,12,4
+Pacific West,35.0,2022,11,14
+Pacific West,,2023,5,12
+Pacific West,35.0,2022,2,19
+Pacific West,,2024,5,1
+Pacific West,26.0,2021,7,23
+Pacific West,7.0,2020,5,8
+Pacific West,35.0,2022,8,3
+Pacific West,,2020,2,6
+Pacific West,,2021,2,7
+Pacific West,47.0,2023,6,3
+Pacific West,35.0,2022,7,13
+Pacific West,49.0,2023,10,22
+Pacific West,25.0,2021,10,3
+Pacific West,25.0,2021,11,21
+Pacific West,,2024,6,14
+Pacific West,6.0,2020,5,13
+Pacific West,35.0,2022,3,2
+Pacific West,25.0,2021,11,14
+Pacific West,49.0,2023,8,16
+Pacific West,6.0,2020,6,10
+Pacific West,,2023,1,0
+Pacific West,,2024,10,15
+Pacific West,25.0,2021,3,23
+Pacific West,35.0,2022,1,0
+Pacific West,6.0,2020,12,14
+Pacific West,35.0,2022,8,6
+Pacific West,6.0,2020,10,3
+Pacific West,6.0,2020,2,1
+Pacific West,49.0,2023,11,16
+Pacific West,49.0,2023,1,19
+Pacific West,6.0,2020,5,0
+Pacific West,,2024,6,0
+Pacific West,,2024,2,11
+Pacific West,6.0,2020,6,14
+Pacific West,25.0,2021,12,12
+Pacific West,,2022,5,20
+Pacific West,,2023,9,13
+Pacific West,,2024,10,13
+Pacific West,49.0,2023,6,0
+Pacific West,71.0,2024,4,13
+Pacific West,49.0,2023,3,19
+Pacific West,49.0,2023,9,13
+Pacific West,,2022,9,15
+Pacific West,,2023,11,12
+Pacific West,,2024,7,5
+Pacific West,,2020,7,3
+Pacific West,5.0,2020,9,16
+Pacific West,,2024,6,9
+Pacific West,,2024,6,5
+Pacific West,,2022,8,21
+Pacific West,,2021,8,19
+Pacific West,5.0,2020,11,12
+Pacific West,5.0,2020,11,9
+Pacific West,35.0,2022,1,16
+Pacific West,35.0,2022,7,12
+Pacific West,49.0,2023,6,3
+Pacific West,,2024,2,1
+Pacific West,5.0,2020,2,14
+Pacific West,35.0,2022,5,14
+Pacific West,49.0,2023,3,10
+Pacific West,5.0,2020,1,1
+Pacific West,36.0,2022,5,21
+Pacific West,36.0,2022,12,13
+Pacific West,26.0,2021,9,4
+Pacific West,49.0,2023,8,12
+Pacific West,71.0,2024,5,4
+Pacific West,5.0,2020,4,5
+Pacific West,49.0,2023,11,11
+Pacific West,36.0,2022,11,21
+Pacific West,,2024,4,9
+Pacific West,36.0,2022,2,2
+Pacific West,49.0,2023,7,20
+Pacific West,5.0,2020,5,13
+Pacific West,49.0,2023,5,14
+Pacific West,,2024,7,14
+Pacific West,71.0,2024,8,5
+Pacific West,26.0,2021,3,11
+Pacific West,,2024,4,0
+Pacific West,36.0,2022,11,18
+Pacific West,26.0,2021,7,2
+Pacific West,,2020,4,22
+Pacific West,,2024,6,7
+Pacific West,5.0,2020,8,3
+Pacific West,,2024,2,17
+Pacific West,49.0,2023,7,9
+Pacific West,5.0,2020,8,5
+Pacific West,5.0,2020,8,18
+Pacific West,26.0,2021,6,16
+Pacific West,,2021,2,15
+Pacific West,50.0,2023,8,19
+Pacific West,26.0,2021,10,9
+Pacific West,,2024,5,1
+Pacific West,50.0,2023,12,21
+Pacific West,6.0,2020,6,8
+Pacific West,6.0,2020,5,20
+Pacific West,50.0,2023,9,12
+Pacific West,,2022,1,10
+Pacific West,,2023,5,3
+Pacific West,,2023,9,12
+Pacific West,26.0,2021,8,12
+Pacific West,69.0,2024,2,9
+Pacific West,,2024,10,2
+Pacific West,6.0,2020,10,22
+Pacific West,,2024,5,7
+Pacific West,6.0,2020,8,14
+Pacific West,26.0,2021,5,15
+Pacific West,36.0,2022,12,0
+Pacific West,6.0,2020,5,8
+Pacific West,,2021,9,12
+Pacific West,50.0,2023,10,1
+Pacific West,36.0,2022,11,1
+Pacific West,50.0,2023,12,21
+Pacific West,,2020,1,13
+Pacific West,36.0,2022,4,4
+Pacific West,36.0,2022,12,20
+Pacific West,50.0,2023,7,3
+Pacific West,50.0,2023,2,0
+Pacific West,26.0,2021,9,7
+Pacific West,6.0,2020,4,12
+Pacific West,50.0,2023,12,3
+Pacific West,50.0,2023,8,8
+Pacific West,5.0,2020,12,22
+Pacific West,,2024,4,1
+Pacific West,,2024,8,20
+Pacific West,,2021,9,22
+Pacific West,26.0,2021,4,12
+Pacific West,,2024,5,10
+Pacific West,5.0,2020,3,15
+Pacific West,36.0,2022,12,10
+Pacific West,26.0,2021,1,5
+Pacific West,5.0,2020,1,19
+Pacific West,36.0,2022,7,8
+Pacific West,49.0,2023,1,13
+Pacific West,50.0,2023,4,3
+Pacific West,5.0,2020,5,2
+Pacific West,27.0,2021,6,19
+Pacific West,,2024,5,13
+Pacific West,,2024,4,14
+Pacific West,,2021,6,0
+Pacific West,36.0,2022,5,5
+Pacific West,50.0,2023,4,20
+Pacific West,36.0,2022,1,10
+Pacific West,50.0,2023,6,10
+Pacific West,,2024,2,16
+Pacific West,36.0,2022,9,12
+Pacific West,5.0,2020,1,0
+Pacific West,5.0,2020,12,8
+Pacific West,5.0,2020,3,23
+Pacific West,,2020,8,8
+Pacific West,68.0,2024,10,10
+Pacific West,50.0,2023,12,20
+Pacific West,27.0,2021,9,4
+Pacific West,50.0,2023,6,4
+Intermountain,50.0,2023,10,4
+Intermountain,27.0,2021,1,4
+Intermountain,8.0,2020,7,17
+Intermountain,,2022,8,10
+Intermountain,,2021,3,20
+Intermountain,36.0,2022,2,16
+Intermountain,8.0,2020,4,22
+Intermountain,8.0,2020,4,11
+Intermountain,36.0,2022,1,19
+Intermountain,27.0,2021,12,10
+Intermountain,50.0,2023,9,10
+Intermountain,27.0,2021,1,6
+Intermountain,27.0,2021,2,22
+Intermountain,,2024,4,0
+Intermountain,27.0,2021,5,19
+Intermountain,68.0,2024,3,12
+Intermountain,48.0,2023,2,8
+Intermountain,8.0,2020,11,3
+Intermountain,,2024,6,10
+Intermountain,36.0,2022,5,0
+Intermountain,47.0,2023,6,7
+Intermountain,47.0,2023,12,22
+Intermountain,,2024,7,23
+Intermountain,8.0,2020,1,11
+Intermountain,27.0,2021,12,23
+Intermountain,,2024,9,15
+Intermountain,,2024,4,3
+Intermountain,,2023,10,8
+Intermountain,,2021,9,2
+Intermountain,,2020,4,15
+Intermountain,47.0,2023,7,18
+Intermountain,36.0,2022,6,6
+Intermountain,36.0,2022,3,4
+Intermountain,27.0,2021,11,17
+Intermountain,35.0,2022,10,19
+Intermountain,,2024,5,4
+Intermountain,8.0,2020,10,0
+Intermountain,34.0,2022,4,18
+Intermountain,47.0,2023,11,3
+Intermountain,47.0,2023,4,12
+Intermountain,9.0,2020,4,21
+Intermountain,35.0,2022,8,11
+Intermountain,9.0,2020,4,22
+Intermountain,9.0,2020,2,7
+Intermountain,,2021,1,17
+Intermountain,9.0,2020,7,20
+Intermountain,26.0,2021,4,8
+Intermountain,9.0,2020,11,16
+Intermountain,34.0,2022,1,14
+Intermountain,32.0,2022,1,21
+Intermountain,,2024,1,21
+Intermountain,25.0,2021,7,20
+Intermountain,32.0,2022,7,12
+Intermountain,,2020,4,13
+Intermountain,,2023,4,21
+Intermountain,8.0,2020,5,3
+Intermountain,8.0,2020,7,3
+Intermountain,,2024,8,11
+Intermountain,,2022,11,17
+Intermountain,8.0,2020,10,13
+Intermountain,8.0,2020,4,0
+Intermountain,47.0,2023,10,14
+Intermountain,8.0,2020,9,21
+Intermountain,,2021,8,2
+Intermountain,32.0,2022,3,18
+Intermountain,32.0,2022,1,4
+Intermountain,,2023,9,22
+Intermountain,,2022,7,11
+Intermountain,20.0,2021,12,16
+Intermountain,47.0,2023,11,6
+Intermountain,32.0,2022,8,18
+Intermountain,,2020,10,8
+Intermountain,,2021,1,20
+Intermountain,25.0,2021,11,17
+Intermountain,32.0,2022,8,0
+Intermountain,32.0,2022,10,0
+Intermountain,7.0,2020,9,23
+Intermountain,32.0,2022,4,4
+Intermountain,,2020,5,0
+Intermountain,32.0,2022,1,4
+Intermountain,32.0,2022,7,23
+Intermountain,48.0,2023,12,16
+Intermountain,,2024,7,7
+Intermountain,48.0,2023,8,9
+Intermountain,48.0,2023,11,14
+Intermountain,7.0,2020,5,18
+Intermountain,,2024,5,8
+Intermountain,,2023,3,13
+Intermountain,,2024,7,15
+Intermountain,7.0,2020,6,10
+Intermountain,,2020,6,10
+Intermountain,,2021,6,0
+Intermountain,,2021,12,4
+Intermountain,48.0,2023,4,0
+Intermountain,48.0,2023,8,23
+Intermountain,32.0,2022,1,18
+Intermountain,32.0,2022,12,11
+Intermountain,,2024,10,15
+Intermountain,7.0,2020,7,0
+Intermountain,26.0,2021,11,0
+Intermountain,32.0,2022,2,16
+Intermountain,7.0,2020,1,1
+Intermountain,48.0,2023,7,16
+Intermountain,48.0,2023,4,15
+Intermountain,,2020,2,6
+Intermountain,7.0,2020,6,7
+Intermountain,7.0,2020,1,22
+Intermountain,67.0,2024,4,17
+Intermountain,32.0,2022,5,9
+Intermountain,26.0,2021,10,21
+Intermountain,,2024,1,23
+Intermountain,7.0,2020,10,2
+Intermountain,7.0,2020,2,23
+Intermountain,,2024,3,18
+Intermountain,,2024,4,8
+Intermountain,7.0,2020,8,0
+Intermountain,32.0,2022,8,5
+Intermountain,48.0,2023,6,3
+Intermountain,32.0,2022,7,16
+Intermountain,26.0,2021,12,14
+Intermountain,32.0,2022,6,20
+Intermountain,8.0,2020,3,4
+Intermountain,32.0,2022,8,22
+Intermountain,8.0,2020,5,13
+Intermountain,,2021,11,12
+Intermountain,7.0,2020,7,5
+Intermountain,7.0,2020,11,13
+Intermountain,7.0,2020,5,18
+Intermountain,,2024,6,16
+Intermountain,7.0,2020,9,17
+Intermountain,,2024,1,12
+Intermountain,25.0,2021,10,13
+Intermountain,31.0,2022,3,20
+Intermountain,,2024,2,14
+Intermountain,,2024,9,8
+Intermountain,,2024,4,6
+Intermountain,31.0,2022,12,2
+Intermountain,,2024,9,8
+Intermountain,,2023,9,22
+Intermountain,48.0,2023,3,14
+Intermountain,,2022,5,11
+Intermountain,,2024,6,3
+Intermountain,26.0,2021,6,12
+Intermountain,32.0,2022,6,5
+Intermountain,,2024,7,20
+Intermountain,7.0,2020,11,21
+Intermountain,26.0,2021,11,20
+Intermountain,7.0,2020,4,1
+Intermountain,5.0,2020,4,21
+Intermountain,4.0,2020,10,7
+Intermountain,32.0,2022,7,8
+Intermountain,,2020,2,16
+Intermountain,48.0,2023,12,5
+Intermountain,48.0,2023,7,10
+Intermountain,,2024,2,19
+Intermountain,32.0,2022,4,4
+Intermountain,,2024,10,5
+Intermountain,2.0,2020,10,16
+Intermountain,27.0,2021,11,12
+Intermountain,32.0,2022,5,7
+Intermountain,2.0,2020,5,2
+Pacific West,2.0,2020,6,1
+Pacific West,,2024,1,18
+Pacific West,,2020,11,10
+Pacific West,48.0,2023,6,7
+Pacific West,,2021,12,19
+Pacific West,32.0,2022,4,17
+Pacific West,48.0,2023,8,0
+Pacific West,,2020,7,19
+Pacific West,2.0,2020,9,16
+Pacific West,,2024,1,16
+Pacific West,32.0,2022,8,1
+Pacific West,48.0,2023,3,12
+Pacific West,,2024,1,5
+Pacific West,,2020,3,12
+Pacific West,,2021,2,22
+Pacific West,,2024,10,20
+Pacific West,32.0,2022,5,5
+Pacific West,29.0,2021,8,7
+Pacific West,,2020,9,11
+Pacific West,2.0,2020,2,1
+Pacific West,32.0,2022,9,12
+Pacific West,48.0,2023,10,0
+Pacific West,29.0,2021,4,19
+Pacific West,32.0,2022,12,23
+Pacific West,32.0,2022,8,2
+Pacific West,,2024,2,20
+Pacific West,2.0,2020,8,6
+Pacific West,29.0,2021,11,3
+Pacific West,2.0,2020,9,20
+Pacific West,2.0,2020,2,6
+Pacific West,32.0,2022,10,9
+Pacific West,47.0,2023,12,9
+Pacific West,3.0,2020,9,23
+Pacific West,2.0,2020,11,0
+Pacific West,29.0,2021,2,18
+Pacific West,2.0,2020,11,10
+Pacific West,32.0,2022,5,5
+Pacific West,32.0,2022,9,4
+Pacific West,28.0,2021,10,18
+Pacific West,,2021,3,17
+Pacific West,,2024,1,18
+Pacific West,,2023,1,22
+Pacific West,,2024,6,9
+Pacific West,28.0,2021,6,3
+Pacific West,47.0,2023,12,21
+Pacific West,3.0,2020,1,3
+Pacific West,,2024,1,10
+Pacific West,32.0,2022,5,19
+Pacific West,32.0,2022,3,20
+Pacific West,,2024,5,3
+Pacific West,2.0,2020,10,8
+Pacific West,2.0,2020,8,17
+Pacific West,47.0,2023,6,6
+Pacific West,32.0,2022,3,4
+Pacific West,,2024,1,19
+Pacific West,2.0,2020,2,12
+Pacific West,32.0,2022,6,8
+Pacific West,32.0,2022,10,17
+Pacific West,,2024,1,1
+Pacific West,,2022,3,13
+Pacific West,,2024,3,13
+Pacific West,32.0,2022,8,23
+Pacific West,2.0,2020,8,12
+Pacific West,32.0,2022,4,2
+Pacific West,47.0,2023,2,13
+Pacific West,47.0,2023,9,23
+Pacific West,2.0,2020,10,10
+Pacific West,32.0,2022,4,3
+Pacific West,29.0,2021,6,3
+Pacific West,,2022,12,2
+Pacific West,32.0,2022,5,21
+Pacific West,32.0,2022,9,5
+Pacific West,1.0,2020,5,11
+Pacific West,1.0,2020,4,2
+Pacific West,29.0,2021,3,13
+Pacific West,1.0,2020,4,11
+Pacific West,48.0,2023,9,18
+Pacific West,29.0,2021,12,8
+Pacific West,50.0,2023,6,16
+Pacific West,29.0,2021,7,7
+Northeast,1.0,2020,6,11
+Northeast,,2020,4,12
+Northeast,32.0,2022,7,20
+Northeast,,2023,11,17
+Northeast,29.0,2021,9,17
+Northeast,29.0,2021,9,18
+Northeast,,2024,8,8
+Northeast,,2024,8,12
+Northeast,1.0,2020,4,6
+Northeast,,2022,9,3
+Northeast,50.0,2023,5,16
+Northeast,50.0,2023,11,10
+Northeast,1.0,2020,12,0
+Northeast,1.0,2020,10,3
+Northeast,29.0,2021,8,8
+Northeast,69.0,2024,2,13
+Northeast,49.0,2023,11,2
+Northeast,1.0,2020,9,13
+Northeast,50.0,2023,6,16
+Northeast,,2020,1,22
+Northeast,1.0,2020,8,23
+Northeast,,2024,3,6
+Northeast,69.0,2024,8,0
+Northeast,50.0,2023,12,13
+Northeast,31.0,2022,4,8
+Northeast,31.0,2022,4,12
+Northeast,31.0,2022,1,0
+Northeast,1.0,2020,9,20
+Northeast,29.0,2021,2,17
+Northeast,50.0,2023,2,6
+Northeast,,2024,9,13
+Northeast,50.0,2023,3,23
+Northeast,31.0,2022,9,6
+Northeast,29.0,2021,1,10
+Northeast,,2024,8,23
+Northeast,,2022,3,3
+Northeast,29.0,2021,3,5
+Northeast,69.0,2024,10,2
+Northeast,29.0,2021,6,12
+Northeast,,2022,7,9
+Northeast,29.0,2021,9,23
+Northeast,69.0,2024,4,21
+Northeast,29.0,2021,12,7
+Northeast,29.0,2021,11,16
+Northeast,50.0,2023,7,19
+Northeast,,2022,6,22
+Northeast,49.0,2023,8,22
+Northeast,,2021,3,4
+Northeast,,2022,3,1
+Northeast,28.0,2021,2,5
+Northeast,31.0,2022,1,3
+Northeast,49.0,2023,4,20
+Northeast,31.0,2022,8,10
+Northeast,,2020,10,18
+Northeast,,2024,1,15
+Northeast,,2020,11,7
+Northeast,1.0,2020,9,10
+Northeast,31.0,2022,4,1
+Northeast,1.0,2020,12,16
+Northeast,,2024,10,18
+Northeast,1.0,2020,1,17
+Northeast,28.0,2021,2,0
+Northeast,49.0,2023,1,17
+Northeast,31.0,2022,3,20
+Northeast,31.0,2022,1,15
+Northeast,,2024,10,21
+Northeast,,2021,10,23
+Northeast,1.0,2020,2,1
+Northeast,,2024,6,19
+Northeast,28.0,2021,2,3
+Northeast,31.0,2022,12,21
+Northeast,31.0,2022,8,14
+Northeast,49.0,2023,2,17
+Northeast,31.0,2022,8,0
+Northeast,27.0,2021,10,2
+Northeast,,2024,4,23
+Northeast,4.0,2020,4,16
+Northeast,,2024,4,2
+Northeast,27.0,2021,10,5
+Midwest,,2024,8,13
+Midwest,27.0,2021,7,15
+Midwest,68.0,2024,6,20
+Midwest,27.0,2021,1,10
+Midwest,45.0,2023,6,11
+Midwest,,2021,5,15
+Midwest,4.0,2020,12,22
+Midwest,27.0,2021,9,5
+Midwest,27.0,2021,2,11
+Midwest,4.0,2020,12,19
+Midwest,27.0,2021,4,9
+Midwest,27.0,2021,4,20
+Midwest,27.0,2021,7,7
+Midwest,44.0,2023,5,0
+Midwest,44.0,2023,8,10
+Midwest,31.0,2022,8,10
+Midwest,27.0,2021,3,1
+Midwest,,2021,6,22
+Midwest,28.0,2021,3,17
+Midwest,44.0,2023,8,9
+Midwest,28.0,2021,9,6
+Midwest,45.0,2023,6,15
+Midwest,31.0,2022,11,9
+Midwest,46.0,2023,9,7
+Midwest,46.0,2023,6,10
+Midwest,68.0,2024,2,11
+Midwest,28.0,2021,12,5
+Midwest,4.0,2020,4,8
+Midwest,31.0,2022,10,0
+Midwest,,2020,8,4
+Midwest,,2024,3,0
+Midwest,46.0,2023,7,20
+Midwest,28.0,2021,5,12
+Midwest,46.0,2023,6,9
+Midwest,28.0,2021,4,9
+Midwest,46.0,2023,12,6
+Midwest,4.0,2020,2,19
+Midwest,4.0,2020,4,9
+Midwest,,2023,7,18
+Midwest,31.0,2022,3,5
+Midwest,4.0,2020,9,4
+Midwest,28.0,2021,9,11
+Midwest,,2024,7,19
+Midwest,31.0,2022,2,19
+Midwest,31.0,2022,5,20
+Midwest,,2024,10,16
+Midwest,31.0,2022,12,17
+Midwest,31.0,2022,7,3
+Midwest,45.0,2023,1,1
+Midwest,,2024,10,16
+Midwest,4.0,2020,5,15
+Midwest,31.0,2022,8,1
+Midwest,28.0,2021,11,20
+Midwest,28.0,2021,4,4
+Midwest,4.0,2020,9,18
+Midwest,28.0,2021,2,19
+Midwest,28.0,2021,8,7
+Midwest,45.0,2023,4,14
+Midwest,,2024,3,11
+Midwest,31.0,2022,10,10
+Midwest,,2024,6,12
+Midwest,,2021,7,22
+Midwest,28.0,2021,10,1
+Midwest,31.0,2022,8,22
+Midwest,5.0,2020,11,18
+Midwest,28.0,2021,7,4
+Midwest,,2024,5,10
+Midwest,31.0,2022,10,4
+Midwest,31.0,2022,1,17
+Midwest,45.0,2023,4,3
+Midwest,4.0,2020,8,2
+Midwest,46.0,2023,1,4
+Midwest,28.0,2021,5,1
+Midwest,25.0,2021,2,19
+Midwest,26.0,2021,6,22
+Midwest,,2024,9,13
+Midwest,31.0,2022,4,7
+Midwest,,2020,12,12
+Midwest,,2024,2,18
+Midwest,,2024,10,16
+Midwest,4.0,2020,10,12
+Midwest,46.0,2023,7,7
+Midwest,21.0,2021,2,14
+Midwest,,2022,7,7
+Southeast,21.0,2021,1,14
+Southeast,44.0,2023,3,21
+Southeast,,2024,6,20
+Southeast,4.0,2020,7,20
+Southeast,45.0,2023,6,12
+Southeast,31.0,2022,7,11
+Southeast,,2024,7,17
+Southeast,,2024,7,13
+Southeast,45.0,2023,9,21
+Southeast,45.0,2023,7,16
+Southeast,45.0,2023,9,19
+Southeast,4.0,2020,8,16
+Southeast,,2021,2,18
+Southeast,55.0,2023,5,3
+Southeast,50.0,2023,1,10
+Southeast,,2021,12,9
+Southeast,4.0,2020,12,9
+Southeast,31.0,2022,10,21
+Southeast,3.0,2020,8,0
+Southeast,3.0,2020,4,7
+Southeast,46.0,2023,3,0
+Southeast,31.0,2022,8,0
+Southeast,21.0,2021,7,13
+Southeast,45.0,2023,5,11
+Southeast,21.0,2021,6,19
+Southeast,3.0,2020,5,22
+Southeast,,2020,8,7
+Southeast,3.0,2020,5,13
+Southeast,,2024,4,4
+Southeast,,2024,5,19
+Southeast,31.0,2022,1,5
+Southeast,,2024,8,11
+Southeast,45.0,2023,1,20
+Southeast,21.0,2021,2,2
+Southeast,,2024,5,13
+Southeast,,2020,5,6
+Southeast,3.0,2020,12,11
+Southeast,3.0,2020,6,5
+Southeast,,2024,4,7
+Southeast,,2024,1,16
+Southeast,44.0,2023,11,15
+Southeast,45.0,2023,5,3
+Southeast,31.0,2022,8,21
+Southeast,,2024,8,15
+Southeast,,2024,1,17
+Southeast,,2023,4,13
+Southeast,3.0,2020,8,21
+Southeast,49.0,2023,9,2
+Southeast,25.0,2021,8,15
+Southeast,22.0,2021,1,2
+Southeast,49.0,2023,9,9
+Southeast,,2021,3,14
+Southeast,,2020,12,7
+Southeast,21.0,2021,4,11
+Southeast,31.0,2022,9,9
+Southeast,,2020,9,23
+Southeast,,2024,10,17
+Southeast,21.0,2021,2,20
+Southeast,21.0,2021,1,20
+Southeast,50.0,2023,6,6
+Southeast,3.0,2020,8,18
+Southeast,,2023,5,23
+Southeast,,2024,1,14
+Southeast,3.0,2020,12,18
+Southeast,,2024,6,23
+Southeast,3.0,2020,10,1
+Southeast,3.0,2020,4,1
+Southeast,,2023,5,20
+Southeast,49.0,2023,9,23
+Southeast,61.0,2024,1,20
+Southeast,,2024,5,14
+Southeast,31.0,2022,10,1
+Southeast,3.0,2020,3,12
+Southeast,3.0,2020,3,23
+Southeast,21.0,2021,7,10
+Southeast,,2022,4,17
+Southeast,,2020,10,18
+Southeast,,2024,8,7
+Southeast,21.0,2021,8,17
+Southeast,21.0,2021,8,0
+Southeast,,2020,7,9
+Southeast,31.0,2022,7,3
+Southeast,47.0,2023,12,9
+Southeast,3.0,2020,8,23
+Southeast,47.0,2023,4,1
+Midwest,47.0,2023,9,14
+Midwest,47.0,2023,6,19
+Midwest,,2024,1,20
+Midwest,,2024,4,5
+Midwest,31.0,2022,1,5
+Midwest,61.0,2024,4,23
+Midwest,31.0,2022,12,1
+Midwest,,2021,8,10
+Midwest,47.0,2023,6,7
+Midwest,47.0,2023,12,19
+Midwest,,2022,5,16
+Midwest,4.0,2020,8,6
+Midwest,31.0,2022,8,13
+Midwest,21.0,2021,10,7
+Midwest,48.0,2023,12,5
+Midwest,21.0,2021,2,12
+Midwest,,2024,7,17
+Midwest,21.0,2021,12,0
+Midwest,62.0,2024,5,21
+Midwest,3.0,2020,11,23
+Midwest,3.0,2020,6,1
+Midwest,62.0,2024,9,3
+Midwest,,2023,1,8
+Midwest,31.0,2022,5,18
+Midwest,22.0,2021,1,20
+Midwest,,2021,7,0
+Midwest,3.0,2020,12,12
+Midwest,,2024,9,7
+Midwest,22.0,2021,12,7
+Midwest,22.0,2021,8,17
+Midwest,22.0,2021,3,2
+Midwest,48.0,2023,6,18
+Midwest,48.0,2023,1,10
+Midwest,,2020,9,8
+Midwest,31.0,2022,5,21
+Midwest,,2021,6,1
+Midwest,31.0,2022,9,21
+Midwest,,2024,1,10
+Midwest,61.0,2024,6,16
+Midwest,,2024,8,14
+Midwest,48.0,2023,12,21
+Midwest,22.0,2021,2,6
+Midwest,22.0,2021,2,18
+Midwest,3.0,2020,3,18
+Midwest,48.0,2023,5,21
+Midwest,,2024,2,17
+Midwest,60.0,2024,3,19
+Midwest,7.0,2020,5,16
+Midwest,9.0,2020,8,21
+Midwest,12.0,2020,7,19
+Midwest,22.0,2021,9,5
+Midwest,,2023,1,8
+Midwest,13.0,2020,11,0
+Midwest,47.0,2023,9,13
+Midwest,,2024,3,22
+Midwest,13.0,2020,4,7
+Midwest,22.0,2021,4,5
+Midwest,,2022,11,14
+Midwest,,2020,12,15
+Midwest,13.0,2020,6,10
+Midwest,,2024,1,23
+Midwest,22.0,2021,9,0
+Midwest,31.0,2022,1,19
+Midwest,31.0,2022,7,12
+Midwest,22.0,2021,7,1
+Midwest,47.0,2023,7,8
+Midwest,,2021,10,8
+Midwest,,2022,4,11
+Midwest,22.0,2021,10,11
+Midwest,32.0,2022,10,2
+Midwest,22.0,2021,11,20
+Midwest,33.0,2022,5,9
+Midwest,22.0,2021,11,21
+Midwest,,2024,10,23
+Midwest,,2024,2,1
+Midwest,,2020,9,9
+Midwest,13.0,2020,6,0
+Midwest,50.0,2023,9,3
+Midwest,,2022,1,4
+Midwest,,2024,2,5
+Midwest,,2024,4,18
+Midwest,,2022,10,2
+Midwest,33.0,2022,12,12
+Midwest,33.0,2022,7,22
+Midwest,22.0,2021,12,18
+Midwest,50.0,2023,12,14
+Midwest,,2022,2,23
+Midwest,33.0,2022,1,15
+Intermountain,,2024,1,7
+Intermountain,13.0,2020,6,12
+Intermountain,13.0,2020,7,19
+Intermountain,33.0,2022,10,15
+Intermountain,,2024,3,11
+Intermountain,50.0,2023,4,0
+Intermountain,33.0,2022,6,6
+Intermountain,12.0,2020,11,5
+Intermountain,12.0,2020,12,10
+Intermountain,12.0,2020,5,0
+Intermountain,50.0,2023,12,5
+Intermountain,,2021,12,9
+Intermountain,50.0,2023,3,19
+Intermountain,33.0,2022,1,23
+Intermountain,22.0,2021,1,15
+Intermountain,33.0,2022,11,16
+Intermountain,,2020,4,2
+Intermountain,,2024,6,14
+Intermountain,,2020,1,8
+Intermountain,12.0,2020,10,8
+Intermountain,21.0,2021,5,6
+Intermountain,,2024,8,15
+Intermountain,12.0,2020,7,21
+Intermountain,12.0,2020,7,16
+Intermountain,49.0,2023,8,6
+Intermountain,33.0,2022,11,5
+Intermountain,21.0,2021,12,22
+Intermountain,,2024,9,20
+Intermountain,12.0,2020,5,23
+Intermountain,,2024,6,21
+Intermountain,33.0,2022,8,22
+Intermountain,,2023,2,1
+Intermountain,48.0,2023,5,22
+Intermountain,,2024,1,12
+Intermountain,48.0,2023,8,22
+Intermountain,48.0,2023,2,23
+Intermountain,48.0,2023,6,8
+Intermountain,33.0,2022,3,20
+Intermountain,49.0,2023,2,17
+Intermountain,13.0,2020,1,19
+Intermountain,33.0,2022,3,4
+Intermountain,20.0,2021,1,15
+Intermountain,20.0,2021,9,11
+Intermountain,33.0,2022,1,14
+Intermountain,,2024,1,22
+Intermountain,20.0,2021,10,22
+Intermountain,20.0,2021,8,18
+Intermountain,13.0,2020,6,11
+Intermountain,33.0,2022,10,6
+Intermountain,45.0,2023,8,22
+Intermountain,45.0,2023,8,2
+Intermountain,,2021,9,8
+Intermountain,,2020,11,14
+Intermountain,60.0,2024,6,0
+Intermountain,13.0,2020,12,4
+Intermountain,13.0,2020,1,6
+Intermountain,33.0,2022,10,5
+Intermountain,20.0,2021,10,1
+Intermountain,,2020,4,20
+Intermountain,33.0,2022,10,15
+Intermountain,20.0,2021,2,17
+Intermountain,,2024,4,8
+Intermountain,14.0,2020,11,5
+Intermountain,20.0,2021,8,17
+Intermountain,33.0,2022,1,8
+Intermountain,14.0,2020,1,16
+Intermountain,20.0,2021,7,13
+Intermountain,,2024,3,18
+Intermountain,20.0,2021,9,23
+Intermountain,14.0,2020,7,16
+Intermountain,44.0,2023,7,10
+Intermountain,14.0,2020,6,14
+Intermountain,33.0,2022,2,6
+Intermountain,20.0,2021,6,11
+Intermountain,20.0,2021,10,12
+Intermountain,33.0,2022,8,11
+Intermountain,14.0,2020,9,12
+Intermountain,,2024,8,7
+Intermountain,20.0,2021,8,10
+Intermountain,20.0,2021,11,15
+Intermountain,14.0,2020,4,20
+Intermountain,14.0,2020,7,13
+Intermountain,20.0,2021,8,10
+Intermountain,14.0,2020,12,2
+Intermountain,33.0,2022,8,2
+Intermountain,33.0,2022,9,6
+Intermountain,46.0,2023,4,5
+Midwest,14.0,2020,12,3
+Midwest,,2024,6,3
+Midwest,20.0,2021,1,6
+Midwest,20.0,2021,3,11
+Midwest,14.0,2020,1,4
+Midwest,33.0,2022,7,14
+Midwest,21.0,2021,9,23
+Midwest,,2021,10,4
+Midwest,33.0,2022,11,1
+Midwest,61.0,2024,7,19
+Midwest,33.0,2022,3,8
+Midwest,21.0,2021,9,3
+Midwest,,2023,10,19
+Midwest,,2020,4,8
+Midwest,21.0,2021,4,17
+Midwest,45.0,2023,4,23
+Midwest,14.0,2020,12,0
+Midwest,21.0,2021,6,16
+Midwest,,2022,11,7
+Midwest,,2024,10,12
+Midwest,58.0,2024,4,18
+Midwest,21.0,2021,2,1
+Midwest,59.0,2024,5,6
+Midwest,46.0,2023,10,0
+Midwest,34.0,2022,7,9
+Midwest,,2020,8,2
+Midwest,34.0,2022,4,6
+Midwest,59.0,2024,7,4
+Midwest,,2021,1,5
+Midwest,,2024,8,2
+Midwest,10.0,2020,5,6
+Midwest,21.0,2021,3,15
+Midwest,45.0,2023,8,14
+Midwest,34.0,2022,11,16
+Midwest,34.0,2022,4,9
+Midwest,,2024,7,13
+Midwest,33.0,2022,10,22
+Midwest,,2024,3,17
+Midwest,,2023,8,14
+Midwest,10.0,2020,6,18
+Midwest,,2024,2,0
+Midwest,46.0,2023,5,6
+Midwest,,2024,4,1
+Midwest,59.0,2024,7,5
+Midwest,21.0,2021,11,0
+Midwest,21.0,2021,5,20
+Midwest,59.0,2024,4,18
+Midwest,44.0,2023,6,5
+Midwest,33.0,2022,11,17
+Midwest,33.0,2022,11,12
+Midwest,,2021,4,10
+Midwest,33.0,2022,9,18
+Midwest,45.0,2023,5,2
+Midwest,,2022,5,23
+Midwest,33.0,2022,2,10
+Midwest,,2022,8,5
+Midwest,,2024,8,5
+Midwest,,2020,5,20
+Midwest,20.0,2021,2,1
+Midwest,33.0,2022,8,20
+Midwest,20.0,2021,1,17
+Midwest,58.0,2023,11,12
+Midwest,58.0,2023,1,3
+Midwest,,2023,3,11
+Midwest,10.0,2020,1,3
+Midwest,,2024,2,10
+Midwest,10.0,2020,5,15
+Midwest,57.0,2023,11,21
+Midwest,20.0,2021,8,20
+Midwest,57.0,2023,9,14
+Midwest,10.0,2020,8,0
+Midwest,,2024,6,9
+Midwest,21.0,2021,4,5
+Midwest,,2020,7,20
+Midwest,21.0,2021,10,22
+Midwest,10.0,2020,1,15
+Midwest,,2024,8,19
+Midwest,,2024,4,3
+Midwest,33.0,2022,10,14
+Midwest,57.0,2023,1,9
+Midwest,,2024,6,18
+Midwest,,2024,7,22
+Midwest,57.0,2023,8,8
+Midwest,21.0,2021,4,13
+Midwest,33.0,2022,12,7
+Midwest,21.0,2021,7,11
+Midwest,57.0,2023,9,14
+Midwest,33.0,2022,2,17
+Midwest,,2023,11,11
+Midwest,,2020,7,8
+Midwest,58.0,2023,9,8
+Alaska,,2024,5,16
+Alaska,59.0,2024,9,15
+Alaska,21.0,2021,12,10
+Alaska,33.0,2022,10,5
+Alaska,,2024,8,9
+Alaska,22.0,2021,10,22
+Alaska,,2021,10,14
+Alaska,55.0,2023,9,14
+Alaska,55.0,2023,8,6
+Alaska,9.0,2020,11,10
+Alaska,55.0,2023,4,8
+Alaska,33.0,2022,8,16
+Alaska,56.0,2023,1,14
+Alaska,59.0,2024,9,5
+Alaska,,2021,6,18
+Alaska,9.0,2020,6,4
+Alaska,,2021,2,18
+Alaska,33.0,2022,9,14
+Alaska,,2023,2,10
+Alaska,9.0,2020,5,11
+Alaska,9.0,2020,11,2
+Alaska,,2024,4,9
+Alaska,33.0,2022,7,19
+Alaska,9.0,2020,10,17
+Alaska,10.0,2020,4,7
+Alaska,24.0,2021,6,1
+Alaska,24.0,2021,6,9
+Alaska,10.0,2020,12,22
+Alaska,33.0,2022,1,3
+Alaska,56.0,2023,1,4
+Alaska,33.0,2022,4,8
+Alaska,56.0,2023,12,23
+Alaska,10.0,2020,9,3
+Alaska,,2022,3,4
+Alaska,9.0,2020,11,21
+Alaska,57.0,2023,12,21
+Alaska,57.0,2023,6,13
+Alaska,,2024,10,14
+Alaska,,2024,8,17
+Alaska,57.0,2023,1,9
+Alaska,33.0,2022,3,6
+Alaska,,2023,8,1
+Alaska,,2024,5,8
+Alaska,55.0,2023,4,5
+Alaska,,2024,8,9
+Alaska,55.0,2023,9,13
+Alaska,55.0,2023,2,4
+Alaska,33.0,2022,6,16
+Alaska,,2024,6,16
+Alaska,33.0,2022,3,22
+Alaska,,2020,12,16
+Alaska,,2024,5,23
+Alaska,,2024,7,14
+Alaska,9.0,2020,6,4
+Alaska,56.0,2023,5,17
+Alaska,33.0,2022,3,13
+Alaska,,2020,12,17
+Alaska,,2023,9,21
+Alaska,56.0,2023,9,20
+Alaska,,2024,1,2
+Alaska,56.0,2023,9,4
+Alaska,24.0,2021,1,23
+Alaska,,2024,6,14
+Alaska,59.0,2024,3,11
+Alaska,23.0,2021,2,4
+Alaska,,2021,10,18
+Alaska,56.0,2023,3,4
+Alaska,23.0,2021,10,9
+Alaska,60.0,2024,2,4
+Intermountain,23.0,2021,6,1
+Intermountain,58.0,2023,4,19
+Intermountain,,2023,7,15
+Intermountain,12.0,2020,7,19
+Intermountain,12.0,2020,12,3
+Intermountain,,2024,3,20
+Intermountain,33.0,2022,11,2
+Intermountain,58.0,2023,11,18
+Intermountain,,2021,11,10
+Intermountain,32.0,2022,12,6
+Intermountain,,2024,1,16
+Intermountain,,2021,5,8
+Intermountain,57.0,2023,12,7
+Intermountain,,2023,8,2
+Intermountain,,2020,4,14
+Intermountain,24.0,2021,12,22
+Intermountain,,2024,4,6
+Intermountain,12.0,2020,7,6
+Intermountain,32.0,2022,1,17
+Intermountain,,2024,7,8
+Intermountain,32.0,2022,10,4
+Intermountain,12.0,2020,9,10
+Intermountain,57.0,2023,11,14
+Intermountain,24.0,2021,10,14
+Intermountain,57.0,2023,6,1
+Intermountain,57.0,2023,4,8
+Intermountain,24.0,2021,1,17
+Intermountain,57.0,2023,4,19
+Intermountain,24.0,2021,4,19
+Intermountain,12.0,2020,5,13
+Intermountain,12.0,2020,1,20
+Intermountain,57.0,2023,8,23
+Intermountain,25.0,2021,12,16
+Intermountain,12.0,2020,12,13
+Intermountain,25.0,2021,1,6
+Intermountain,58.0,2023,2,3
+Intermountain,58.0,2023,9,1
+Intermountain,,2021,11,13
+Intermountain,,2020,4,15
+Intermountain,,2021,6,10
+Intermountain,55.0,2023,6,5
+Intermountain,,2024,5,3
+Intermountain,,2020,10,17
+Intermountain,52.0,2023,8,3
+Intermountain,12.0,2020,8,18
+Intermountain,12.0,2020,8,8
+Intermountain,12.0,2020,10,17
+Intermountain,52.0,2023,8,22
+Intermountain,,2024,4,13
+Intermountain,12.0,2020,4,21
+Intermountain,12.0,2020,7,4
+Intermountain,60.0,2024,8,11
+Intermountain,25.0,2021,12,6
+Intermountain,25.0,2021,8,3
+Intermountain,11.0,2020,2,16
+Intermountain,,2024,9,5
+Intermountain,,2024,1,7
+Intermountain,,2020,6,4
+Intermountain,25.0,2021,11,1
+Intermountain,25.0,2021,5,2
+Intermountain,25.0,2021,3,12
+Intermountain,25.0,2021,1,3
+Intermountain,25.0,2021,3,13
+Intermountain,24.0,2021,10,9
+Intermountain,52.0,2023,1,10
+Intermountain,11.0,2020,4,17
+Intermountain,24.0,2021,3,3
+Intermountain,32.0,2022,6,8
+Intermountain,,2024,4,1
+Intermountain,52.0,2023,12,10
+Intermountain,32.0,2022,10,14
+Intermountain,52.0,2023,3,20
+Intermountain,,2024,3,2
+Intermountain,24.0,2021,3,14
+Intermountain,24.0,2021,6,22
+Intermountain,32.0,2022,7,9
+Intermountain,32.0,2022,7,15
+Intermountain,,2024,5,0
+Intermountain,,2021,10,1
+Intermountain,,2024,9,7
+Intermountain,11.0,2020,5,11
+Intermountain,32.0,2022,9,9
+Intermountain,,2024,7,20
+Intermountain,,2024,5,20
+Intermountain,,2024,10,23
+Intermountain,11.0,2020,9,1
+Intermountain,,2020,9,4
+Intermountain,11.0,2020,5,2
+Intermountain,24.0,2021,4,16
+Intermountain,24.0,2021,7,11
+Intermountain,52.0,2023,7,0
+Intermountain,11.0,2020,9,21
+Intermountain,52.0,2023,8,20
+Intermountain,32.0,2022,11,23
+Pacific West,52.0,2023,12,0
+Pacific West,,2024,8,17
+Pacific West,11.0,2020,8,16
+Pacific West,,2024,5,2
+Pacific West,52.0,2023,3,13
+Pacific West,32.0,2022,9,20
+Pacific West,24.0,2021,6,11
+Pacific West,,2023,7,22
+Pacific West,11.0,2020,7,16
+Pacific West,,2024,6,1
+Pacific West,,2023,10,6
+Pacific West,32.0,2022,3,10
+Pacific West,,2020,9,4
+Pacific West,51.0,2023,2,19
+Pacific West,,2021,3,12
+Pacific West,32.0,2022,9,17
+Pacific West,,2023,2,8
+Pacific West,,2024,5,22
+Pacific West,51.0,2023,12,3
+Pacific West,,2022,9,5
+Pacific West,23.0,2021,7,9
+Pacific West,32.0,2022,11,0
+Pacific West,23.0,2021,7,4
+Pacific West,,2023,12,9
+Pacific West,50.0,2023,4,15
+Pacific West,,2024,5,20
+Pacific West,32.0,2022,3,20
+Pacific West,,2021,6,23
+Pacific West,32.0,2022,4,0
+Pacific West,61.0,2024,2,14
+Pacific West,51.0,2023,8,12
+Pacific West,51.0,2023,11,3
+Pacific West,32.0,2022,11,4
+Pacific West,11.0,2020,4,15
+Pacific West,,2023,3,0
+Pacific West,23.0,2021,2,19
+Pacific West,,2024,2,14
+Pacific West,,2024,5,13
+Pacific West,23.0,2021,2,21
+Pacific West,32.0,2022,8,15
+Pacific West,,2024,9,5
+Pacific West,52.0,2023,7,17
+Pacific West,23.0,2021,7,9
+Pacific West,52.0,2023,7,16
+Pacific West,52.0,2023,11,23
+Pacific West,,2020,8,7
+Pacific West,32.0,2022,9,17
+Pacific West,62.0,2024,6,3
+Pacific West,32.0,2022,1,21
+Pacific West,12.0,2020,4,4
+Pacific West,33.0,2022,5,2
+Pacific West,33.0,2022,3,6
+Pacific West,33.0,2022,5,16
+Pacific West,,2020,3,21
+Pacific West,23.0,2021,10,15
+Pacific West,51.0,2023,1,23
+Pacific West,33.0,2022,9,8
+Pacific West,12.0,2020,2,21
+Pacific West,,2024,8,2
+Pacific West,12.0,2020,6,0
+Pacific West,23.0,2021,10,12
+Pacific West,22.0,2021,3,23
+Pacific West,61.0,2024,8,17
+Pacific West,22.0,2021,1,18
+Pacific West,51.0,2023,10,6
+Pacific West,53.0,2023,7,16
+Pacific West,54.0,2023,3,7
+Pacific West,22.0,2021,5,15
+Pacific West,33.0,2022,11,13
+Pacific West,9.0,2020,4,13
+Pacific West,22.0,2021,11,9
+Pacific West,,2020,10,12
+Pacific West,54.0,2023,10,23
+Pacific West,,2020,1,21
+Pacific West,61.0,2024,2,5
+Pacific West,22.0,2021,2,20
+Pacific West,,2024,1,8
+Intermountain,54.0,2023,12,22
+Intermountain,22.0,2021,8,0
+Intermountain,9.0,2020,7,15
+Intermountain,54.0,2023,5,17
+Intermountain,9.0,2020,7,20
+Intermountain,22.0,2021,2,0
+Intermountain,54.0,2023,9,17
+Intermountain,,2024,10,9
+Intermountain,10.0,2020,4,8
+Intermountain,22.0,2021,5,14
+Intermountain,,2024,9,7
+Intermountain,,2024,8,12
+Intermountain,33.0,2022,2,7
+Intermountain,33.0,2022,6,13
+Intermountain,,2024,2,19
+Intermountain,,2021,1,6
+Intermountain,,2023,1,6
+Intermountain,10.0,2020,7,13
+Intermountain,33.0,2022,10,5
+Intermountain,55.0,2023,4,23
+Intermountain,,2024,4,8
+Intermountain,,2022,7,12
+Intermountain,,2024,4,5
+Intermountain,55.0,2023,11,14
+Intermountain,55.0,2023,12,3
+Intermountain,,2023,8,18
+Intermountain,,2024,6,7
+Intermountain,55.0,2023,9,13
+Intermountain,59.0,2024,5,9
+Intermountain,,2024,9,13
+Intermountain,,2021,3,23
+Intermountain,,2021,10,23
+Intermountain,23.0,2021,9,2
+Intermountain,33.0,2022,10,19
+Intermountain,14.0,2020,7,16
+Intermountain,23.0,2021,7,5
+Intermountain,33.0,2022,4,8
+Intermountain,,2022,10,17
+Intermountain,23.0,2021,11,14
+Intermountain,23.0,2021,3,13
+Intermountain,23.0,2021,5,12
+Intermountain,15.0,2020,2,23
+Intermountain,14.0,2020,2,10
+Intermountain,53.0,2023,10,15
+Intermountain,,2024,6,23
+Intermountain,33.0,2022,10,4
+Intermountain,,2024,9,23
+Intermountain,,2022,4,19
+Intermountain,14.0,2020,8,12
+Intermountain,,2022,3,23
+Intermountain,23.0,2021,9,5
+Intermountain,,2021,12,23
+Intermountain,,2022,4,7
+Intermountain,13.0,2020,2,17
+Intermountain,33.0,2022,6,6
+Intermountain,23.0,2021,1,11
+Intermountain,53.0,2023,8,11
+Intermountain,23.0,2021,4,18
+Intermountain,12.0,2020,9,21
+Intermountain,33.0,2022,2,6
+Intermountain,,2024,9,21
+Intermountain,33.0,2022,6,21
+Intermountain,33.0,2022,4,3
+Intermountain,53.0,2023,3,19
+Intermountain,12.0,2020,2,11
+Intermountain,,2024,3,14
+Intermountain,12.0,2020,1,14
+Intermountain,23.0,2021,8,11
+Intermountain,13.0,2020,5,14
+Intermountain,23.0,2021,10,23
+Intermountain,33.0,2022,2,8
+Intermountain,,2024,4,18
+Intermountain,54.0,2023,6,18
+Intermountain,,2024,7,5
+Intermountain,,2023,4,18
+Intermountain,33.0,2022,9,14
+Intermountain,,2023,12,4
+Intermountain,53.0,2023,8,6
+Intermountain,33.0,2022,11,3
+Intermountain,,2022,6,22
+Intermountain,58.0,2024,4,6
+Intermountain,13.0,2020,4,16
+Intermountain,23.0,2021,12,11
+Intermountain,33.0,2022,8,15
+Intermountain,13.0,2020,9,15
+Intermountain,23.0,2021,2,9
+Intermountain,33.0,2022,7,1
+Intermountain,42.0,2022,1,14
+Intermountain,,2024,1,2
